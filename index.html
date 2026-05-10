@@ -426,6 +426,7 @@ html, body {
   transition: transform 0.5s;
 }
 .flashcard.flipped { transform: rotateY(180deg); }
+.flashcard.no-transition { transition: none; }
 .flashcard-face {
   position: absolute;
   width: 100%;
@@ -730,6 +731,7 @@ const App = {
     const sessionCorrect = ref(0);
     const sessionWrong = ref(0);
     const flipped = ref(false);
+    const noFlipTransition = ref(false);
     const awaitingNext = ref(false);
     const feedback = ref(null);
     const choiceAnswered = ref(null);
@@ -839,15 +841,21 @@ const App = {
           return;
         }
       }
+      noFlipTransition.value = true;
+      flipped.value = false;
       questions.value = buildQuestions();
       currentIdx.value = 0;
       sessionCorrect.value = 0;
       sessionWrong.value = 0;
-      flipped.value = false;
       feedback.value = null;
       choiceAnswered.value = null;
       awaitingNext.value = false;
       screen.value = 'quiz';
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          noFlipTransition.value = false;
+        });
+      });
     };
     
     const goToSetup = () => { screen.value = 'setup'; useMistakes.value = false; };
@@ -919,23 +927,37 @@ const App = {
         screen.value = 'end';
         return;
       }
-      currentIdx.value++;
+      // Animatsiyasiz kartochkani frontga qaytaramiz
+      noFlipTransition.value = true;
       flipped.value = false;
-      feedback.value = null;
-      choiceAnswered.value = null;
-      awaitingNext.value = false;
+      // Keyingi tickda animatsiyani qayta yoqamiz, savolni almashtiramiz
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          noFlipTransition.value = false;
+          currentIdx.value++;
+          feedback.value = null;
+          choiceAnswered.value = null;
+          awaitingNext.value = false;
+        });
+      });
     };
     
     const restartSession = () => {
+      noFlipTransition.value = true;
+      flipped.value = false;
       questions.value = buildQuestions();
       currentIdx.value = 0;
       sessionCorrect.value = 0;
       sessionWrong.value = 0;
-      flipped.value = false;
       feedback.value = null;
       choiceAnswered.value = null;
       awaitingNext.value = false;
       screen.value = 'quiz';
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          noFlipTransition.value = false;
+        });
+      });
     };
     
     const resetStats = () => {
@@ -987,7 +1009,7 @@ const App = {
       screen, totalCorrect, totalWrong, mistakes, mistakesCount,
       mode, direction, selectedLessons, count, useMistakes,
       questions, currentIdx, sessionCorrect, sessionWrong,
-      flipped, awaitingNext, feedback, choiceAnswered,
+      flipped, noFlipTransition, awaitingNext, feedback, choiceAnswered,
       currentQuestion, progressPct, browseLessonNum,
       // data
       VOCAB, allWords,
@@ -1203,7 +1225,7 @@ const App = {
         <template v-if="currentQuestion.mode === 'flashcard'">
           <div class="lesson-tag">Dars {{ currentQuestion.word.lesson }}: {{ currentQuestion.word.lessonTitle }}</div>
           <div class="flashcard-wrap">
-            <div class="flashcard" :class="{ flipped }" @click="flipCard">
+            <div class="flashcard" :class="{ flipped, 'no-transition': noFlipTransition }" @click="flipCard">
               <div class="flashcard-face">
                 <template v-if="currentQuestion.direction === 'ar2uz'">
                   <div class="card-prompt-label">Arabcha so'z</div>
