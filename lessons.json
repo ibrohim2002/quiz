@@ -1,0 +1,2316 @@
+[
+  {
+    "number": 1,
+    "titleAr": "التَّحِيَّةُ وَالتَّعَارُفُ",
+    "titleUz": "Salomlashish va tanishish",
+    "words": [
+      {
+        "ar": "السَّلَامُ عَلَيْكُمْ",
+        "tr": "as-salaamu 'alaykum",
+        "uz": "Sizga salom bo'lsin (assalomu alaykum)",
+        "ex": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ"
+      },
+      {
+        "ar": "وَعَلَيْكُمُ السَّلَام",
+        "tr": "wa 'alaykumu-s-salaam",
+        "uz": "Sizga ham salom (va alaykum assalom)",
+        "ex": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ"
+      },
+      {
+        "ar": "رَحْمَة",
+        "tr": "rahmah",
+        "uz": "Rahmat, marhamat",
+        "ex": "رَحْمَةُ اللهِ وَبَرَكَاتُهُ"
+      },
+      {
+        "ar": "بَرَكَات",
+        "tr": "barakaat",
+        "uz": "Barakalar",
+        "ex": "وَبَرَكَاتُهُ"
+      },
+      {
+        "ar": "صَبَاحُ الخَيْرِ",
+        "tr": "sabaahu-l-khayr",
+        "uz": "Hayrli tong (xayrli ertalab)",
+        "ex": "صَبَاحُ الخَيْرِ يَا فَاطِمَة"
+      },
+      {
+        "ar": "صَبَاحُ النُّورِ",
+        "tr": "sabaahu-n-nuur",
+        "uz": "Nurli tong (javob)",
+        "ex": "صَبَاحُ النُّورِ يَا مَرْيَم"
+      },
+      {
+        "ar": "مَسَاءُ الخَيْرِ",
+        "tr": "masaa'u-l-khayr",
+        "uz": "Xayrli kech",
+        "ex": "مَسَاءُ الخَيْرِ يَا هِنْد"
+      },
+      {
+        "ar": "كَيْفَ حَالُكَ",
+        "tr": "kayfa haaluka",
+        "uz": "Ahvoling qalay?",
+        "ex": "كَيْفَ حَالُكَ يَا عَلِيّ؟"
+      },
+      {
+        "ar": "بِخَيْر",
+        "tr": "bi-khayr",
+        "uz": "Yaxshi",
+        "ex": "أَنَا بِخَيْرٍ"
+      },
+      {
+        "ar": "الحَمْدُ للهِ",
+        "tr": "al-hamdu lillaah",
+        "uz": "Allohga hamd (yaxshilik bildirish)",
+        "ex": "أَنَا بِخَيْرٍ وَالحَمْدُ للهِ"
+      },
+      {
+        "ar": "أَيْضًا",
+        "tr": "aydan",
+        "uz": "Ham, shuningdek",
+        "ex": "أَنَا بِخَيْرٍ أَيْضًا"
+      },
+      {
+        "ar": "اِسْم",
+        "tr": "ism",
+        "uz": "Ism",
+        "ex": "مَا اسْمُكَ؟"
+      },
+      {
+        "ar": "مَا اسْمُكَ",
+        "tr": "mas-muka",
+        "uz": "Isming nima?",
+        "ex": "مَا اسْمُكَ يَا أَخِي؟"
+      },
+      {
+        "ar": "جِنْسِيَّة",
+        "tr": "jinsiyyah",
+        "uz": "Fuqarolik, milliylik",
+        "ex": "مَا جِنْسِيَّتُكَ؟"
+      },
+      {
+        "ar": "تَشَرَّفْتُ بِلِقَائِكَ",
+        "tr": "tasharraftu bi-liqaa'ika",
+        "uz": "Siz bilan tanishganimdan xursandman",
+        "ex": "تَشَرَّفْتُ بِلِقَائِكَ"
+      },
+      {
+        "ar": "مَسْرُور",
+        "tr": "masruur",
+        "uz": "Xursand",
+        "ex": "أَنَا مَسْرُور"
+      },
+      {
+        "ar": "لِقَاء",
+        "tr": "liqaa'",
+        "uz": "Uchrashuv",
+        "ex": "إِلَى اللِّقَاءِ"
+      },
+      {
+        "ar": "إِلَى اللِّقَاءِ",
+        "tr": "ilaa-l-liqaa'",
+        "uz": "Ko'rishguncha",
+        "ex": "إِلَى اللِّقَاءِ يَا أَخِي"
+      },
+      {
+        "ar": "مَعَ السَّلَامَة",
+        "tr": "ma'a-s-salaamah",
+        "uz": "Xayr, omon bo'ling",
+        "ex": "مَعَ السَّلَامَة"
+      },
+      {
+        "ar": "فِي أَمَانِ اللهِ",
+        "tr": "fii amaani-llaah",
+        "uz": "Alloh panohida bo'ling",
+        "ex": "فِي أَمَانِ اللهِ"
+      },
+      {
+        "ar": "أَهْلًا وَسَهْلًا",
+        "tr": "ahlan wa sahlan",
+        "uz": "Xush kelibsiz",
+        "ex": "أَهْلًا وَسَهْلًا بِكَ"
+      },
+      {
+        "ar": "مِنْ",
+        "tr": "min",
+        "uz": "...dan",
+        "ex": "أَنَا مِنْ إِنْدُونِيسِيَا"
+      },
+      {
+        "ar": "مِنْ أَيْنَ أَنْتَ",
+        "tr": "min ayna anta",
+        "uz": "Qayerdansiz?",
+        "ex": "مِنْ أَيْنَ أَنْتَ؟"
+      },
+      {
+        "ar": "أَيْنَ",
+        "tr": "ayna",
+        "uz": "Qayerda",
+        "ex": "أَيْنَ تَسْكُنُ؟"
+      },
+      {
+        "ar": "أَسْكُنُ",
+        "tr": "askunu",
+        "uz": "Men yashayman",
+        "ex": "أَسْكُنُ فِي جَاكَرْتَا"
+      },
+      {
+        "ar": "تَسْكُنُ",
+        "tr": "taskunu",
+        "uz": "Sen yashaysan",
+        "ex": "أَيْنَ تَسْكُنُ؟"
+      },
+      {
+        "ar": "فِي",
+        "tr": "fii",
+        "uz": "...da, ichida",
+        "ex": "أَسْكُنُ فِي جَاكَرْتَا"
+      },
+      {
+        "ar": "يَا",
+        "tr": "yaa",
+        "uz": "Ey, hoy (chaqirish)",
+        "ex": "يَا فَاطِمَة"
+      },
+      {
+        "ar": "زَمِيل",
+        "tr": "zamiil",
+        "uz": "Sinfdosh, hamkasb",
+        "ex": "يَا زَمِيلِي"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "titleAr": "الْحِوَارُ فِي الْفَصْلِ",
+    "titleUz": "Sinfdagi suhbat",
+    "words": [
+      {
+        "ar": "ذَاتَ يَوْمٍ",
+        "tr": "dhaata yawmin",
+        "uz": "Bir kuni",
+        "ex": "ذَاتَ يَوْمٍ شَرَحَ المُدَرِّسُ الدَّرْسَ"
+      },
+      {
+        "ar": "شَرَحَ",
+        "tr": "sharaha",
+        "uz": "Tushuntirdi (o'tgan zamon, muzakkar)",
+        "ex": "شَرَحَ المُدَرِّسُ الدَّرْسَ"
+      },
+      {
+        "ar": "مُدَرِّس",
+        "tr": "mudarris",
+        "uz": "O'qituvchi",
+        "ex": "شَرَحَ المُدَرِّسُ"
+      },
+      {
+        "ar": "دَرْس",
+        "tr": "dars",
+        "uz": "Dars",
+        "ex": "هذَا دَرْسُنَا اليَوْمَ"
+      },
+      {
+        "ar": "البَلَاغَة",
+        "tr": "al-balaaghah",
+        "uz": "Balog'at ilmi (notiqlik)",
+        "ex": "شَرَحَ دَرْسَ البَلَاغَةِ"
+      },
+      {
+        "ar": "بِحَمَاسَة",
+        "tr": "bi-hamaasah",
+        "uz": "Ishtiyoq bilan",
+        "ex": "شَرَحَ بِحَمَاسَةٍ"
+      },
+      {
+        "ar": "كَانَ",
+        "tr": "kaana",
+        "uz": "Edi (o'tgan zamon to'liq fe'li)",
+        "ex": "وَكَانَ الدَّرْسُ صَعْبًا"
+      },
+      {
+        "ar": "صَعْب",
+        "tr": "sa'b",
+        "uz": "Qiyin",
+        "ex": "الدَّرْسُ صَعْبٌ"
+      },
+      {
+        "ar": "سَهْل",
+        "tr": "sahl",
+        "uz": "Oson",
+        "ex": "الدَّرْسُ سَهْلٌ"
+      },
+      {
+        "ar": "شَرَعَ",
+        "tr": "shara'a",
+        "uz": "Boshladi",
+        "ex": "شَرَعَ المُدَرِّسُ يَفْتَحُ"
+      },
+      {
+        "ar": "يَفْتَحُ",
+        "tr": "yaftahu",
+        "uz": "Ochadi",
+        "ex": "يَفْتَحُ بَابَ الأَسْئِلَةِ"
+      },
+      {
+        "ar": "بَاب",
+        "tr": "baab",
+        "uz": "Eshik",
+        "ex": "بَابُ البَيْتِ"
+      },
+      {
+        "ar": "سُؤَال",
+        "tr": "su'aal",
+        "uz": "Savol",
+        "ex": "أُرِيدُ سُؤَالًا"
+      },
+      {
+        "ar": "أَسْئِلَة",
+        "tr": "as'ilah",
+        "uz": "Savollar (ko'plik)",
+        "ex": "أَجِبْ عَنِ الأَسْئِلَةِ"
+      },
+      {
+        "ar": "هَذَا",
+        "tr": "haadhaa",
+        "uz": "Bu (muzakkar)",
+        "ex": "هذَا دَرْسُنَا"
+      },
+      {
+        "ar": "هَذِهِ",
+        "tr": "haadhihi",
+        "uz": "Bu (muannas)",
+        "ex": "هذِهِ غُرْفَتِي"
+      },
+      {
+        "ar": "اليَوْم",
+        "tr": "al-yawm",
+        "uz": "Bugun, kun",
+        "ex": "هذَا دَرْسُنَا اليَوْمَ"
+      },
+      {
+        "ar": "هَلْ",
+        "tr": "hal",
+        "uz": "...mi? (so'roq yuklamasi)",
+        "ex": "هَلْ فَهِمْتُمْ؟"
+      },
+      {
+        "ar": "فَهِمَ",
+        "tr": "fahima",
+        "uz": "Tushundi",
+        "ex": "هَلْ فَهِمَ الطُّلَّابُ الدَّرْسَ؟"
+      },
+      {
+        "ar": "مِنْ فَضْلِكَ",
+        "tr": "min fadlika",
+        "uz": "Iltimos",
+        "ex": "مِنْ فَضْلِكَ كَرِّرْ"
+      },
+      {
+        "ar": "كَرِّرْ",
+        "tr": "karrir",
+        "uz": "Takrorla (buyruq)",
+        "ex": "كَرِّرْ مَرَّةً ثَانِيَةً"
+      },
+      {
+        "ar": "مَرَّة",
+        "tr": "marrah",
+        "uz": "Marta",
+        "ex": "مَرَّةً ثَانِيَةً"
+      },
+      {
+        "ar": "طَالِب",
+        "tr": "taalib",
+        "uz": "Talaba",
+        "ex": "عُثْمَانُ طَالِبٌ"
+      },
+      {
+        "ar": "طُلَّاب",
+        "tr": "tullaab",
+        "uz": "Talabalar (ko'plik)",
+        "ex": "هَلْ فَهِمَ الطُّلَّابُ؟"
+      },
+      {
+        "ar": "نَشِيط",
+        "tr": "nashiit",
+        "uz": "Tirishqoq, harakatchan",
+        "ex": "الطَّالِبُ نَشِيطٌ"
+      },
+      {
+        "ar": "مُسْلِم",
+        "tr": "muslim",
+        "uz": "Musulmon",
+        "ex": "هُوَ مُسْلِمٌ"
+      },
+      {
+        "ar": "أُسْتَاذ",
+        "tr": "ustaadh",
+        "uz": "Ustoz, professor",
+        "ex": "أَسْتَأْذِنُكَ يَا أُسْتَاذ"
+      },
+      {
+        "ar": "تَفَضَّلْ",
+        "tr": "tafaddal",
+        "uz": "Marhamat (buyruq)",
+        "ex": "تَفَضَّلْ يَا أَخِي"
+      },
+      {
+        "ar": "ثُمَّ",
+        "tr": "thumma",
+        "uz": "Keyin, so'ng",
+        "ex": "ثُمَّ دَخَلَ مَحْمُود"
+      },
+      {
+        "ar": "دَخَلَ",
+        "tr": "dakhala",
+        "uz": "Kirdi",
+        "ex": "دَخَلَ مَحْمُودٌ الفَصْلَ"
+      },
+      {
+        "ar": "لِمَاذَا",
+        "tr": "li-maadhaa",
+        "uz": "Nima uchun",
+        "ex": "لِمَاذَا تَأَخَّرْتَ؟"
+      },
+      {
+        "ar": "تَأَخَّرَ",
+        "tr": "ta'akhkhara",
+        "uz": "Kechikdi",
+        "ex": "تَأَخَّرَ اليَوْمَ"
+      },
+      {
+        "ar": "طَرِيق",
+        "tr": "tariiq",
+        "uz": "Yo'l",
+        "ex": "الطَّرِيقُ مُزْدَحِم"
+      },
+      {
+        "ar": "مُزْدَحِم",
+        "tr": "muzdahim",
+        "uz": "Tirband, gavjum",
+        "ex": "الطَّرِيقُ مُزْدَحِمٌ"
+      },
+      {
+        "ar": "عَفْوًا",
+        "tr": "'afwan",
+        "uz": "Kechirasiz / arzimaydi",
+        "ex": "عَفْوًا يَا أُسْتَاذ"
+      },
+      {
+        "ar": "أَسْتَأْذِنُكَ",
+        "tr": "asta'dhinuka",
+        "uz": "Sizdan ruxsat so'rayman",
+        "ex": "أَسْتَأْذِنُكَ يَا أُسْتَاذ"
+      },
+      {
+        "ar": "أُرِيدُ",
+        "tr": "uriidu",
+        "uz": "Xohlayman, istayman",
+        "ex": "أُرِيدُ أَنْ أَذْهَبَ"
+      },
+      {
+        "ar": "أَنْ",
+        "tr": "an",
+        "uz": "...moq (masdar yuklamasi)",
+        "ex": "أُرِيدُ أَنْ أَذْهَبَ"
+      },
+      {
+        "ar": "أَذْهَبَ",
+        "tr": "adhhaba",
+        "uz": "Borishim",
+        "ex": "أُرِيدُ أَنْ أَذْهَبَ إِلَى المَدْرَسَةِ"
+      },
+      {
+        "ar": "إِلَى",
+        "tr": "ilaa",
+        "uz": "...ga, tomon",
+        "ex": "إِلَى الحَمَّامِ"
+      },
+      {
+        "ar": "الحَمَّام",
+        "tr": "al-hammaam",
+        "uz": "Hojatxona, hammom",
+        "ex": "إِلَى الحَمَّامِ"
+      },
+      {
+        "ar": "عِنْدَ",
+        "tr": "'inda",
+        "uz": "...da (egalik bildiruvchi)",
+        "ex": "هَلْ عِنْدَكَ كِتَابٌ؟"
+      },
+      {
+        "ar": "وَاجِب",
+        "tr": "waajib",
+        "uz": "Vazifa, majburiyat",
+        "ex": "وَاجِبٌ مَنْزِلِيٌّ"
+      },
+      {
+        "ar": "مَنْزِل",
+        "tr": "manzil",
+        "uz": "Uy",
+        "ex": "وَاجِبٌ مَنْزِلِيٌّ"
+      },
+      {
+        "ar": "وَاجِب مَنْزِلِيّ",
+        "tr": "waajib manziliyy",
+        "uz": "Uy vazifasi",
+        "ex": "هَلْ يُوجَدُ وَاجِبٌ مَنْزِلِيٌّ؟"
+      },
+      {
+        "ar": "نَعَمْ",
+        "tr": "na'am",
+        "uz": "Ha",
+        "ex": "نَعَمْ، هذَا بَيْتِي"
+      },
+      {
+        "ar": "لَا",
+        "tr": "laa",
+        "uz": "Yo'q",
+        "ex": "لَا، ذَلِكَ بَيْتُ عَمِّي"
+      },
+      {
+        "ar": "يُوجَدُ",
+        "tr": "yuujadu",
+        "uz": "Mavjud, bor",
+        "ex": "هَلْ يُوجَدُ وَاجِبٌ؟"
+      },
+      {
+        "ar": "أَجَابَ",
+        "tr": "ajaaba",
+        "uz": "Javob berdi",
+        "ex": "أَجَابَهُ المُدَرِّسُ"
+      },
+      {
+        "ar": "كِتَاب",
+        "tr": "kitaab",
+        "uz": "Kitob",
+        "ex": "فِي كِتَابِ التَّدْرِيبَاتِ"
+      },
+      {
+        "ar": "تَدْرِيب",
+        "tr": "tadriib",
+        "uz": "Mashq",
+        "ex": "التَّدْرِيبُ الأَوَّل"
+      },
+      {
+        "ar": "لِأَنَّ",
+        "tr": "li-anna",
+        "uz": "Chunki",
+        "ex": "لِأَنَّ الطَّرِيقَ مُزْدَحِمٌ"
+      },
+      {
+        "ar": "مَطَر",
+        "tr": "matar",
+        "uz": "Yomg'ir",
+        "ex": "المَطَرُ غَزِيرٌ"
+      },
+      {
+        "ar": "غَزِير",
+        "tr": "ghaziir",
+        "uz": "Kuchli (yomg'ir, sel haqida)",
+        "ex": "المَطَرُ غَزِيرٌ"
+      },
+      {
+        "ar": "إِطَار",
+        "tr": "itaar",
+        "uz": "Shina (g'ildirakniki)",
+        "ex": "الإِطَارُ مَثْقُوبٌ"
+      },
+      {
+        "ar": "مَثْقُوب",
+        "tr": "mathquub",
+        "uz": "Teshik",
+        "ex": "الإِطَارُ مَثْقُوبٌ"
+      },
+      {
+        "ar": "دَرَّاجَة",
+        "tr": "darraajah",
+        "uz": "Velosiped",
+        "ex": "الدَّرَّاجَةُ مُعَطَّلَةٌ"
+      },
+      {
+        "ar": "مُعَطَّل",
+        "tr": "mu'attal",
+        "uz": "Buzilgan, ishlamayotgan",
+        "ex": "الدَّرَّاجَةُ مُعَطَّلَةٌ"
+      },
+      {
+        "ar": "أَشْغَال",
+        "tr": "ashghaal",
+        "uz": "Ishlar, tashvishlar (ko'plik)",
+        "ex": "الأَشْغَالُ كَثِيرَةٌ"
+      },
+      {
+        "ar": "كَثِير",
+        "tr": "kathiir",
+        "uz": "Ko'p",
+        "ex": "كِتَابٌ كَثِيرٌ"
+      },
+      {
+        "ar": "قَلِيل",
+        "tr": "qaliil",
+        "uz": "Oz, kam",
+        "ex": "السُّكَّرُ قَلِيلٌ"
+      },
+      {
+        "ar": "فَصْل",
+        "tr": "fasl",
+        "uz": "Sinf, bo'lim",
+        "ex": "هذَا فَصْلُنَا"
+      },
+      {
+        "ar": "مَكْتَب",
+        "tr": "maktab",
+        "uz": "Stol, ish stoli",
+        "ex": "هذَا مَكْتَبٌ"
+      },
+      {
+        "ar": "مَكْتَبَة",
+        "tr": "maktabah",
+        "uz": "Kutubxona",
+        "ex": "هذِهِ مَكْتَبَةٌ"
+      },
+      {
+        "ar": "كُرْسِيّ",
+        "tr": "kursiyy",
+        "uz": "Stul",
+        "ex": "هذَا كُرْسِيّ"
+      },
+      {
+        "ar": "سَبُّورَة",
+        "tr": "sabbuurah",
+        "uz": "Yozuv taxtasi",
+        "ex": "هذِهِ سَبُّورَةٌ"
+      },
+      {
+        "ar": "كُرَّاسَة",
+        "tr": "kurraasah",
+        "uz": "Daftar",
+        "ex": "هذِهِ كُرَّاسَةٌ"
+      },
+      {
+        "ar": "حَقِيبَة",
+        "tr": "haqiibah",
+        "uz": "Sumka, portfel",
+        "ex": "هذِهِ حَقِيبَتِي"
+      },
+      {
+        "ar": "مِكْنَسَة",
+        "tr": "miknasah",
+        "uz": "Supurgi",
+        "ex": "مِكْنَسَةٌ جَدِيدَةٌ"
+      },
+      {
+        "ar": "قَلَمُ الرَّصَاص",
+        "tr": "qalamu-r-rasaas",
+        "uz": "Oddiy qalam",
+        "ex": "قَلَمُ الرَّصَاصِ"
+      },
+      {
+        "ar": "قَلَم",
+        "tr": "qalam",
+        "uz": "Ruchka, qalam",
+        "ex": "هذَا قَلَمِي"
+      },
+      {
+        "ar": "قَلَمُ الحِبْر",
+        "tr": "qalamu-l-hibr",
+        "uz": "Markazli ruchka",
+        "ex": "قَلَمُ الحِبْر"
+      },
+      {
+        "ar": "مِمْحَاة",
+        "tr": "mimhaah",
+        "uz": "O'chirgich",
+        "ex": "هذِهِ مِمْحَاةٌ"
+      },
+      {
+        "ar": "مِسْطَرَة",
+        "tr": "mistarah",
+        "uz": "Chizg'ich",
+        "ex": "هذِهِ مِسْطَرَتِي"
+      },
+      {
+        "ar": "سَاعَة",
+        "tr": "saa'ah",
+        "uz": "Soat",
+        "ex": "هذِهِ سَاعَةٌ"
+      },
+      {
+        "ar": "مَزْبَلَة",
+        "tr": "mazbalah",
+        "uz": "Axlat qutisi",
+        "ex": "مَزْبَلَةٌ صَغِيرَةٌ"
+      },
+      {
+        "ar": "مِمْسَحَة",
+        "tr": "mimsahah",
+        "uz": "Latta, supurgich",
+        "ex": "مِمْسَحَةٌ جَدِيدَةٌ"
+      },
+      {
+        "ar": "فُوطَة",
+        "tr": "fuutah",
+        "uz": "Sochiq",
+        "ex": "فُوطَةٌ نَظِيفَةٌ"
+      },
+      {
+        "ar": "كَشْفُ الحُضُور",
+        "tr": "kashfu-l-hudhuur",
+        "uz": "Yo'qlama daftari",
+        "ex": "كَشْفُ الحُضُور"
+      },
+      {
+        "ar": "شُكْرًا",
+        "tr": "shukran",
+        "uz": "Rahmat",
+        "ex": "شُكْرًا لَكُمْ"
+      },
+      {
+        "ar": "جَامِعَة",
+        "tr": "jaami'ah",
+        "uz": "Universitet",
+        "ex": "أَذْهَبُ إِلَى الجَامِعَةِ"
+      },
+      {
+        "ar": "مَدْرَسَة",
+        "tr": "madrasah",
+        "uz": "Maktab",
+        "ex": "هذِهِ مَدْرَسَتِي"
+      },
+      {
+        "ar": "بَيْت",
+        "tr": "bayt",
+        "uz": "Uy",
+        "ex": "هذَا بَيْتِي"
+      },
+      {
+        "ar": "مَرْكَز",
+        "tr": "markaz",
+        "uz": "Markaz",
+        "ex": "مَرْكَزُ اللُّغَةِ"
+      },
+      {
+        "ar": "لُغَة",
+        "tr": "lughah",
+        "uz": "Til",
+        "ex": "اللُّغَةُ العَرَبِيَّةُ"
+      },
+      {
+        "ar": "يَدْرُسُ",
+        "tr": "yadrusu",
+        "uz": "O'qiydi",
+        "ex": "يَدْرُسُ اللُّغَةَ العَرَبِيَّةَ"
+      },
+      {
+        "ar": "يَذْهَبُ",
+        "tr": "yadhhabu",
+        "uz": "Boradi",
+        "ex": "يَذْهَبُ إِلَى المَرْكَزِ"
+      },
+      {
+        "ar": "يَعُودُ",
+        "tr": "ya'uudu",
+        "uz": "Qaytadi",
+        "ex": "يَعُودُ إِلَى البَيْتِ"
+      },
+      {
+        "ar": "يَسْكُنُ",
+        "tr": "yaskunu",
+        "uz": "Yashaydi",
+        "ex": "يَسْكُنُ فِي جَاكَرْتَا"
+      },
+      {
+        "ar": "صَبَاحًا",
+        "tr": "sabaahan",
+        "uz": "Ertalab",
+        "ex": "يَذْهَبُ صَبَاحًا"
+      },
+      {
+        "ar": "مَسَاءً",
+        "tr": "masaa'an",
+        "uz": "Kechqurun",
+        "ex": "يَعُودُ مَسَاءً"
+      },
+      {
+        "ar": "سَكَن",
+        "tr": "sakan",
+        "uz": "Yotoqxona, turar joy",
+        "ex": "إِلَى السَّكَنِ"
+      },
+      {
+        "ar": "مُذَكَّر",
+        "tr": "mudhakkar",
+        "uz": "Muzakkar (grammatik erkak)",
+        "ex": "حَوِّلْ مِنَ المُذَكَّرِ"
+      },
+      {
+        "ar": "مُؤَنَّث",
+        "tr": "mu'annath",
+        "uz": "Muannas (grammatik ayol)",
+        "ex": "إِلَى المُؤَنَّثِ"
+      },
+      {
+        "ar": "إِجَابَة",
+        "tr": "ijaabah",
+        "uz": "Javob",
+        "ex": "الإِجَابَةُ صَعْبَةٌ"
+      },
+      {
+        "ar": "مَدِينَة",
+        "tr": "madiinah",
+        "uz": "Shahar",
+        "ex": "هذِهِ المَدِينَةُ كَبِيرَةٌ"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "titleAr": "هَذَا بَيْتِي",
+    "titleUz": "Bu mening uyim",
+    "words": [
+      {
+        "ar": "جَمِيل",
+        "tr": "jamiil",
+        "uz": "Chiroyli",
+        "ex": "بَيْتِي جَمِيلٌ"
+      },
+      {
+        "ar": "كَبِير",
+        "tr": "kabiir",
+        "uz": "Katta",
+        "ex": "بَيْتُكَ كَبِيرٌ"
+      },
+      {
+        "ar": "صَغِير",
+        "tr": "saghiir",
+        "uz": "Kichik",
+        "ex": "بَيْتٌ صَغِيرٌ"
+      },
+      {
+        "ar": "وَاسِع",
+        "tr": "waasi'",
+        "uz": "Keng",
+        "ex": "بَيْتُهُ وَاسِعٌ"
+      },
+      {
+        "ar": "جَدِيد",
+        "tr": "jadiid",
+        "uz": "Yangi",
+        "ex": "كِتَابٌ جَدِيدٌ"
+      },
+      {
+        "ar": "قَدِيم",
+        "tr": "qadiim",
+        "uz": "Eski",
+        "ex": "دَرَّاجَةٌ قَدِيمَةٌ"
+      },
+      {
+        "ar": "أَمَامَ",
+        "tr": "amaama",
+        "uz": "Oldida",
+        "ex": "بَيْتِي أَمَامَ المَسْجِدِ"
+      },
+      {
+        "ar": "خَلْفَ",
+        "tr": "khalfa",
+        "uz": "Orqasida",
+        "ex": "خَلْفَ البَيْتِ"
+      },
+      {
+        "ar": "مَسْجِد",
+        "tr": "masjid",
+        "uz": "Masjid",
+        "ex": "أَمَامَ المَسْجِدِ"
+      },
+      {
+        "ar": "ذَلِكَ",
+        "tr": "dhaalika",
+        "uz": "U (uzoqdagi, muzakkar)",
+        "ex": "هَلْ ذَلِكَ بَيْتُكَ؟"
+      },
+      {
+        "ar": "تِلْكَ",
+        "tr": "tilka",
+        "uz": "U (uzoqdagi, muannas)",
+        "ex": "تِلْكَ سَيَّارَتُهُ"
+      },
+      {
+        "ar": "عَمّ",
+        "tr": "'amm",
+        "uz": "Amaki (otaning ukasi)",
+        "ex": "بَيْتُ عَمِّي"
+      },
+      {
+        "ar": "عَمَّة",
+        "tr": "'ammah",
+        "uz": "Amma (otaning singlisi)",
+        "ex": "بَيْتُ عَمَّتِي"
+      },
+      {
+        "ar": "خَال",
+        "tr": "khaal",
+        "uz": "Tog'a (onaning akasi)",
+        "ex": "بَيْتُ خَالِي"
+      },
+      {
+        "ar": "خَالَة",
+        "tr": "khaalah",
+        "uz": "Xola (onaning singlisi)",
+        "ex": "بَيْتُ خَالَتِي"
+      },
+      {
+        "ar": "أَخ",
+        "tr": "akh",
+        "uz": "Aka, uka",
+        "ex": "هذِهِ دَرَّاجَةُ أَخِي"
+      },
+      {
+        "ar": "أُخْت",
+        "tr": "ukht",
+        "uz": "Singil, opa",
+        "ex": "هذِهِ غُرْفَةُ أُخْتِي"
+      },
+      {
+        "ar": "مَا شَاءَ اللهُ",
+        "tr": "maa shaa'a-llaah",
+        "uz": "Mosha'olloh (Alloh xohlagani)",
+        "ex": "بَيْتُكَ كَبِيرٌ مَا شَاءَ اللهُ"
+      },
+      {
+        "ar": "سَيَّارَة",
+        "tr": "sayyaarah",
+        "uz": "Mashina, avtomobil",
+        "ex": "هذِهِ سَيَّارَتِي"
+      },
+      {
+        "ar": "هَيَّا",
+        "tr": "hayyaa",
+        "uz": "Qani, yur",
+        "ex": "هَيَّا نَدْخُلْ"
+      },
+      {
+        "ar": "نَدْخُلْ",
+        "tr": "nadkhul",
+        "uz": "Kiramiz",
+        "ex": "هَيَّا نَدْخُلْ إِلَى البَيْتِ"
+      },
+      {
+        "ar": "حَسَنًا",
+        "tr": "hasanan",
+        "uz": "Yaxshi, mayli",
+        "ex": "حَسَنًا"
+      },
+      {
+        "ar": "غُرْفَة",
+        "tr": "ghurfah",
+        "uz": "Xona",
+        "ex": "هذِهِ غُرْفَتِي"
+      },
+      {
+        "ar": "مَطْبَخ",
+        "tr": "matbakh",
+        "uz": "Oshxona",
+        "ex": "فِيهِ مَطْبَخٌ"
+      },
+      {
+        "ar": "حَمَّام",
+        "tr": "hammaam",
+        "uz": "Hammom",
+        "ex": "حَمَّامٌ نَظِيفٌ"
+      },
+      {
+        "ar": "دَوْرَةُ المِيَاه",
+        "tr": "dawratu-l-miyaah",
+        "uz": "Hojatxona",
+        "ex": "دَوْرَةُ المِيَاهِ"
+      },
+      {
+        "ar": "نَافِذَة",
+        "tr": "naafidhah",
+        "uz": "Deraza",
+        "ex": "فِي الغُرْفَةِ نَافِذَةٌ"
+      },
+      {
+        "ar": "سَرِير",
+        "tr": "sariir",
+        "uz": "Karavot",
+        "ex": "سَرِيرٌ كَبِيرٌ"
+      },
+      {
+        "ar": "فِرَاش",
+        "tr": "firaash",
+        "uz": "Matras, to'shak",
+        "ex": "فِرَاشٌ مُرِيحٌ"
+      },
+      {
+        "ar": "وِسَادَة",
+        "tr": "wisaadah",
+        "uz": "Yostiq",
+        "ex": "وِسَادَةٌ نَاعِمَةٌ"
+      },
+      {
+        "ar": "خِزَانَة",
+        "tr": "khizaanah",
+        "uz": "Shkaf",
+        "ex": "خِزَانَةٌ كَبِيرَةٌ"
+      },
+      {
+        "ar": "غُرْفَةُ الجُلُوس",
+        "tr": "ghurfatu-l-juluus",
+        "uz": "Mehmonxona",
+        "ex": "هذِهِ غُرْفَةُ الجُلُوسِ"
+      },
+      {
+        "ar": "غُرْفَةُ الضُّيُوف",
+        "tr": "ghurfatu-d-duyuuf",
+        "uz": "Mehmonlar xonasi",
+        "ex": "غُرْفَةُ الضُّيُوفِ وَاسِعَةٌ"
+      },
+      {
+        "ar": "غُرْفَةُ النَّوْم",
+        "tr": "ghurfatu-n-nawm",
+        "uz": "Yotoqxona",
+        "ex": "غُرْفَةُ النَّوْمِ"
+      },
+      {
+        "ar": "حُجْرَة",
+        "tr": "hujrah",
+        "uz": "Xona, hujra",
+        "ex": "حُجْرَةٌ صَغِيرَةٌ"
+      },
+      {
+        "ar": "بَلَاط",
+        "tr": "balaat",
+        "uz": "Kafel",
+        "ex": "البَلَاطُ مِنَ الخَشَبِ"
+      },
+      {
+        "ar": "خَشَب",
+        "tr": "khashab",
+        "uz": "Yog'och",
+        "ex": "بَلَاطٌ مِنَ الخَشَبِ"
+      },
+      {
+        "ar": "جِدَار",
+        "tr": "jidaar",
+        "uz": "Devor",
+        "ex": "هذَا جِدَارٌ"
+      },
+      {
+        "ar": "مِفْتَاح",
+        "tr": "miftaah",
+        "uz": "Kalit",
+        "ex": "هذَا مِفْتَاحُ البَيْتِ"
+      },
+      {
+        "ar": "قِرْمِيد",
+        "tr": "qirmiid",
+        "uz": "Cherepitsa (tom)",
+        "ex": "قِرْمِيدُ السَّقْفِ"
+      },
+      {
+        "ar": "حَدِيقَة",
+        "tr": "hadiiqah",
+        "uz": "Bog'",
+        "ex": "حَدِيقَةٌ جَمِيلَةٌ"
+      },
+      {
+        "ar": "بُسْتَان",
+        "tr": "bustaan",
+        "uz": "Bog' (mevali)",
+        "ex": "بُسْتَانٌ كَبِيرٌ"
+      },
+      {
+        "ar": "سَاحَة",
+        "tr": "saahah",
+        "uz": "Hovli, maydon",
+        "ex": "سَاحَةُ البَيْتِ"
+      },
+      {
+        "ar": "مِنْشَفَة",
+        "tr": "minshafah",
+        "uz": "Sochiq",
+        "ex": "مِنْشَفَةٌ نَظِيفَةٌ"
+      },
+      {
+        "ar": "مِغْرَفَة",
+        "tr": "mighrafah",
+        "uz": "Cho'mich",
+        "ex": "مِغْرَفَةٌ كَبِيرَةٌ"
+      },
+      {
+        "ar": "صَحْن",
+        "tr": "sahn",
+        "uz": "Tarelka, likopcha",
+        "ex": "صَحْنٌ نَظِيفٌ"
+      },
+      {
+        "ar": "جَفْنَة",
+        "tr": "jafnah",
+        "uz": "Kosa",
+        "ex": "جَفْنَةٌ كَبِيرَةٌ"
+      },
+      {
+        "ar": "كُوب",
+        "tr": "kuub",
+        "uz": "Stakan, piyola",
+        "ex": "كُوبٌ مِنَ المَاءِ"
+      },
+      {
+        "ar": "مِلْعَقَة",
+        "tr": "mil'aqah",
+        "uz": "Qoshiq",
+        "ex": "مِلْعَقَةٌ صَغِيرَةٌ"
+      },
+      {
+        "ar": "مِصْبَاح",
+        "tr": "misbaah",
+        "uz": "Chiroq",
+        "ex": "مِصْبَاحٌ مُضِيءٌ"
+      },
+      {
+        "ar": "مَجَلَّة",
+        "tr": "majallah",
+        "uz": "Jurnal",
+        "ex": "مَجَلَّةٌ جَدِيدَةٌ"
+      },
+      {
+        "ar": "كُلّ",
+        "tr": "kull",
+        "uz": "Har biri, hammasi",
+        "ex": "كُلَّ يَوْمٍ"
+      },
+      {
+        "ar": "نِعْمَة",
+        "tr": "ni'mah",
+        "uz": "Ne'mat",
+        "ex": "هذِهِ نِعْمَةٌ"
+      },
+      {
+        "ar": "فَضْل",
+        "tr": "fadl",
+        "uz": "Fazl, marhamat",
+        "ex": "مِنْ فَضْلِ رَبِّنَا"
+      },
+      {
+        "ar": "رَبّ",
+        "tr": "rabb",
+        "uz": "Rabbi, ega",
+        "ex": "رَبُّنَا"
+      },
+      {
+        "ar": "عَلَى",
+        "tr": "'alaa",
+        "uz": "...da, ustida",
+        "ex": "عَلَى المَكْتَبِ"
+      },
+      {
+        "ar": "وَ",
+        "tr": "wa",
+        "uz": "Va, hamda",
+        "ex": "أَنَا وَأَخِي"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "titleAr": "زَمِيلِي وَزَمِيلَتِي",
+    "titleUz": "Sinfdoshim",
+    "words": [
+      {
+        "ar": "ذَكِيّ",
+        "tr": "dhakiyy",
+        "uz": "Aqlli, zukko",
+        "ex": "هُوَ ذَكِيٌّ"
+      },
+      {
+        "ar": "طَبِيب",
+        "tr": "tabiib",
+        "uz": "Shifokor",
+        "ex": "أَحْمَدُ طَبِيبٌ"
+      },
+      {
+        "ar": "صَدِيق",
+        "tr": "sadiiq",
+        "uz": "Do'st",
+        "ex": "هذَا صَدِيقِي"
+      },
+      {
+        "ar": "طَوِيل",
+        "tr": "tawiil",
+        "uz": "Uzun, baland bo'yli",
+        "ex": "هُوَ طَوِيلٌ"
+      },
+      {
+        "ar": "قَصِير",
+        "tr": "qasiir",
+        "uz": "Kalta, past bo'yli",
+        "ex": "هُوَ قَصِيرٌ"
+      },
+      {
+        "ar": "قَوِيّ",
+        "tr": "qawiyy",
+        "uz": "Kuchli",
+        "ex": "هُوَ قَوِيٌّ"
+      },
+      {
+        "ar": "ضَعِيف",
+        "tr": "da'iif",
+        "uz": "Zaif, kuchsiz",
+        "ex": "هُوَ ضَعِيفٌ"
+      },
+      {
+        "ar": "سَمِين",
+        "tr": "samiin",
+        "uz": "Semiz",
+        "ex": "هُوَ سَمِينٌ"
+      },
+      {
+        "ar": "نَحِيف",
+        "tr": "nahiif",
+        "uz": "Ozg'in",
+        "ex": "هُوَ نَحِيفٌ"
+      },
+      {
+        "ar": "كَسْلَان",
+        "tr": "kaslaan",
+        "uz": "Dangasa",
+        "ex": "هُوَ كَسْلَانُ"
+      },
+      {
+        "ar": "مُجْتَهِد",
+        "tr": "mujtahid",
+        "uz": "Tirishqoq, mehnatkash",
+        "ex": "هُوَ مُجْتَهِدٌ"
+      },
+      {
+        "ar": "كَرِيم",
+        "tr": "kariim",
+        "uz": "Saxiy, oliyjanob",
+        "ex": "هُوَ كَرِيمٌ"
+      },
+      {
+        "ar": "بَخِيل",
+        "tr": "bakhiil",
+        "uz": "Baxil, ziqna",
+        "ex": "هُوَ بَخِيلٌ"
+      },
+      {
+        "ar": "غَنِيّ",
+        "tr": "ghaniyy",
+        "uz": "Boy",
+        "ex": "هُوَ غَنِيٌّ"
+      },
+      {
+        "ar": "فَقِير",
+        "tr": "faqiir",
+        "uz": "Kambag'al",
+        "ex": "هُوَ فَقِيرٌ"
+      },
+      {
+        "ar": "مِسْكِين",
+        "tr": "miskiin",
+        "uz": "Bechora, miskin",
+        "ex": "هُوَ مِسْكِينٌ"
+      },
+      {
+        "ar": "نَظِيف",
+        "tr": "nadhiif",
+        "uz": "Toza",
+        "ex": "البَيْتُ نَظِيفٌ"
+      },
+      {
+        "ar": "وَسِخ",
+        "tr": "wasikh",
+        "uz": "Iflos, kir",
+        "ex": "الثَّوْبُ وَسِخٌ"
+      },
+      {
+        "ar": "قَرْيَة",
+        "tr": "qaryah",
+        "uz": "Qishloq",
+        "ex": "القَرْيَةُ نَظِيفَةٌ"
+      },
+      {
+        "ar": "ثَوْب",
+        "tr": "thawb",
+        "uz": "Kiyim, libos",
+        "ex": "الثَّوْبُ نَظِيفٌ"
+      },
+      {
+        "ar": "مِلْح",
+        "tr": "milh",
+        "uz": "Tuz",
+        "ex": "المِلْحُ كَثِيرٌ"
+      },
+      {
+        "ar": "سُكَّر",
+        "tr": "sukkar",
+        "uz": "Shakar",
+        "ex": "السُّكَّرُ قَلِيلٌ"
+      },
+      {
+        "ar": "قَهْوَة",
+        "tr": "qahwah",
+        "uz": "Qahva",
+        "ex": "القَهْوَةُ سَاخِنَةٌ"
+      },
+      {
+        "ar": "سَلَطَة",
+        "tr": "salatah",
+        "uz": "Salat",
+        "ex": "السَّلَطَةُ لَذِيذَةٌ"
+      },
+      {
+        "ar": "أَب",
+        "tr": "ab",
+        "uz": "Ota",
+        "ex": "هذَا أَبِي"
+      },
+      {
+        "ar": "أُمّ",
+        "tr": "umm",
+        "uz": "Ona",
+        "ex": "هذِهِ أُمِّي"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "titleAr": "العَائِلَةُ",
+    "titleUz": "Oila",
+    "words": [
+      {
+        "ar": "عَائِلَة",
+        "tr": "'aa'ilah",
+        "uz": "Oila",
+        "ex": "عَائِلَتِي كَبِيرَةٌ"
+      },
+      {
+        "ar": "جَدّ",
+        "tr": "jadd",
+        "uz": "Bobo",
+        "ex": "هذَا جَدِّي"
+      },
+      {
+        "ar": "جَدَّة",
+        "tr": "jaddah",
+        "uz": "Buvi",
+        "ex": "هذِهِ جَدَّتِي"
+      },
+      {
+        "ar": "اِبْن",
+        "tr": "ibn",
+        "uz": "O'g'il",
+        "ex": "هذَا ابْنِي"
+      },
+      {
+        "ar": "بِنْت",
+        "tr": "bint",
+        "uz": "Qiz",
+        "ex": "هذِهِ بِنْتِي"
+      },
+      {
+        "ar": "اِبْنُ العَمّ",
+        "tr": "ibnu-l-'amm",
+        "uz": "Amakining o'g'li (amakivachcha)",
+        "ex": "هذَا ابْنُ عَمِّي"
+      },
+      {
+        "ar": "بِنْتُ العَمّ",
+        "tr": "bintu-l-'amm",
+        "uz": "Amakining qizi (amakivachcha qiz)",
+        "ex": "هذِهِ بِنْتُ عَمِّي"
+      },
+      {
+        "ar": "اِبْنُ الخَالَة",
+        "tr": "ibnu-l-khaalah",
+        "uz": "Xolaning o'g'li",
+        "ex": "هذَا ابْنُ خَالَتِي"
+      },
+      {
+        "ar": "بِنْتُ الخَالَة",
+        "tr": "bintu-l-khaalah",
+        "uz": "Xolaning qizi",
+        "ex": "هذِهِ بِنْتُ خَالَتِي"
+      },
+      {
+        "ar": "حَفِيد",
+        "tr": "hafiid",
+        "uz": "Nabira (o'g'il)",
+        "ex": "هذَا حَفِيدِي"
+      },
+      {
+        "ar": "حَفِيدَة",
+        "tr": "hafiidah",
+        "uz": "Nabira (qiz)",
+        "ex": "هذِهِ حَفِيدَتِي"
+      },
+      {
+        "ar": "كَمْ",
+        "tr": "kam",
+        "uz": "Necha?",
+        "ex": "كَمْ أَخًا لَكَ؟"
+      },
+      {
+        "ar": "لَكَ",
+        "tr": "laka",
+        "uz": "Senda (bor)",
+        "ex": "كَمْ أَخًا لَكَ؟"
+      },
+      {
+        "ar": "بَارَكَ اللهُ فِيكَ",
+        "tr": "baaraka-llaahu fiika",
+        "uz": "Alloh seni barakali qilsin",
+        "ex": "بَارَكَ اللهُ فِيكَ وَفِي أَهْلِكَ"
+      },
+      {
+        "ar": "أَهْل",
+        "tr": "ahl",
+        "uz": "Oila a'zolari, qarindoshlar",
+        "ex": "وَفِي أَهْلِكَ"
+      },
+      {
+        "ar": "شَرِكَة",
+        "tr": "sharikah",
+        "uz": "Kompaniya, firma",
+        "ex": "يَعْمَلُ فِي الشَّرِكَةِ"
+      },
+      {
+        "ar": "يَعْمَلُ",
+        "tr": "ya'malu",
+        "uz": "Ishlaydi",
+        "ex": "هُوَ يَعْمَلُ فِي الشَّرِكَةِ"
+      },
+      {
+        "ar": "يَلْعَبُ",
+        "tr": "yal'abu",
+        "uz": "O'ynaydi",
+        "ex": "يَلْعَبُ فِي المَلْعَبِ"
+      },
+      {
+        "ar": "مَلْعَب",
+        "tr": "mal'ab",
+        "uz": "O'yin maydoni",
+        "ex": "فِي المَلْعَبِ"
+      },
+      {
+        "ar": "يَنَام",
+        "tr": "yanaam",
+        "uz": "Uxlaydi",
+        "ex": "يَنَامُ فِي الحُجْرَةِ"
+      },
+      {
+        "ar": "يُصَلِّي",
+        "tr": "yusallii",
+        "uz": "Namoz o'qiydi",
+        "ex": "يُصَلِّي فِي المَسْجِدِ"
+      },
+      {
+        "ar": "يُدَرِّسُ",
+        "tr": "yudarrisu",
+        "uz": "Dars beradi",
+        "ex": "يُدَرِّسُ فِي المَدْرَسَةِ"
+      },
+      {
+        "ar": "مُهَنْدِس",
+        "tr": "muhandis",
+        "uz": "Muhandis",
+        "ex": "هُوَ مُهَنْدِسٌ"
+      },
+      {
+        "ar": "سُوق",
+        "tr": "suuq",
+        "uz": "Bozor",
+        "ex": "أَذْهَبُ إِلَى السُّوقِ"
+      },
+      {
+        "ar": "صُورَة",
+        "tr": "suurah",
+        "uz": "Rasm",
+        "ex": "هذِهِ صُورَةٌ"
+      },
+      {
+        "ar": "الآن",
+        "tr": "al-aana",
+        "uz": "Hozir",
+        "ex": "هُوَ الآنَ يَعْمَلُ"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "titleAr": "الأَجْهِزَةُ الإِلِكْتُرُونِيَّةُ",
+    "titleUz": "Elektron jihozlar",
+    "words": [
+      {
+        "ar": "جِهَاز",
+        "tr": "jihaaz",
+        "uz": "Jihoz, qurilma",
+        "ex": "جِهَازٌ جَدِيدٌ"
+      },
+      {
+        "ar": "أَجْهِزَة",
+        "tr": "ajhizah",
+        "uz": "Jihozlar (ko'plik)",
+        "ex": "الأَجْهِزَةُ الإِلِكْتُرُونِيَّةُ"
+      },
+      {
+        "ar": "إِلِكْتُرُونِيّ",
+        "tr": "iliktrooniyy",
+        "uz": "Elektron",
+        "ex": "البَرِيدُ الإِلِكْتُرُونِيُّ"
+      },
+      {
+        "ar": "تَعَالَ",
+        "tr": "ta'aala",
+        "uz": "Kel (buyruq)",
+        "ex": "تَعَالَ يَا سُفْيَان"
+      },
+      {
+        "ar": "لَبَّيْكَ",
+        "tr": "labbayka",
+        "uz": "Labbay, lobbaydakman",
+        "ex": "لَبَّيْكَ. أَيُّ خِدْمَةٍ؟"
+      },
+      {
+        "ar": "خِدْمَة",
+        "tr": "khidmah",
+        "uz": "Xizmat",
+        "ex": "أَيُّ خِدْمَةٍ؟"
+      },
+      {
+        "ar": "أَيّ",
+        "tr": "ayy",
+        "uz": "Qaysi?",
+        "ex": "أَيُّ خِدْمَةٍ؟"
+      },
+      {
+        "ar": "يُمْكِنُ",
+        "tr": "yumkinu",
+        "uz": "Mumkin (bo'lyapti)",
+        "ex": "أَيُمْكِنُكَ أَنْ تُسَاعِدَنِي؟"
+      },
+      {
+        "ar": "تُسَاعِدُ",
+        "tr": "tusaa'idu",
+        "uz": "Yordam berasan",
+        "ex": "أَنْ تُسَاعِدَنِي"
+      },
+      {
+        "ar": "حَاسُوب",
+        "tr": "haasuub",
+        "uz": "Kompyuter",
+        "ex": "هَلْ عِنْدَكَ حَاسُوبٌ؟"
+      },
+      {
+        "ar": "لَوْ سَمَحْتَ",
+        "tr": "law samahta",
+        "uz": "Iltimos, marhamat",
+        "ex": "لَوْ سَمَحْتَ أَسْتَعِيرُهُ"
+      },
+      {
+        "ar": "أَسْتَعِيرُ",
+        "tr": "asta'iiru",
+        "uz": "Qarz olaman, ijaraga olaman",
+        "ex": "أَسْتَعِيرُهُ"
+      },
+      {
+        "ar": "بَرِيد",
+        "tr": "bariid",
+        "uz": "Pochta",
+        "ex": "بَرِيدِي الإِلِكْتُرُونِيّ"
+      },
+      {
+        "ar": "بَرِيد إِلِكْتُرُونِيّ",
+        "tr": "bariid iliktrooniyy",
+        "uz": "Elektron pochta (email)",
+        "ex": "أَفْتَحُ بَرِيدِي الإِلِكْتُرُونِيّ"
+      },
+      {
+        "ar": "كَلِمَة",
+        "tr": "kalimah",
+        "uz": "So'z",
+        "ex": "مَا هِيَ كَلِمَةُ المُرُور؟"
+      },
+      {
+        "ar": "كَلِمَةُ المُرُور",
+        "tr": "kalimatu-l-muruur",
+        "uz": "Parol",
+        "ex": "مَا هِيَ كَلِمَةُ المُرُور؟"
+      },
+      {
+        "ar": "اِنْتَظِرْ",
+        "tr": "intadhir",
+        "uz": "Kut (buyruq)",
+        "ex": "اِنْتَظِرْ لَحْظَةً"
+      },
+      {
+        "ar": "لَحْظَة",
+        "tr": "lahdhah",
+        "uz": "Lahza, daqiqa",
+        "ex": "لَحْظَةً"
+      },
+      {
+        "ar": "سَأَكْتُبُ",
+        "tr": "sa-aktubu",
+        "uz": "Yozaman (kelasi zamon)",
+        "ex": "سَأَكْتُبُهَا لَكَ"
+      },
+      {
+        "ar": "حِسَاب",
+        "tr": "hisaab",
+        "uz": "Hisob, akkaunt",
+        "ex": "هَلْ عِنْدَكَ حِسَابٌ فِي فَيْسبُوك؟"
+      },
+      {
+        "ar": "جَوَّال",
+        "tr": "jawwaal",
+        "uz": "Mobil telefon",
+        "ex": "عِنْدِي جَوَّالٌ"
+      },
+      {
+        "ar": "لَيْسَ",
+        "tr": "laysa",
+        "uz": "Yo'q (bor emas)",
+        "ex": "لَيْسَ عِنْدِي جَوَّالٌ"
+      },
+      {
+        "ar": "طَابِعَة",
+        "tr": "taabi'ah",
+        "uz": "Printer",
+        "ex": "طَابِعَةٌ جَدِيدَةٌ"
+      },
+      {
+        "ar": "فَأْرَة",
+        "tr": "fa'rah",
+        "uz": "Sichqoncha (kompyuter)",
+        "ex": "هذِهِ فَأْرَةٌ"
+      },
+      {
+        "ar": "هَاتِف",
+        "tr": "haatif",
+        "uz": "Telefon",
+        "ex": "هَاتِفُ البَيْتِ"
+      },
+      {
+        "ar": "ثَلَّاجَة",
+        "tr": "thallaajah",
+        "uz": "Muzlatkich",
+        "ex": "ثَلَّاجَةٌ كَبِيرَةٌ"
+      },
+      {
+        "ar": "غَسَّالَة",
+        "tr": "ghassaalah",
+        "uz": "Kir yuvish mashinasi",
+        "ex": "غَسَّالَةٌ جَدِيدَةٌ"
+      },
+      {
+        "ar": "تِلْفَاز",
+        "tr": "tilfaaz",
+        "uz": "Televizor",
+        "ex": "أَشَاهِدُ التِّلْفَازَ"
+      },
+      {
+        "ar": "مِذْيَاع",
+        "tr": "midhyaa'",
+        "uz": "Radio",
+        "ex": "أَسْتَمِعُ إِلَى المِذْيَاعِ"
+      },
+      {
+        "ar": "شَاحِن",
+        "tr": "shaahin",
+        "uz": "Zaryadlovchi",
+        "ex": "هذَا شَاحِنُ الجَوَّالِ"
+      },
+      {
+        "ar": "فِلَاش",
+        "tr": "filaash",
+        "uz": "Fleshka, USB",
+        "ex": "فِلَاشٌ صَغِيرٌ"
+      },
+      {
+        "ar": "شَاشَة",
+        "tr": "shaashah",
+        "uz": "Ekran",
+        "ex": "شَاشَةُ الحَاسُوبِ"
+      },
+      {
+        "ar": "لَوْحَةُ المَفَاتِيح",
+        "tr": "lawhatu-l-mafaatiih",
+        "uz": "Klaviatura",
+        "ex": "لَوْحَةُ المَفَاتِيحِ"
+      },
+      {
+        "ar": "مِفْتَاح (ko'p: مَفَاتِيح)",
+        "tr": "miftaah / mafaatiih",
+        "uz": "Kalit / kalitlar (ko'plik)",
+        "ex": "لَوْحَةُ المَفَاتِيحِ"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "titleAr": "الْمِلْكِيَّةُ",
+    "titleUz": "Mulk va egalik",
+    "words": [
+      {
+        "ar": "مِلْكِيَّة",
+        "tr": "milkiyyah",
+        "uz": "Mulk, egalik",
+        "ex": "هذِهِ مِلْكِيَّتِي"
+      },
+      {
+        "ar": "لِمَنْ",
+        "tr": "li-man",
+        "uz": "Kimga tegishli?",
+        "ex": "لِمَنْ هذَا البَيْتُ؟"
+      },
+      {
+        "ar": "لِي",
+        "tr": "lii",
+        "uz": "Menga (tegishli)",
+        "ex": "هُوَ لِي"
+      },
+      {
+        "ar": "لَكَ",
+        "tr": "laka",
+        "uz": "Senga (tegishli)",
+        "ex": "هُوَ لَكَ"
+      },
+      {
+        "ar": "لَهُ",
+        "tr": "lahu",
+        "uz": "Unga (tegishli)",
+        "ex": "هُوَ لَهُ"
+      },
+      {
+        "ar": "مُسْتَشْفَى",
+        "tr": "mustashfaa",
+        "uz": "Kasalxona",
+        "ex": "يَعْمَلُ فِي المُسْتَشْفَى"
+      },
+      {
+        "ar": "مُدِير",
+        "tr": "mudiir",
+        "uz": "Direktor, boshliq",
+        "ex": "هذِهِ سَيَّارَةُ المُدِيرِ"
+      },
+      {
+        "ar": "قِطَّة",
+        "tr": "qittah",
+        "uz": "Mushuk",
+        "ex": "قِطَّةٌ سَمِينَةٌ"
+      },
+      {
+        "ar": "اِشْتَرَى",
+        "tr": "ishtaraa",
+        "uz": "Sotib oldi",
+        "ex": "هَلِ اشْتَرَيْتَهَا؟"
+      },
+      {
+        "ar": "وَجَدَ",
+        "tr": "wajada",
+        "uz": "Topdi",
+        "ex": "وَجَدْتُهَا فِي الطَّرِيقِ"
+      },
+      {
+        "ar": "مَزْرَعَة",
+        "tr": "mazra'ah",
+        "uz": "Ferma, dehqonchilik joyi",
+        "ex": "هذِهِ مَزْرَعَتُنَا"
+      },
+      {
+        "ar": "رَجُل",
+        "tr": "rajul",
+        "uz": "Erkak (kishi)",
+        "ex": "هذَا رَجُلٌ"
+      },
+      {
+        "ar": "اِمْرَأَة",
+        "tr": "imra'ah",
+        "uz": "Ayol",
+        "ex": "هذِهِ امْرَأَةٌ"
+      },
+      {
+        "ar": "صِفَة",
+        "tr": "sifah",
+        "uz": "Sifat (grammatik)",
+        "ex": "صِفَاتٌ مُنَاسِبَةٌ"
+      },
+      {
+        "ar": "مُنَاسِب",
+        "tr": "munaasib",
+        "uz": "Mos, mos keladigan",
+        "ex": "خَبَرٌ مُنَاسِبٌ"
+      },
+      {
+        "ar": "خَبَر",
+        "tr": "khabar",
+        "uz": "Xabar, kesim (grammatik)",
+        "ex": "ضَعْ خَبَرًا مُنَاسِبًا"
+      },
+      {
+        "ar": "ضَعْ",
+        "tr": "da'",
+        "uz": "Qo'y (buyruq)",
+        "ex": "ضَعْ خَبَرًا"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "titleAr": "الْمِهْنَةُ",
+    "titleUz": "Kasb-hunar",
+    "words": [
+      {
+        "ar": "مِهْنَة",
+        "tr": "mihnah",
+        "uz": "Kasb-hunar",
+        "ex": "مَا مِهْنَتُكَ؟"
+      },
+      {
+        "ar": "مَا مِهْنَتُكَ",
+        "tr": "maa mihnatuka",
+        "uz": "Kasbing nima?",
+        "ex": "مَا مِهْنَتُكَ؟"
+      },
+      {
+        "ar": "مِهَن",
+        "tr": "mihan",
+        "uz": "Kasblar (ko'plik)",
+        "ex": "هذِهِ المِهَنُ"
+      },
+      {
+        "ar": "مُوَظَّف",
+        "tr": "muwadhdhaf",
+        "uz": "Xizmatchi, idoraviy xodim",
+        "ex": "أَنَا مُوَظَّفٌ"
+      },
+      {
+        "ar": "مُمَرِّض",
+        "tr": "mumarrid",
+        "uz": "Hamshira",
+        "ex": "هُوَ مُمَرِّضٌ"
+      },
+      {
+        "ar": "مَبْنَى",
+        "tr": "mabnaa",
+        "uz": "Bino",
+        "ex": "هذَا مَبْنَى المَدْرَسَةِ"
+      },
+      {
+        "ar": "بِجَانِب",
+        "tr": "bi-jaanibi",
+        "uz": "Yonida",
+        "ex": "بِجَانِبِ البَيْتِ"
+      },
+      {
+        "ar": "هُنَاكَ",
+        "tr": "hunaaka",
+        "uz": "U yerda",
+        "ex": "هُنَاكَ رَجُلٌ"
+      },
+      {
+        "ar": "طَيَّار",
+        "tr": "tayyaar",
+        "uz": "Uchuvchi (pilot)",
+        "ex": "هُوَ طَيَّارٌ"
+      },
+      {
+        "ar": "شُرْطِيّ",
+        "tr": "shurtiyy",
+        "uz": "Politsiyachi",
+        "ex": "هُوَ شُرْطِيٌّ"
+      },
+      {
+        "ar": "فَلَّاح",
+        "tr": "fallaah",
+        "uz": "Dehqon",
+        "ex": "هُوَ فَلَّاحٌ"
+      },
+      {
+        "ar": "عَسْكَرِيّ",
+        "tr": "'askariyy",
+        "uz": "Askar, harbiy",
+        "ex": "هُوَ عَسْكَرِيٌّ"
+      },
+      {
+        "ar": "رَسَّام",
+        "tr": "rassaam",
+        "uz": "Rassom",
+        "ex": "هُوَ رَسَّامٌ"
+      },
+      {
+        "ar": "سَاعِي بَرِيد",
+        "tr": "saa'ii bariid",
+        "uz": "Pochtachi",
+        "ex": "سَاعِي البَرِيدِ"
+      },
+      {
+        "ar": "مُصَوِّر",
+        "tr": "musawwir",
+        "uz": "Suratchi, fotograf",
+        "ex": "هُوَ مُصَوِّرٌ"
+      },
+      {
+        "ar": "بَنَّاء",
+        "tr": "bannaa'",
+        "uz": "Quruvchi, binokor",
+        "ex": "هُوَ بَنَّاءٌ"
+      },
+      {
+        "ar": "طَبَّاخ",
+        "tr": "tabbaakh",
+        "uz": "Oshpaz",
+        "ex": "هُوَ طَبَّاخٌ"
+      },
+      {
+        "ar": "حَلَّاق",
+        "tr": "hallaaq",
+        "uz": "Sartarosh",
+        "ex": "هُوَ حَلَّاقٌ"
+      },
+      {
+        "ar": "مِيكَانِيكِيّ",
+        "tr": "miikaanikiyy",
+        "uz": "Mexanik",
+        "ex": "هُوَ مِيكَانِيكِيٌّ"
+      },
+      {
+        "ar": "رِيَاضِيّ",
+        "tr": "riyaadiyy",
+        "uz": "Sportchi",
+        "ex": "هُوَ رِيَاضِيٌّ"
+      },
+      {
+        "ar": "جَزَّار",
+        "tr": "jazzaar",
+        "uz": "Qassob",
+        "ex": "هُوَ جَزَّارٌ"
+      },
+      {
+        "ar": "عَامِلُ نَظَافَة",
+        "tr": "'aamilu nadhaafah",
+        "uz": "Tozalovchi",
+        "ex": "عَامِلُ النَّظَافَةِ"
+      },
+      {
+        "ar": "سَائِق",
+        "tr": "saa'iq",
+        "uz": "Haydovchi",
+        "ex": "هُوَ سَائِقُ الحَافِلَةِ"
+      },
+      {
+        "ar": "حَدَّاد",
+        "tr": "haddaad",
+        "uz": "Temirchi",
+        "ex": "هُوَ حَدَّادٌ"
+      },
+      {
+        "ar": "كَهْرَبَائِيّ",
+        "tr": "kahrabaa'iyy",
+        "uz": "Elektrik",
+        "ex": "هُوَ كَهْرَبَائِيٌّ"
+      },
+      {
+        "ar": "بَائِع",
+        "tr": "baa'i'",
+        "uz": "Sotuvchi",
+        "ex": "هُوَ بَائِعٌ"
+      },
+      {
+        "ar": "حَافِلَة",
+        "tr": "haafilah",
+        "uz": "Avtobus",
+        "ex": "حَافِلَةُ المَدْرَسَةِ"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "titleAr": "الأَلْوَانُ",
+    "titleUz": "Ranglar",
+    "words": [
+      {
+        "ar": "لَوْن",
+        "tr": "lawn",
+        "uz": "Rang",
+        "ex": "مَا لَوْنُ السَّبُّورَةِ؟"
+      },
+      {
+        "ar": "أَلْوَان",
+        "tr": "alwaan",
+        "uz": "Ranglar (ko'plik)",
+        "ex": "الأَلْوَانُ المُتَنَوِّعَةُ"
+      },
+      {
+        "ar": "مُتَنَوِّع",
+        "tr": "mutanawwi'",
+        "uz": "Turli, har xil",
+        "ex": "أَلْوَانٌ مُتَنَوِّعَةٌ"
+      },
+      {
+        "ar": "نَحْفَظُ",
+        "tr": "nahfadhu",
+        "uz": "Yodlaymiz",
+        "ex": "هَيَّا نَحْفَظِ الأَلْوَانَ"
+      },
+      {
+        "ar": "أَطْفَال",
+        "tr": "atfaal",
+        "uz": "Bolalar (ko'plik)",
+        "ex": "الأَطْفَالُ نَشِيطُونَ"
+      },
+      {
+        "ar": "طِفْل",
+        "tr": "tifl",
+        "uz": "Bola",
+        "ex": "هذَا طِفْلٌ"
+      },
+      {
+        "ar": "أَحِبَّاء",
+        "tr": "ahibbaa'",
+        "uz": "Sevikli o'rganuvchilar (ko'plik)",
+        "ex": "يَا أَحِبَّائِي"
+      },
+      {
+        "ar": "أَبْيَض",
+        "tr": "abyad",
+        "uz": "Oq",
+        "ex": "لَوْنُهَا أَبْيَضُ"
+      },
+      {
+        "ar": "أَسْوَد",
+        "tr": "aswad",
+        "uz": "Qora",
+        "ex": "لَوْنُهُ أَسْوَدُ"
+      },
+      {
+        "ar": "أَحْمَر",
+        "tr": "ahmar",
+        "uz": "Qizil",
+        "ex": "لَوْنُهَا أَحْمَرُ"
+      },
+      {
+        "ar": "أَخْضَر",
+        "tr": "akhdar",
+        "uz": "Yashil",
+        "ex": "لَوْنُهُ أَخْضَرُ"
+      },
+      {
+        "ar": "أَزْرَق",
+        "tr": "azraq",
+        "uz": "Ko'k",
+        "ex": "لَوْنُهُ أَزْرَقُ"
+      },
+      {
+        "ar": "أَصْفَر",
+        "tr": "asfar",
+        "uz": "Sariq",
+        "ex": "لَوْنُهُ أَصْفَرُ"
+      },
+      {
+        "ar": "أَسْمَر",
+        "tr": "asmar",
+        "uz": "Qoramag'iz, jigar (ten haqida)",
+        "ex": "لَوْنُهُ أَسْمَرُ"
+      },
+      {
+        "ar": "بُنِّيّ",
+        "tr": "bunniyy",
+        "uz": "Jigar rang (qahva rang)",
+        "ex": "لَوْنُهُ بُنِّيٌّ"
+      },
+      {
+        "ar": "فِضِّيّ",
+        "tr": "fiddiyy",
+        "uz": "Kumush rang",
+        "ex": "هذَا جَوَّالٌ فِضِّيٌّ"
+      },
+      {
+        "ar": "رَمَادِيّ",
+        "tr": "ramaadiyy",
+        "uz": "Kulrang",
+        "ex": "لَوْنُهُ رَمَادِيٌّ"
+      },
+      {
+        "ar": "بُرْتُقَالِيّ",
+        "tr": "burtuqaaliyy",
+        "uz": "Apelsin (to'q sariq)",
+        "ex": "لَوْنُهُ بُرْتُقَالِيٌّ"
+      },
+      {
+        "ar": "وَرْدِيّ",
+        "tr": "wardiyy",
+        "uz": "Pushti",
+        "ex": "لَوْنُهَا وَرْدِيٌّ"
+      },
+      {
+        "ar": "بَنَفْسَجِيّ",
+        "tr": "banafsajiyy",
+        "uz": "Binafsha (siyohrang)",
+        "ex": "لَوْنُهُ بَنَفْسَجِيٌّ"
+      },
+      {
+        "ar": "مُمْتَاز",
+        "tr": "mumtaaz",
+        "uz": "A'lo, mukammal",
+        "ex": "مُمْتَازٌ! أَحْسَنْتُمْ"
+      },
+      {
+        "ar": "أَحْسَنْتُمْ",
+        "tr": "ahsantum",
+        "uz": "Yaxshi qildingiz (ko'plik)",
+        "ex": "أَحْسَنْتُمْ"
+      },
+      {
+        "ar": "صَحِيح",
+        "tr": "sahiih",
+        "uz": "To'g'ri",
+        "ex": "صَحِيحٌ!"
+      },
+      {
+        "ar": "قَمِيص",
+        "tr": "qamiis",
+        "uz": "Ko'ylak",
+        "ex": "قَمِيصٌ أَخْضَرُ"
+      },
+      {
+        "ar": "قَلَنْسُوَة",
+        "tr": "qalansuwah",
+        "uz": "Qalpoq, do'ppi",
+        "ex": "قَلَنْسُوَةٌ خَضْرَاءُ"
+      },
+      {
+        "ar": "حَجَر",
+        "tr": "hajar",
+        "uz": "Tosh",
+        "ex": "حَجَرٌ أَسْوَدُ"
+      },
+      {
+        "ar": "كِسْوَة",
+        "tr": "kiswah",
+        "uz": "Kiyim, ust-bosh",
+        "ex": "كِسْوَةٌ سَوْدَاءُ"
+      },
+      {
+        "ar": "جِلْبَاب",
+        "tr": "jilbaab",
+        "uz": "Jilbob",
+        "ex": "جِلْبَابٌ وَرْدِيٌّ"
+      },
+      {
+        "ar": "زَهْرَة",
+        "tr": "zahrah",
+        "uz": "Gul",
+        "ex": "زَهْرَةٌ وَرْدِيَّةٌ"
+      },
+      {
+        "ar": "نَأْكُلُ",
+        "tr": "na'kulu",
+        "uz": "Yeymiz",
+        "ex": "هَيَّا نَأْكُلِ الطَّعَامَ"
+      },
+      {
+        "ar": "نَدْرُسُ",
+        "tr": "nadrusu",
+        "uz": "O'qiymiz",
+        "ex": "هَيَّا نَدْرُسِ الدَّرْسَ"
+      },
+      {
+        "ar": "نَقْرَأُ",
+        "tr": "naqra'u",
+        "uz": "O'qiymiz (kitob)",
+        "ex": "هَيَّا نَقْرَأِ الكِتَابَ"
+      },
+      {
+        "ar": "اِنْتَهَى",
+        "tr": "intahaa",
+        "uz": "Tugadi",
+        "ex": "اِنْتَهَى المَاءُ"
+      },
+      {
+        "ar": "مَاء",
+        "tr": "maa'",
+        "uz": "Suv",
+        "ex": "اِنْتَهَى المَاءُ"
+      },
+      {
+        "ar": "حِصَّة",
+        "tr": "hissah",
+        "uz": "Soat (dars), bo'lim",
+        "ex": "اِنْتَهَتِ الحِصَّةُ"
+      },
+      {
+        "ar": "رَصِيد",
+        "tr": "rasiid",
+        "uz": "Hisob qoldig'i, balans",
+        "ex": "اِنْتَهَى الرَّصِيدُ"
+      },
+      {
+        "ar": "شَرَاب",
+        "tr": "sharaab",
+        "uz": "Ichimlik",
+        "ex": "اِنْتَهَى الشَّرَابُ"
+      },
+      {
+        "ar": "نُقُود",
+        "tr": "nuquud",
+        "uz": "Pul",
+        "ex": "اِنْتَهَتِ النُّقُودُ"
+      },
+      {
+        "ar": "مُبَارَاة",
+        "tr": "mubaaraah",
+        "uz": "O'yin, musobaqa",
+        "ex": "اِنْتَهَتِ المُبَارَاةُ"
+      },
+      {
+        "ar": "وَقُود",
+        "tr": "waquud",
+        "uz": "Yoqilg'i",
+        "ex": "اِنْتَهَى الوَقُودُ"
+      },
+      {
+        "ar": "طَعَام",
+        "tr": "ta'aam",
+        "uz": "Ovqat, taom",
+        "ex": "اِنْتَهَى الطَّعَامُ"
+      },
+      {
+        "ar": "مُحَاضَرَة",
+        "tr": "muhaadarah",
+        "uz": "Ma'ruza",
+        "ex": "اِنْتَهَتِ المُحَاضَرَةُ"
+      },
+      {
+        "ar": "عَمَل",
+        "tr": "'amal",
+        "uz": "Ish",
+        "ex": "اِنْتَهَى العَمَلُ"
+      },
+      {
+        "ar": "وَقْت",
+        "tr": "waqt",
+        "uz": "Vaqt",
+        "ex": "اِنْتَهَى الوَقْتُ"
+      },
+      {
+        "ar": "مُشَارَكَة",
+        "tr": "mushaarakah",
+        "uz": "Ishtirok, qatnashish",
+        "ex": "مُشَارَكَتُهُ مُمْتَازَةٌ"
+      },
+      {
+        "ar": "نَصِيحَة",
+        "tr": "nasiihah",
+        "uz": "Maslahat, nasihat",
+        "ex": "نَصِيحَةٌ جَيِّدَةٌ"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "titleAr": "العَدَدُ",
+    "titleUz": "Sonlar",
+    "words": [
+      {
+        "ar": "عَدَد",
+        "tr": "'adad",
+        "uz": "Son, raqam",
+        "ex": "العَدَدُ سَهْلٌ"
+      },
+      {
+        "ar": "وَاحِد",
+        "tr": "waahid",
+        "uz": "Bir (1)",
+        "ex": "وَاحِدٌ"
+      },
+      {
+        "ar": "اِثْنَان",
+        "tr": "ithnaan",
+        "uz": "Ikki (2)",
+        "ex": "اِثْنَانِ"
+      },
+      {
+        "ar": "ثَلَاثَة",
+        "tr": "thalaathah",
+        "uz": "Uch (3)",
+        "ex": "ثَلَاثَةُ كُتُبٍ"
+      },
+      {
+        "ar": "أَرْبَعَة",
+        "tr": "arba'ah",
+        "uz": "To'rt (4)",
+        "ex": "أَرْبَعَةُ طُلَّابٍ"
+      },
+      {
+        "ar": "خَمْسَة",
+        "tr": "khamsah",
+        "uz": "Besh (5)",
+        "ex": "خَمْسَةُ أَيَّامٍ"
+      },
+      {
+        "ar": "سِتَّة",
+        "tr": "sittah",
+        "uz": "Olti (6)",
+        "ex": "سِتَّةُ كُتُبٍ"
+      },
+      {
+        "ar": "سَبْعَة",
+        "tr": "sab'ah",
+        "uz": "Yetti (7)",
+        "ex": "سَبْعَةُ أَيَّامٍ فِي الأُسْبُوعِ"
+      },
+      {
+        "ar": "ثَمَانِيَة",
+        "tr": "thamaaniyah",
+        "uz": "Sakkiz (8)",
+        "ex": "ثَمَانِيَةُ كُتُبٍ"
+      },
+      {
+        "ar": "تِسْعَة",
+        "tr": "tis'ah",
+        "uz": "To'qqiz (9)",
+        "ex": "تِسْعَةُ طُلَّابٍ"
+      },
+      {
+        "ar": "عَشَرَة",
+        "tr": "'asharah",
+        "uz": "O'n (10)",
+        "ex": "عَشَرَةُ كُتُبٍ"
+      },
+      {
+        "ar": "كَمْ",
+        "tr": "kam",
+        "uz": "Necha?",
+        "ex": "كَمْ كِتَابًا عَلَى المَكْتَبِ؟"
+      },
+      {
+        "ar": "يَوْم",
+        "tr": "yawm",
+        "uz": "Kun",
+        "ex": "كَمْ يَوْمًا فِي الأُسْبُوعِ؟"
+      },
+      {
+        "ar": "أَيَّام",
+        "tr": "ayyaam",
+        "uz": "Kunlar (ko'plik)",
+        "ex": "أَيَّامُ الأُسْبُوعِ"
+      },
+      {
+        "ar": "أُسْبُوع",
+        "tr": "usbuu'",
+        "uz": "Hafta",
+        "ex": "أَيَّامُ الأُسْبُوعِ"
+      },
+      {
+        "ar": "دِيك",
+        "tr": "diik",
+        "uz": "Xo'roz",
+        "ex": "كَمْ دِيكًا فِي الحَدِيقَةِ؟"
+      }
+    ]
+  }
+]
