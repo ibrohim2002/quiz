@@ -1,0 +1,65 @@
+@import 'tailwindcss';
+
+/* Tailwind v4 — dark mode via media query (default) */
+
+@theme {
+  --color-brand-50: #E8F5E9;
+  --color-brand-100: #C8E6C9;
+  --color-brand-400: #4CAF50;
+  --color-brand-500: #2E7D32;
+  --color-brand-600: #1B5E20;
+  --color-brand-700: #0D3D11;
+
+  --font-arabic: 'Traditional Arabic', 'Amiri', 'Scheherazade New', 'Noto Naskh Arabic', serif;
+
+  --animate-spin-slow: spin 1.2s linear infinite;
+}
+
+/* CSS variables for theming */
+@layer base {
+  :root {
+    color-scheme: light dark;
+  }
+
+  html, body {
+    -webkit-tap-highlight-color: transparent;
+    overscroll-behavior: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  body {
+    @apply bg-stone-50 text-stone-900 dark:bg-neutral-900 dark:text-neutral-100;
+    min-height: 100vh;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}
+
+/* Reusable component classes */
+@layer components {
+  .arabic-text {
+    font-family: var(--font-arabic);
+    direction: rtl;
+  }
+
+  /* Flashcard 3D flip */
+  .flashcard {
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+  }
+  .flashcard.flipped {
+    transform: rotateY(180deg);
+  }
+  .flashcard.no-transition {
+    transition: none;
+  }
+  .flashcard-face {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+  .flashcard-back {
+    transform: rotateY(180deg);
+  }
+}
