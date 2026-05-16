@@ -65,6 +65,53 @@ export interface Lesson {
 	comingSoon?: boolean; // YANGI: dars hali qo'shilmagan
 }
 
+// === Book ===
+export interface Book {
+  id: string;
+  titleAr: string;
+  titleUz: string;
+  coverImage: string;
+  level: string;
+  lessonsCount: number;
+  description: string;
+  available: boolean;
+}
+
+// === Version / update banner ===
+export interface VersionInfo {
+  version: string;
+  changelog: string;
+}
+
+// === Quiz types ===
+export interface WordWithMeta extends Word {
+  id: string;
+  lesson: number;
+  lessonTitle: string;
+}
+
+export type QuizMode = 'flashcard' | 'quiz' | 'mixed';
+export type Direction = 'auto' | 'ar2uz' | 'uz2ar';
+export type ResolvedDirection = 'ar2uz' | 'uz2ar';
+export type QuestionMode = 'flashcard' | 'quiz';
+
+export interface Question {
+  word: WordWithMeta;
+  mode: QuestionMode;
+  direction: ResolvedDirection;
+  choices?: WordWithMeta[];
+}
+
+export interface Feedback {
+  type: 'correct' | 'wrong';
+  message: string;
+}
+
+export interface MistakeEntry {
+  count: number;
+  word: WordWithMeta;
+}
+
 // === Screen routing tipi ===
 export type Screen =
 	| 'books'
