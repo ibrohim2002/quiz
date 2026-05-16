@@ -1,64 +1,78 @@
+// src/types/vocab.ts
+
 export interface Word {
-  ar: string
-  tr: string
-  uz: string
-  ex: string
+	ar: string;
+	tr: string;
+	uz: string;
+	ex?: string;
+}
+
+export interface DialogueLine {
+	speaker: string;
+	ar: string;
+	uz: string;
+}
+
+export interface Dialogue {
+	title: string;
+	titleUz?: string;
+	intro?: string;
+	introUz?: string;
+	lines: DialogueLine[];
+}
+
+export interface GrammarExample {
+	ar: string;
+	uz: string;
+}
+
+export interface GrammarNote {
+	title: string;
+	content: string;
+	examples: GrammarExample[];
+}
+
+// === YANGI: Matn (kitobdagi nasr matnlari uchun) ===
+export interface LessonText {
+	title: string; // Arabcha sarlavha (mas: "فِي الْفَصْلِ")
+	titleUz?: string; // O'zbekcha sarlavha (mas: "Sinfda")
+	ar: string; // To'liq arabcha matn (paragraf yoki bir nechta)
+	uz: string; // O'zbekcha tarjima
+}
+
+// === YANGI: Matnni tushunish bo'yicha savollar ===
+export interface ComprehensionQuestion {
+	ar: string; // Savol (arabcha)
+	uz: string; // Savol tarjimasi
+	answer: {
+		// To'g'ri javob
+		ar: string;
+		uz: string;
+	};
+	choices?: string[]; // Multiple choice uchun yolg'on variantlar (arabcha).
+	// Agar yo'q bo'lsa — ochiq savol sifatida ishlatiladi.
 }
 
 export interface Lesson {
-  number: number
-  titleAr: string
-  titleUz: string
-  words: Word[]
+	number: number;
+	titleAr: string;
+	titleUz: string;
+	words: Word[];
+	dialogues?: Dialogue[];
+	texts?: LessonText[]; // YANGI
+	grammar?: GrammarNote[];
+	comprehensionQuiz?: ComprehensionQuestion[]; // YANGI
+	comingSoon?: boolean; // YANGI: dars hali qo'shilmagan
 }
 
-/** Word with lesson metadata, used after flattening */
-export interface WordWithMeta extends Word {
-  lesson: number
-  lessonTitle: string
-  id: string
-}
-
-export interface VersionInfo {
-  version: string
-  releaseDate: string
-  totalWords: number
-  totalLessons: number
-  changelog: string
-}
-
-export type QuizMode = 'mixed' | 'flashcard' | 'quiz'
-export type Direction = 'auto' | 'ar2uz' | 'uz2ar'
-export type QuestionMode = 'flashcard' | 'quiz'
-export type ResolvedDirection = 'ar2uz' | 'uz2ar'
-
-export interface Question {
-  word: WordWithMeta
-  mode: QuestionMode
-  direction: ResolvedDirection
-  choices?: WordWithMeta[]
-}
-
-export interface MistakeEntry {
-  count: number
-  word: WordWithMeta
-}
-
-export interface QuizStorage {
-  totalCorrect: number
-  totalWrong: number
-  mistakes: Record<string, MistakeEntry>
-}
-
-export interface Feedback {
-  type: 'correct' | 'wrong'
-  message: string
-}
-
+// === Screen routing tipi ===
 export type Screen =
-  | 'home'
-  | 'browse'
-  | 'browse-lesson'
-  | 'setup'
-  | 'quiz'
-  | 'end'
+	| 'books'
+	| 'home'
+	| 'browse' // lug'at darslar ro'yxati
+	| 'browse-lesson' // dars ichidagi tablar
+	| 'browse-textdialog' // YANGI: matn/dialog darslar ro'yxati
+	| 'browse-grammar' // YANGI: qoidalar darslar ro'yxati
+	| 'setup'
+	| 'quiz'
+	| 'end';

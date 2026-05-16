@@ -1,0 +1,22 @@
+[
+	{
+		"id": "al-mumtaz",
+		"titleAr": "الْمُمْتَاز",
+		"titleUz": "Al-Mumtaz",
+		"description": "Arab tilini boshlovchilar uchun: kundalik muloqotlar, dialoglar, matnlar va mashqlar.",
+		"coverImage": "/images/al-mumtaz-cover.png",
+		"level": "1-daraja",
+		"lessonsCount": 15,
+		"available": true
+	},
+	{
+		"id": "coming-soon-1",
+		"titleAr": "المنهج العالمي المستوي المبتدئ",
+		"titleUz": "Tez orada",
+		"description": "Keyingi kitob tez orada qo'shiladi, inshaAlloh.",
+		"coverImage": "/images/second-book.png",
+		"level": "—",
+		"lessonsCount": 0,
+		"available": false
+	}
+]
