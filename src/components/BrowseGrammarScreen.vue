@@ -1,7 +1,8 @@
 <script setup lang="ts">
+import { computed } from 'vue';
 import type { Lesson } from '@/types/vocab';
 
-defineProps<{
+const props = defineProps<{
 	lessons: Lesson[];
 }>();
 
@@ -9,6 +10,11 @@ defineEmits<{
 	back: [];
 	open: [n: number];
 }>();
+
+// Grammar bor darslar VA placeholder darslar
+const filteredLessons = computed(() =>
+	props.lessons.filter(l => l.comingSoon || (l.grammar?.length ?? 0) > 0),
+);
 </script>
 
 <template>
@@ -28,11 +34,19 @@ defineEmits<{
 			<h2
 				class="mb-2.5 text-[14px] font-medium uppercase tracking-wider text-stone-500 dark:text-neutral-400"
 			>
-				Darsni tanlang
+				Qoidalar (Grammatika)
 			</h2>
-			<div class="flex flex-col gap-3">
+
+			<div
+				v-if="filteredLessons.length === 0"
+				class="py-8 text-center text-sm text-stone-500 dark:text-neutral-400"
+			>
+				Hozircha grammatika qo'shilgan dars yo'q
+			</div>
+
+			<div v-else class="flex flex-col gap-3">
 				<button
-					v-for="lesson in lessons"
+					v-for="lesson in filteredLessons"
 					:key="lesson.number"
 					:disabled="lesson.comingSoon"
 					:class="[
@@ -55,7 +69,7 @@ defineEmits<{
 								>
 									⏳ Tez orada qo'shiladi
 								</span>
-								<span v-else>{{ lesson.words.length }} ta so'z</span>
+								<span v-else>{{ lesson.grammar?.length ?? 0 }} ta qoida</span>
 							</div>
 						</div>
 						<div class="text-lg text-stone-400 dark:text-neutral-500">
