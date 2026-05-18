@@ -5976,8 +5976,749 @@
 		"number": 12,
 		"titleAr": "الْوَقْتُ",
 		"titleUz": "Vaqt",
-		"words": [],
-		"comingSoon": true
+
+		"words": [
+			{
+				"ar": "وَقْت",
+				"tr": "waqt",
+				"uz": "Vaqt",
+				"ex": "الْوَقْتُ ضَيِّقٌ"
+			},
+			{
+				"ar": "سَاعَة",
+				"tr": "sā'a",
+				"uz": "Soat",
+				"ex": "كَمِ السَّاعَةُ الْآنَ؟"
+			},
+			{
+				"ar": "دَقِيقَة",
+				"tr": "daqīqa",
+				"uz": "Daqiqa",
+				"ex": "خَمْسَ دَقَائِقَ"
+			},
+			{
+				"ar": "دَقَائِق",
+				"tr": "daqā'iq",
+				"uz": "Daqiqalar",
+				"ex": "عَشْرَ دَقَائِقَ"
+			},
+			{
+				"ar": "نِصْف",
+				"tr": "niṣf",
+				"uz": "Yarim",
+				"ex": "الثَّالِثَةُ وَالنِّصْفُ"
+			},
+			{
+				"ar": "رُبْع",
+				"tr": "rub'",
+				"uz": "Chorak",
+				"ex": "الثَّانِيَةُ وَالرُّبْعُ"
+			},
+			{
+				"ar": "ثُلْث",
+				"tr": "thulth",
+				"uz": "Uchdan bir",
+				"ex": "الرَّابِعَةُ وَالثُّلْثُ"
+			},
+			{
+				"ar": "إِلَّا",
+				"tr": "illā",
+				"uz": "...dan kam, ...siz",
+				"ex": "السَّابِعَةُ إِلَّا رُبْعًا"
+			},
+			{
+				"ar": "الْآن",
+				"tr": "al-ān",
+				"uz": "Hozir",
+				"ex": "كَمِ السَّاعَةُ الْآنَ؟"
+			},
+			{
+				"ar": "صَبَاحًا",
+				"tr": "ṣabāḥan",
+				"uz": "Ertalab",
+				"ex": "السَّاعَةُ الْخَامِسَةُ صَبَاحًا"
+			},
+			{
+				"ar": "مَسَاءً",
+				"tr": "masā'an",
+				"uz": "Kechqurun",
+				"ex": "الثَّانِيَةَ عَشْرَةَ مَسَاءً"
+			},
+			{
+				"ar": "مَطَار",
+				"tr": "maṭār",
+				"uz": "Aeroport",
+				"ex": "سَنَذْهَبُ إِلَى الْمَطَارِ"
+			},
+			{
+				"ar": "طَائِرَة",
+				"tr": "ṭā'ira",
+				"uz": "Samolyot",
+				"ex": "سَتُقْلِعُ الطَّائِرَةُ"
+			},
+			{
+				"ar": "أَقْلَعَ",
+				"tr": "aqla'a",
+				"uz": "Uchdi (samolyot)",
+				"ex": "تُقْلِعُ الطَّائِرَةُ"
+			},
+			{
+				"ar": "وَصَلَ",
+				"tr": "waṣala",
+				"uz": "Yetib keldi",
+				"ex": "قَدْ وَصَلْنَا"
+			},
+			{
+				"ar": "ذَهَبَ",
+				"tr": "dhahaba",
+				"uz": "Bordi",
+				"ex": "سَنَذْهَبُ إِلَى الْمَطَارِ"
+			},
+			{
+				"ar": "رَجَعَ",
+				"tr": "raja'a",
+				"uz": "Qaytdi",
+				"ex": "سَأَرْجِعُ إِلَى بَيْتِي"
+			},
+			{
+				"ar": "عَادَ",
+				"tr": "'āda",
+				"uz": "Qaytib keldi",
+				"ex": "سَأَعُودُ بَعْدَ قَلِيلٍ"
+			},
+			{
+				"ar": "بَعْدَ",
+				"tr": "ba'da",
+				"uz": "...dan keyin",
+				"ex": "بَعْدَ سَاعَةٍ"
+			},
+			{
+				"ar": "قَبْلَ",
+				"tr": "qabla",
+				"uz": "...dan oldin",
+				"ex": "قَبْلَ قَلِيلٍ"
+			},
+			{
+				"ar": "قَلِيل",
+				"tr": "qalīl",
+				"uz": "Oz, kam",
+				"ex": "بَعْدَ قَلِيلٍ"
+			},
+			{
+				"ar": "تَذْكِرَة",
+				"tr": "tadhkira",
+				"uz": "Bilet",
+				"ex": "لَا تَنْسَيْ التَّذْكِرَةَ"
+			},
+			{
+				"ar": "جَوَاز سَفَر",
+				"tr": "jawāz safar",
+				"uz": "Pasport",
+				"ex": "جَوَازُ السَّفَرِ"
+			},
+			{
+				"ar": "سَفَر",
+				"tr": "safar",
+				"uz": "Sayohat",
+				"ex": "جَوَازُ السَّفَرِ"
+			},
+			{
+				"ar": "تَوْقِيت",
+				"tr": "tawqīt",
+				"uz": "Vaqt (zona)",
+				"ex": "بِتَوْقِيتِ مَكَّةَ"
+			},
+			{
+				"ar": "تَقْرِيبًا",
+				"tr": "taqrīban",
+				"uz": "Taxminan",
+				"ex": "تِسْعُ سَاعَاتٍ تَقْرِيبًا"
+			},
+			{
+				"ar": "حَوَالَيْ",
+				"tr": "ḥawālay",
+				"uz": "Taxminan, atrofida",
+				"ex": "حَوَالَيْ سَاعَتَيْنِ"
+			},
+			{
+				"ar": "اِحْتَاجَ",
+				"tr": "iḥtāja",
+				"uz": "Muhtoj bo'ldi",
+				"ex": "كَمْ سَاعَةً نَحْتَاجُ؟"
+			},
+			{
+				"ar": "وَصَلَ (إِلَى)",
+				"tr": "waṣala ilā",
+				"uz": "Yetib keldi (...ga)",
+				"ex": "سَنَصِلُ إِلَى جُدَّةَ"
+			},
+			{
+				"ar": "هَيَّا",
+				"tr": "hayyā",
+				"uz": "Yur, qani",
+				"ex": "هَيَّا نَأْكُلْ"
+			},
+			{
+				"ar": "أَكَلَ",
+				"tr": "akala",
+				"uz": "Yedi",
+				"ex": "أَكَلْتُ قَبْلَ قَلِيلٍ"
+			},
+			{
+				"ar": "شَرِبَ",
+				"tr": "shariba",
+				"uz": "Ichdi",
+				"ex": "هَلَّا تَشْرَبِينَ؟"
+			},
+			{
+				"ar": "هَلَّا",
+				"tr": "hallā",
+				"uz": "...sangiz-chi (taklif)",
+				"ex": "هَلَّا تَشْرَبِينَ؟"
+			},
+			{
+				"ar": "مَانِع",
+				"tr": "māni'",
+				"uz": "To'siq, hojati yo'q",
+				"ex": "لَا مَانِعَ"
+			},
+			{
+				"ar": "فَضَّلَ",
+				"tr": "faḍḍala",
+				"uz": "Afzal ko'rdi",
+				"ex": "أُفَضِّلُ شَايًا سَاخِنًا"
+			},
+			{
+				"ar": "صَرَفَ",
+				"tr": "ṣarafa",
+				"uz": "Almashtirdi (pul)",
+				"ex": "أُرِيدُ أَنْ أَصْرِفَ"
+			},
+			{
+				"ar": "رِيَال",
+				"tr": "riyāl",
+				"uz": "Riyal (Saudiya pul birligi)",
+				"ex": "خَمْسُ مِئَةِ رِيَالٍ"
+			},
+			{
+				"ar": "ضَيِّق",
+				"tr": "ḍayyiq",
+				"uz": "Tor, qisqa",
+				"ex": "الْوَقْتُ ضَيِّقٌ"
+			},
+			{
+				"ar": "صَالَة",
+				"tr": "ṣāla",
+				"uz": "Zal, hol",
+				"ex": "صَالَةُ الْاِنْتِظَارِ"
+			},
+			{
+				"ar": "اِنْتِظَار",
+				"tr": "intiẓār",
+				"uz": "Kutish",
+				"ex": "صَالَةُ الْاِنْتِظَارِ"
+			},
+			{
+				"ar": "دَوْرَة الْمِيَاه",
+				"tr": "dawrat al-miyāh",
+				"uz": "Hojatxona",
+				"ex": "دَوْرَةُ الْمِيَاهِ"
+			},
+			{
+				"ar": "سُرْعَة",
+				"tr": "sur'a",
+				"uz": "Tezlik",
+				"ex": "بِسُرْعَةٍ"
+			},
+			{
+				"ar": "غَدًا",
+				"tr": "ghadan",
+				"uz": "Ertaga",
+				"ex": "غَدًا إِنْ شَاءَ اللهُ"
+			},
+			{
+				"ar": "أَمْس",
+				"tr": "ams",
+				"uz": "Kecha",
+				"ex": "سَافَرَ أَمْسِ"
+			},
+			{
+				"ar": "أُسْبُوع",
+				"tr": "usbū'",
+				"uz": "Hafta",
+				"ex": "بَعْدَ أُسْبُوعٍ"
+			},
+			{
+				"ar": "شَهْر",
+				"tr": "shahr",
+				"uz": "Oy",
+				"ex": "بَعْدَ شَهْرَيْنِ"
+			},
+			{
+				"ar": "سَنَة",
+				"tr": "sana",
+				"uz": "Yil",
+				"ex": "فِي السَّنَةِ الْقَادِمَةِ"
+			},
+			{
+				"ar": "قَادِم",
+				"tr": "qādim",
+				"uz": "Keladigan, kelgusi",
+				"ex": "فِي الْأُسْبُوعِ الْقَادِمِ"
+			},
+			{
+				"ar": "مَاضٍ",
+				"tr": "māḍin",
+				"uz": "O'tgan",
+				"ex": "فِي الْأُسْبُوعِ الْمَاضِي"
+			}
+		],
+
+		"dialogues": [
+			{
+				"title": "الْحِوَارُ الْأَوَّلُ",
+				"titleUz": "Birinchi dialog (Maymuna va Safiyya — uyda)",
+				"lines": [
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "كَمِ السَّاعَةُ الْآنَ يَا صَفِيَّةُ؟",
+						"uz": "Hozir soat necha, ey Safiyya?"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "السَّاعَةُ الْآنَ الثَّانِيَةَ عَشْرَةَ مَسَاءً",
+						"uz": "Hozir soat kechki o'n ikki (yarim tun)"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "فِي أَيِّ سَاعَةٍ سَنَذْهَبُ إِلَى الْمَطَارِ؟",
+						"uz": "Aeroportga soat nechada boramiz?"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "فِي السَّاعَةِ الرَّابِعَةِ مَسَاءً إِنْ شَاءَ اللهُ",
+						"uz": "Soat to'rtda, inshaAlloh"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "كَمْ سَاعَةً نَحْتَاجُ إِلَى الْمَطَارِ؟",
+						"uz": "Aeroportgacha necha soat kerak?"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "حَوَالَيْ سَاعَتَيْنِ",
+						"uz": "Taxminan ikki soat"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "كَمْ سَاعَةً مِنْ جَاكَرْتَا إِلَى جُدَّةَ؟",
+						"uz": "Jakartadan Jiddaga qancha soat?"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "تِسْعُ سَاعَاتٍ تَقْرِيبًا",
+						"uz": "Taxminan to'qqiz soat"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "فِي أَيِّ سَاعَةٍ سَنَصِلُ؟",
+						"uz": "Soat nechada yetib boramiz?"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "فِي السَّاعَةِ الْخَامِسَةِ صَبَاحًا بِتَوْقِيتِ مَكَّةَ إِنْ شَاءَ اللهُ",
+						"uz": "Soat ertalab beshda, Makka vaqti bilan, inshaAlloh"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "إِذَنْ سَأَرْجِعُ إِلَى بَيْتِي أَوَّلًا وَسَأَعُودُ بَعْدَ قَلِيلٍ",
+						"uz": "Unda men avval uyimga qaytaman va biroz vaqtdan keyin qaytib kelaman"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "حَسَنًا... أَرَاكِ قَرِيبًا... لَا تَنْسَيْ التَّذْكِرَةَ وَجَوَازَ السَّفَرِ",
+						"uz": "Yaxshi, ko'rishguncha. Biletni va pasportni unutma"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "شُكْرًا.. إِنْ شَاءَ اللهُ",
+						"uz": "Rahmat, inshaAlloh"
+					}
+				]
+			},
+			{
+				"title": "فِي الْمَطَارِ",
+				"titleUz": "Aeroportda (ikkinchi dialog)",
+				"lines": [
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "الْحَمْدُ لِلهِ قَدْ وَصَلْنَا",
+						"uz": "Allohga shukur, yetib keldik"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "هَيَّا نَأْكُلْ أَوَّلًا",
+						"uz": "Yur, avval ovqatlanaylik"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "عَفْوًا.. أَكَلْتُ قَبْلَ قَلِيلٍ",
+						"uz": "Kechirasiz, men hozirgina ovqatlandim"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "هَلَّا تَشْرَبِينَ؟",
+						"uz": "Bir narsa ichmaysizmi?"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "لَا مَانِعَ",
+						"uz": "Mayli (hojati yo'q ma'nosida)"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "مَاذَا تُفَضِّلِينَ أَنْ تَشْرَبِي؟",
+						"uz": "Nima ichishni afzal ko'rasiz?"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "أُفَضِّلُ شَايًا سَاخِنًا",
+						"uz": "Issiq choyni afzal ko'raman"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "عَلَى فِكْرَةٍ.. هَلْ عِنْدَكِ رِيَالَاتٌ؟",
+						"uz": "Aytgancha, sizda riyal bormi?"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "نَعَمْ عِنْدِي خَمْسُ مِئَةِ رِيَالٍ. وَهَلْ عِنْدَكِ رِيَالَاتٌ؟",
+						"uz": "Ha, mende besh yuz riyal bor. Sizda-chi?"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "لَا.. مَا عِنْدِي رِيَالَاتٌ. أُرِيدُ أَنْ أَصْرِفَ رُوبِيَّاتِي إِلَى رِيَالَاتٍ الْآنَ",
+						"uz": "Yo'q, menda riyal yo'q. Hozir rupiyalarimni riyalga almashtirmoqchiman"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "لَا يَا مَيْمُونَةُ. الْوَقْتُ ضَيِّقٌ. سَتُقْلِعُ الطَّائِرَةُ بَعْدَ سَاعَةٍ",
+						"uz": "Yo'q, vaqt qisqa. Samolyot bir soatdan keyin uchadi"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "إِذَنْ.. أَيْنَ أَصْرِفُهَا؟",
+						"uz": "Unda qayerda almashtiraman?"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "فِي مَطَارِ جُدَّةَ غَدًا إِنْ شَاءَ اللهُ",
+						"uz": "Ertaga Jidda aeroportida, inshaAlloh"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "حَسَنًا... هَيَّا نَدْخُلْ صَالَةَ الْاِنْتِظَارِ!",
+						"uz": "Yaxshi, qani kutish zaliga kiraylik!"
+					},
+					{
+						"speaker": "مَيْمُونَة",
+						"ar": "اِنْتَظِرِي لَحْظَةً! أُرِيدُ دَوْرَةَ الْمِيَاهِ أَوَّلًا",
+						"uz": "Bir lahza kuting! Avval hojatxonaga borishim kerak"
+					},
+					{
+						"speaker": "صَفِيَّة",
+						"ar": "بِسُرْعَةٍ يَا صَفِيَّةُ!",
+						"uz": "Tezroq, ey Safiyya!"
+					}
+				]
+			}
+		],
+
+		"comprehensionQuiz": [
+			{
+				"ar": "كَمِ السَّاعَةُ فِي بِدَايَةِ الْحِوَارِ؟",
+				"uz": "Dialog boshida soat necha?",
+				"answer": {
+					"ar": "الثَّانِيَةَ عَشْرَةَ مَسَاءً",
+					"uz": "Soat kechki o'n ikki"
+				},
+				"choices": [
+					"الثَّانِيَةَ عَشْرَةَ مَسَاءً",
+					"الرَّابِعَةُ صَبَاحًا",
+					"الْخَامِسَةُ مَسَاءً",
+					"السَّاعَةُ الْأُولَى"
+				]
+			},
+			{
+				"ar": "فِي أَيِّ سَاعَةٍ يَذْهَبَانِ إِلَى الْمَطَارِ؟",
+				"uz": "Aeroportga soat nechada boradilar?",
+				"answer": {
+					"ar": "فِي السَّاعَةِ الرَّابِعَةِ مَسَاءً",
+					"uz": "Soat to'rtda (kechqurun)"
+				},
+				"choices": [
+					"فِي السَّاعَةِ الرَّابِعَةِ مَسَاءً",
+					"فِي السَّاعَةِ الثَّانِيَةَ عَشْرَةَ",
+					"فِي السَّاعَةِ السَّابِعَةِ صَبَاحًا",
+					"فِي السَّاعَةِ الْخَامِسَةِ"
+				]
+			},
+			{
+				"ar": "كَمْ سَاعَةً يَحْتَاجَانِ إِلَى الْمَطَارِ؟",
+				"uz": "Aeroportgacha necha soat kerak?",
+				"answer": {
+					"ar": "حَوَالَيْ سَاعَتَيْنِ",
+					"uz": "Taxminan ikki soat"
+				},
+				"choices": [
+					"حَوَالَيْ سَاعَتَيْنِ",
+					"سَاعَةً وَاحِدَةً",
+					"ثَلَاثَ سَاعَاتٍ",
+					"تِسْعَ سَاعَاتٍ"
+				]
+			},
+			{
+				"ar": "كَمْ سَاعَةً مِنْ جَاكَرْتَا إِلَى جُدَّةَ؟",
+				"uz": "Jakartadan Jiddagacha qancha soat?",
+				"answer": {
+					"ar": "تِسْعُ سَاعَاتٍ تَقْرِيبًا",
+					"uz": "Taxminan to'qqiz soat"
+				},
+				"choices": [
+					"تِسْعُ سَاعَاتٍ تَقْرِيبًا",
+					"سَاعَتَانِ",
+					"خَمْسُ سَاعَاتٍ",
+					"خَمْسَ عَشْرَةَ سَاعَةً"
+				]
+			},
+			{
+				"ar": "فِي أَيِّ سَاعَةٍ سَيَصِلَانِ إِلَى جُدَّةَ؟",
+				"uz": "Jiddaga soat nechada yetib boradilar?",
+				"answer": {
+					"ar": "فِي السَّاعَةِ الْخَامِسَةِ صَبَاحًا",
+					"uz": "Ertalab soat beshda"
+				},
+				"choices": [
+					"فِي السَّاعَةِ الْخَامِسَةِ صَبَاحًا",
+					"فِي السَّاعَةِ الرَّابِعَةِ مَسَاءً",
+					"فِي السَّاعَةِ التَّاسِعَةِ صَبَاحًا",
+					"فِي السَّاعَةِ الْعَاشِرَةِ مَسَاءً"
+				]
+			},
+			{
+				"ar": "بِأَيِّ تَوْقِيتٍ سَيَصِلَانِ؟",
+				"uz": "Qaysi vaqt bilan yetib boradilar?",
+				"answer": {
+					"ar": "بِتَوْقِيتِ مَكَّةَ",
+					"uz": "Makka vaqti bilan"
+				},
+				"choices": [
+					"بِتَوْقِيتِ مَكَّةَ",
+					"بِتَوْقِيتِ جَاكَرْتَا",
+					"بِتَوْقِيتِ الْقَاهِرَةِ",
+					"بِتَوْقِيتِ الرِّيَاضِ"
+				]
+			},
+			{
+				"ar": "مَاذَا قَالَتْ صَفِيَّةُ لِمَيْمُونَةَ أَنْ لَا تَنْسَى؟",
+				"uz": "Safiyya Maymunaga nimani unutmaslikni aytdi?",
+				"answer": {
+					"ar": "التَّذْكِرَةَ وَجَوَازَ السَّفَرِ",
+					"uz": "Bilet va pasportni"
+				},
+				"choices": [
+					"التَّذْكِرَةَ وَجَوَازَ السَّفَرِ",
+					"الْحَقِيبَةَ وَالْكِتَابَ",
+					"الْهَاتِفَ وَالشَّاحِنَ",
+					"الطَّعَامَ وَالْمَاءَ"
+				]
+			},
+			{
+				"ar": "لِمَاذَا لَمْ تَأْكُلْ مَيْمُونَةُ فِي الْمَطَارِ؟",
+				"uz": "Maymuna nima uchun aeroportda ovqatlanmadi?",
+				"answer": {
+					"ar": "لِأَنَّهَا أَكَلَتْ قَبْلَ قَلِيلٍ",
+					"uz": "Chunki u hozirgina ovqatlangan"
+				},
+				"choices": [
+					"لِأَنَّهَا أَكَلَتْ قَبْلَ قَلِيلٍ",
+					"لِأَنَّهَا لَا تُحِبُّ الطَّعَامَ",
+					"لِأَنَّهَا مَرِيضَةٌ",
+					"لِأَنَّ الطَّعَامَ غَالٍ"
+				]
+			},
+			{
+				"ar": "مَاذَا تُفَضِّلُ مَيْمُونَةُ أَنْ تَشْرَبَ؟",
+				"uz": "Maymuna nima ichishni afzal ko'radi?",
+				"answer": {
+					"ar": "تُفَضِّلُ شَايًا سَاخِنًا",
+					"uz": "Issiq choyni afzal ko'radi"
+				},
+				"choices": [
+					"تُفَضِّلُ شَايًا سَاخِنًا",
+					"تُفَضِّلُ قَهْوَةً",
+					"تُفَضِّلُ مَاءً بَارِدًا",
+					"تُفَضِّلُ عَصِيرًا"
+				]
+			},
+			{
+				"ar": "كَمْ رِيَالًا عِنْدَ مَيْمُونَةَ؟",
+				"uz": "Maymunada qancha riyal bor?",
+				"answer": {
+					"ar": "خَمْسُ مِئَةِ رِيَالٍ",
+					"uz": "Besh yuz riyal"
+				},
+				"choices": [
+					"خَمْسُ مِئَةِ رِيَالٍ",
+					"مِئَةُ رِيَالٍ",
+					"أَلْفُ رِيَالٍ",
+					"لَيْسَ عِنْدَهَا رِيَالَاتٌ"
+				]
+			},
+			{
+				"ar": "أَيْنَ سَتَصْرِفُ صَفِيَّةُ رُوبِيَّاتِهَا؟",
+				"uz": "Safiyya rupiyalarini qayerda almashtiradi?",
+				"answer": {
+					"ar": "فِي مَطَارِ جُدَّةَ غَدًا",
+					"uz": "Ertaga Jidda aeroportida"
+				},
+				"choices": [
+					"فِي مَطَارِ جُدَّةَ غَدًا",
+					"فِي مَطَارِ جَاكَرْتَا الْآنَ",
+					"فِي الْبَيْتِ",
+					"فِي السُّوقِ"
+				]
+			},
+			{
+				"ar": "مَتَى سَتُقْلِعُ الطَّائِرَةُ؟",
+				"uz": "Samolyot qachon uchadi?",
+				"answer": {
+					"ar": "بَعْدَ سَاعَةٍ",
+					"uz": "Bir soatdan keyin"
+				},
+				"choices": [
+					"بَعْدَ سَاعَةٍ",
+					"بَعْدَ سَاعَتَيْنِ",
+					"بَعْدَ خَمْسِ سَاعَاتٍ",
+					"غَدًا"
+				]
+			}
+		],
+
+		"grammar": [
+			{
+				"title": "Soatni so'rash va aytish",
+				"content": "Vaqtni so'rashning asosiy iborasi: «كَمِ السَّاعَةُ الْآنَ؟» (Soat necha?). Javob: «السَّاعَةُ + tartib son (ayol shaklda)». Soatlar uchun tartib sonlarning ayol shakli ishlatiladi: الْأُولَى (birinchi), الثَّانِيَة (ikkinchi) va h.k.",
+				"examples": [
+					{ "ar": "كَمِ السَّاعَةُ الْآنَ؟", "uz": "Hozir soat necha?" },
+					{ "ar": "السَّاعَةُ الْوَاحِدَةُ", "uz": "Soat bir" },
+					{ "ar": "السَّاعَةُ الثَّانِيَةُ", "uz": "Soat ikki" },
+					{ "ar": "السَّاعَةُ الثَّالِثَةُ", "uz": "Soat uch" },
+					{ "ar": "السَّاعَةُ الرَّابِعَةُ", "uz": "Soat to'rt" },
+					{ "ar": "السَّاعَةُ الْخَامِسَةُ", "uz": "Soat besh" },
+					{ "ar": "السَّاعَةُ السَّابِعَةُ", "uz": "Soat yetti" },
+					{ "ar": "السَّاعَةُ الثَّانِيَةَ عَشْرَةَ", "uz": "Soat o'n ikki" }
+				]
+			},
+			{
+				"title": "Daqiqalar: وَالنِّصْف, وَالرُّبْع, وَالثُّلْث",
+				"content": "Soatdan keyin daqiqalarni ko'rsatish uchun maxsus iboralar: وَالنِّصْف (yarim), وَالرُّبْع (chorak — 15 daqiqa), وَالثُّلْث (uchdan bir — 20 daqiqa). Aniq daqiqalar uchun: «وَخَمْس دَقَائِق» (5 daqiqa).",
+				"examples": [
+					{
+						"ar": "السَّاعَةُ الثَّالِثَةُ وَالنِّصْفُ",
+						"uz": "Soat uch yarim (3:30)"
+					},
+					{
+						"ar": "السَّاعَةُ الثَّانِيَةُ وَالرُّبْعُ",
+						"uz": "Soat ikki chorak (2:15)"
+					},
+					{
+						"ar": "السَّاعَةُ الرَّابِعَةُ وَالثُّلْثُ",
+						"uz": "Soat to'rt yigirma (4:20)"
+					},
+					{
+						"ar": "السَّاعَةُ الثَّامِنَةُ وَخَمْسُ دَقَائِقَ",
+						"uz": "Soat sakkiz besh daqiqa (8:05)"
+					},
+					{
+						"ar": "السَّاعَةُ الْعَاشِرَةُ وَخَمْسٌ وَعِشْرُونَ دَقِيقَةً",
+						"uz": "Soat o'n yigirma besh daqiqa (10:25)"
+					}
+				]
+			},
+			{
+				"title": "إِلَّا — kam (daqiqalar bilan)",
+				"content": "«إِلَّا» — yarim soatdan ko'p o'tganda «kam» ma'nosida ishlatiladi. «السَّابِعَةُ إِلَّا رُبْعًا» — yettiga chorak kam (6:45). إِلَّا dan keyin daqiqalar mansub (nasb) holatda keladi.",
+				"examples": [
+					{
+						"ar": "السَّاعَةُ السَّابِعَةُ إِلَّا رُبْعًا",
+						"uz": "Yettiga chorak kam (6:45)"
+					},
+					{
+						"ar": "السَّاعَةُ الْخَامِسَةُ إِلَّا عَشْرَ دَقَائِقَ",
+						"uz": "Beshga o'n daqiqa kam (4:50)"
+					},
+					{
+						"ar": "السَّاعَةُ التَّاسِعَةُ إِلَّا ثُلْثًا",
+						"uz": "To'qqizga yigirma daqiqa kam (8:40)"
+					},
+					{
+						"ar": "السَّاعَةُ السَّادِسَةُ إِلَّا خَمْسًا وَعِشْرِينَ دَقِيقَةً",
+						"uz": "Oltiga yigirma besh daqiqa kam"
+					}
+				]
+			},
+			{
+				"title": "صَبَاحًا / مَسَاءً — kun qismi",
+				"content": "Vaqtni aniqlash uchun kun qismi qo'shiladi: صَبَاحًا (ertalab), مَسَاءً (kechqurun), ظُهْرًا (peshin), لَيْلًا (kechasi). Ular adverb sifatida mansub (ـًا) holatda.",
+				"examples": [
+					{
+						"ar": "السَّاعَةُ الْخَامِسَةُ صَبَاحًا",
+						"uz": "Ertalab soat besh"
+					},
+					{
+						"ar": "السَّاعَةُ الرَّابِعَةُ مَسَاءً",
+						"uz": "Kechqurun soat to'rt"
+					},
+					{
+						"ar": "السَّاعَةُ الثَّانِيَةَ عَشْرَةَ ظُهْرًا",
+						"uz": "Peshin soat o'n ikki"
+					},
+					{ "ar": "السَّاعَةُ الْعَاشِرَةُ لَيْلًا", "uz": "Kechasi soat o'n" }
+				]
+			},
+			{
+				"title": "بَعْدَ va قَبْلَ — vaqt iboralari",
+				"content": "بَعْدَ (...dan keyin) va قَبْلَ (...dan oldin) — vaqt aloqasi uchun. Ulardan keyin keladigan ot majruri (jarr) holatda.",
+				"examples": [
+					{ "ar": "بَعْدَ قَلِيلٍ", "uz": "Birozdan keyin" },
+					{ "ar": "بَعْدَ سَاعَةٍ", "uz": "Bir soatdan keyin" },
+					{ "ar": "بَعْدَ أُسْبُوعٍ", "uz": "Bir haftadan keyin" },
+					{ "ar": "قَبْلَ قَلِيلٍ", "uz": "Birozcha oldin" },
+					{ "ar": "قَبْلَ شَهْرَيْنِ", "uz": "Ikki oy oldin" },
+					{ "ar": "غَدًا", "uz": "Ertaga" },
+					{ "ar": "أَمْسِ", "uz": "Kecha" }
+				]
+			},
+			{
+				"title": "الْأَشْهُرُ الْإِسْلَامِيَّةُ — Islom oylari",
+				"content": "Islom kalendari 12 oydan iborat. Hijriy oylar Qur'on va Sunnatda ko'p uchraydi. Tartibi muhim: Muharram birinchi, Zul-Hijja oxirgi.",
+				"examples": [
+					{ "ar": "١. مُحَرَّم", "uz": "1. Muharram" },
+					{ "ar": "٢. صَفَر", "uz": "2. Safar" },
+					{ "ar": "٣. رَبِيع الْأَوَّل", "uz": "3. Rabi'ul-Avval" },
+					{ "ar": "٤. رَبِيع الْآخِر", "uz": "4. Rabi'ul-Oxir" },
+					{ "ar": "٥. جُمَادَى الْأُولَى", "uz": "5. Jumadi-Ulo" },
+					{ "ar": "٦. جُمَادَى الْآخِرَة", "uz": "6. Jumadi-Oxira" },
+					{ "ar": "٧. رَجَب", "uz": "7. Rajab" },
+					{ "ar": "٨. شَعْبَان", "uz": "8. Sha'bon" },
+					{ "ar": "٩. رَمَضَان", "uz": "9. Ramazon" },
+					{ "ar": "١٠. شَوَّال", "uz": "10. Shavval" },
+					{ "ar": "١١. ذُو الْقَعْدَة", "uz": "11. Zul-Qa'da" },
+					{ "ar": "١٢. ذُو الْحِجَّة", "uz": "12. Zul-Hijja" }
+				]
+			}
+		]
 	},
 	{
 		"number": 13,
