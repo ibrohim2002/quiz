@@ -1,7 +1,7 @@
 {
-	"version": "3.0.0",
-	"releaseDate": "2026-05-16",
-	"totalWords": 424,
-	"totalLessons": 11,
-	"changelog": "Katta yangilanish! Kitoblar bo'limi qo'shildi (kelajakda yangi kitoblar). Matn va dialoglar uchun 20 martalik takrorlash hisoblagichi. Har dars uchun yangi testlar: dialog va matn bo'yicha savol-javoblar."
+	"version": "3.0.1",
+	"releaseDate": "2026-05-18",
+	"totalWords": 473,
+	"totalLessons": 12,
+	"changelog": "Katta yangilanish! Kitoblar bo'limi qo'shildi (kelajakda yangi kitoblar). Matn va dialoglar uchun 20 martalik takrorlash hisoblagichi. Har dars uchun yangi testlar: dialog va matn bo'yicha savol-javoblar. 12-dars ham qo'shildi"
 }
