@@ -6724,8 +6724,672 @@
 		"number": 13,
 		"titleAr": "نِهَايَةُ الْأُسْبُوعِ",
 		"titleUz": "Hafta oxiri",
-		"words": [],
-		"comingSoon": true
+
+		"words": [
+			{
+				"ar": "نِهَايَة",
+				"tr": "nihāya",
+				"uz": "Oxiri",
+				"ex": "نِهَايَةُ الْأُسْبُوعِ"
+			},
+			{
+				"ar": "الْاِثْنَيْن",
+				"tr": "al-ithnayn",
+				"uz": "Dushanba",
+				"ex": "يَوْمَ الْاِثْنَيْنِ"
+			},
+			{
+				"ar": "الثُّلَاثَاء",
+				"tr": "ath-thulāthā'",
+				"uz": "Seshanba",
+				"ex": "يَوْمَ الثُّلَاثَاءِ"
+			},
+			{
+				"ar": "الْأَرْبِعَاء",
+				"tr": "al-arbi'ā'",
+				"uz": "Chorshanba",
+				"ex": "يَوْمَ الْأَرْبِعَاءِ"
+			},
+			{
+				"ar": "الْخَمِيس",
+				"tr": "al-khamīs",
+				"uz": "Payshanba",
+				"ex": "يَوْمَ الْخَمِيسِ"
+			},
+			{
+				"ar": "الْجُمْعَة",
+				"tr": "al-jum'a",
+				"uz": "Juma",
+				"ex": "يَوْمَ الْجُمْعَةِ"
+			},
+			{
+				"ar": "السَّبْت",
+				"tr": "as-sabt",
+				"uz": "Shanba",
+				"ex": "يَوْمَ السَّبْتِ"
+			},
+			{
+				"ar": "الْأَحَد",
+				"tr": "al-aḥad",
+				"uz": "Yakshanba",
+				"ex": "يَوْمَ الْأَحَدِ"
+			},
+			{
+				"ar": "إِجَازَة",
+				"tr": "ijāza",
+				"uz": "Ta'til, dam olish",
+				"ex": "الْإِجَازَةُ الْأُسْبُوعِيَّةُ"
+			},
+			{
+				"ar": "عُطْلَة",
+				"tr": "'uṭla",
+				"uz": "Ta'til",
+				"ex": "الْعُطْلَةُ الصَّيْفِيَّةُ"
+			},
+			{
+				"ar": "عِيد",
+				"tr": "'īd",
+				"uz": "Bayram",
+				"ex": "يَوْمَ الْعِيدِ"
+			},
+			{
+				"ar": "غَد",
+				"tr": "ghad",
+				"uz": "Ertangi kun",
+				"ex": "يَوْمَ الْغَدِ"
+			},
+			{
+				"ar": "شَاطِئ",
+				"tr": "shāṭi'",
+				"uz": "Qirg'oq",
+				"ex": "شَاطِئُ الْبَحْرِ"
+			},
+			{
+				"ar": "بَحْر",
+				"tr": "baḥr",
+				"uz": "Dengiz",
+				"ex": "أَذْهَبُ إِلَى الْبَحْرِ"
+			},
+			{
+				"ar": "تَمَشَّى",
+				"tr": "tamashshā",
+				"uz": "Sayr qildi",
+				"ex": "أَتَمَشَّى فِي الْحَدِيقَةِ"
+			},
+			{
+				"ar": "حَدِيقَةُ الْحَيَوَانَات",
+				"tr": "ḥadīqat al-ḥayawānāt",
+				"uz": "Hayvonot bog'i",
+				"ex": "فِي حَدِيقَةِ الْحَيَوَانَاتِ"
+			},
+			{
+				"ar": "حَيَوَان",
+				"tr": "ḥayawān",
+				"uz": "Hayvon",
+				"ex": "الْحَيَوَانَاتُ"
+			},
+			{
+				"ar": "نَافِع",
+				"tr": "nāfi'",
+				"uz": "Foydali",
+				"ex": "كُتُبًا نَافِعَةً"
+			},
+			{
+				"ar": "اِسْتَيْقَظَ",
+				"tr": "istayqaẓa",
+				"uz": "Uyg'ondi",
+				"ex": "أَسْتَيْقِظُ مُبَكِّرًا"
+			},
+			{
+				"ar": "مُبَكِّرًا",
+				"tr": "mubakkiran",
+				"uz": "Ertaroq, erta",
+				"ex": "أَسْتَيْقِظُ مُبَكِّرًا"
+			},
+			{
+				"ar": "كُرَة الْقَدَم",
+				"tr": "kurat al-qadam",
+				"uz": "Futbol",
+				"ex": "أَلْعَبُ كُرَةَ الْقَدَمِ"
+			},
+			{
+				"ar": "كُرَة السَّلَّة",
+				"tr": "kurat as-salla",
+				"uz": "Basketbol",
+				"ex": "مُبَارَاةُ كُرَةِ السَّلَّةِ"
+			},
+			{
+				"ar": "رِيَاضَة",
+				"tr": "riyāḍa",
+				"uz": "Sport",
+				"ex": "الرِّيَاضَةُ نَافِعَةٌ"
+			},
+			{
+				"ar": "صِحَّة",
+				"tr": "ṣiḥḥa",
+				"uz": "Salomatlik",
+				"ex": "لِصِحَّةِ الْجِسْمِ"
+			},
+			{
+				"ar": "جِسْم",
+				"tr": "jism",
+				"uz": "Tana, jism",
+				"ex": "صِحَّةُ الْجِسْمِ"
+			},
+			{
+				"ar": "زَارَ",
+				"tr": "zāra",
+				"uz": "Ziyorat qildi",
+				"ex": "أَزُورُ الْمَسْجِدَ"
+			},
+			{
+				"ar": "صَلَّى",
+				"tr": "ṣallā",
+				"uz": "Namoz o'qidi",
+				"ex": "أُصَلِّي فِي الْمَسْجِدِ"
+			},
+			{
+				"ar": "مُحَاضَرَة",
+				"tr": "muḥāḍara",
+				"uz": "Ma'ruza, dars",
+				"ex": "أَسْمَعُ الْمُحَاضَرَةَ"
+			},
+			{
+				"ar": "مَطْعَم",
+				"tr": "maṭ'am",
+				"uz": "Restoran, oshxona",
+				"ex": "آكُلُ فِي الْمَطْعَمِ"
+			},
+			{
+				"ar": "مُبَارَاة",
+				"tr": "mubārā",
+				"uz": "Musobaqa, o'yin",
+				"ex": "مُبَارَاةُ كُرَةِ السَّلَّةِ"
+			},
+			{
+				"ar": "شَاهَدَ",
+				"tr": "shāhada",
+				"uz": "Tomosha qildi",
+				"ex": "أُشَاهِدُ الْمُبَارَاةَ"
+			},
+			{
+				"ar": "تَجَوَّلَ",
+				"tr": "tajawwala",
+				"uz": "Aylandi, sayr qildi",
+				"ex": "أَتَجَوَّلُ فِي السُّوقِ"
+			},
+			{
+				"ar": "تَحَدَّثَ",
+				"tr": "taḥaddatha",
+				"uz": "Suhbatlashdi",
+				"ex": "أَتَحَدَّثُ مَعَ أَصْدِقَائِي"
+			},
+			{
+				"ar": "صَدِيق",
+				"tr": "ṣadīq",
+				"uz": "Do'st",
+				"ex": "مَعَ أَصْدِقَائِي"
+			},
+			{
+				"ar": "أَصْدِقَاء",
+				"tr": "aṣdiqā'",
+				"uz": "Do'stlar",
+				"ex": "أَتَحَدَّثُ مَعَ أَصْدِقَائِي"
+			},
+			{
+				"ar": "تَوَضَّأَ",
+				"tr": "tawaḍḍa'a",
+				"uz": "Tahorat oldi",
+				"ex": "يَتَوَضَّأُ ثُمَّ يُصَلِّي"
+			},
+			{
+				"ar": "فَجْر",
+				"tr": "fajr",
+				"uz": "Bomdod (vaqt)",
+				"ex": "يُصَلِّي الْفَجْرَ"
+			},
+			{
+				"ar": "ظُهْر",
+				"tr": "ẓuhr",
+				"uz": "Peshin",
+				"ex": "صَلَاةُ الظُّهْرِ"
+			},
+			{
+				"ar": "عَصْر",
+				"tr": "'aṣr",
+				"uz": "Asr",
+				"ex": "بَعْدَ الْعَصْرِ"
+			},
+			{
+				"ar": "مَغْرِب",
+				"tr": "maghrib",
+				"uz": "Shom",
+				"ex": "بَعْدَ الْمَغْرِبِ"
+			},
+			{
+				"ar": "عِشَاء",
+				"tr": "'ishā'",
+				"uz": "Xufton, kechki ovqat",
+				"ex": "تَتَنَاوَلُ الْعَشَاءَ"
+			},
+			{
+				"ar": "نَافِلَة",
+				"tr": "nāfila",
+				"uz": "Nafl namoz",
+				"ex": "بَعْدَ النَّافِلَةِ"
+			},
+			{
+				"ar": "طُلُوع الشَّمْس",
+				"tr": "ṭulū' ash-shams",
+				"uz": "Quyosh chiqishi",
+				"ex": "حَتَّى طُلُوعِ الشَّمْسِ"
+			},
+			{
+				"ar": "اِسْتَحَمَّ",
+				"tr": "istaḥamma",
+				"uz": "Cho'mildi",
+				"ex": "يَسْتَحِمُّ كُلَّ يَوْمٍ"
+			},
+			{
+				"ar": "تَنَاوَلَ",
+				"tr": "tanāwala",
+				"uz": "Iste'mol qildi",
+				"ex": "يَتَنَاوَلُ الْفَطُورَ"
+			},
+			{
+				"ar": "فَطُور",
+				"tr": "faṭūr",
+				"uz": "Nonushta",
+				"ex": "يَتَنَاوَلُ الْفَطُورَ"
+			},
+			{
+				"ar": "حَافِلَة",
+				"tr": "ḥāfila",
+				"uz": "Avtobus",
+				"ex": "يَذْهَبُ بِالْحَافِلَةِ"
+			},
+			{
+				"ar": "تِلْفَاز",
+				"tr": "tilfāz",
+				"uz": "Televizor",
+				"ex": "يُشَاهِدُ التِّلْفَازَ"
+			},
+			{
+				"ar": "رَاجَعَ",
+				"tr": "rāja'a",
+				"uz": "Takrorladi",
+				"ex": "يُرَاجِعُ الدُّرُوسَ"
+			},
+			{
+				"ar": "وَاجِبَات",
+				"tr": "wājibāt",
+				"uz": "Uy vazifalari",
+				"ex": "يَكْتُبُ الْوَاجِبَاتِ"
+			},
+			{
+				"ar": "نَامَ",
+				"tr": "nāma",
+				"uz": "Uxladi",
+				"ex": "ثُمَّ يَنَامُ"
+			},
+			{
+				"ar": "نَشِيط",
+				"tr": "nashīṭ",
+				"uz": "Faol, harakatchan",
+				"ex": "جَعْفَرُ رَجُلٌ نَشِيطٌ"
+			},
+			{
+				"ar": "حَيَاة يَوْمِيَّة",
+				"tr": "ḥayāt yawmiyya",
+				"uz": "Kundalik hayot",
+				"ex": "الْحَيَاةُ الْيَوْمِيَّةُ"
+			}
+		],
+
+		"dialogues": [
+			{
+				"title": "الْحِوَارُ",
+				"titleUz": "Dialog (O'qituvchi va bolalar — shanba kuni)",
+				"lines": [
+					{
+						"speaker": "الْمُدَرِّس",
+						"ar": "مَاذَا تُرِيدُونَ أَنْ تَفْعَلُوا يَوْمَ السَّبْتِ يَا أَبْنَائِي؟",
+						"uz": "Bolalarim, shanba kuni nima qilmoqchisiz?"
+					},
+					{
+						"speaker": "بِلَال",
+						"ar": "أُرِيدُ أَنْ أَذْهَبَ إِلَى شَاطِئِ الْبَحْرِ",
+						"uz": "Men dengiz qirg'og'iga bormoqchiman"
+					},
+					{
+						"speaker": "عَمْرُو",
+						"ar": "أُرِيدُ أَنْ أَتَمَشَّى فِي حَدِيقَةِ الْحَيَوَانَاتِ",
+						"uz": "Men hayvonot bog'ida sayr qilmoqchiman"
+					},
+					{
+						"speaker": "عَمَّار",
+						"ar": "أُرِيدُ أَنْ أَقْرَأَ كُتُبًا نَافِعَةً فِي الْمَكْتَبَةِ",
+						"uz": "Men kutubxonada foydali kitoblar o'qimoqchiman"
+					},
+					{
+						"speaker": "الْمُدَرِّس",
+						"ar": "مَا شَاءَ اللهُ. وَأَنْتَ يَا مُوسَى؟",
+						"uz": "MoshaAlloh. Sen-chi, ey Muso?"
+					},
+					{
+						"speaker": "مُوسَى",
+						"ar": "أُرِيدُ أَنْ أَسْتَيْقِظَ مُبَكِّرًا ثُمَّ أَلْعَبَ كُرَةَ الْقَدَمِ",
+						"uz": "Men ertaroq turaman, keyin futbol o'ynamoqchiman"
+					},
+					{
+						"speaker": "الْمُدَرِّس",
+						"ar": "مُمْتَازٌ! الرِّيَاضَةُ نَافِعَةٌ لِصِحَّةِ الْجِسْمِ. وَأَنْتَ يَا أُسَامَةُ؟",
+						"uz": "A'lo! Sport tana salomatligi uchun foydali. Sen-chi, ey Usama?"
+					},
+					{
+						"speaker": "أُسَامَة",
+						"ar": "أُرِيدُ أَنْ أَزُورَ مَسْجِدَ الْاِسْتِقْلَالِ وَأُصَلِّيَ وَأَسْمَعَ الْمُحَاضَرَةَ فِيهِ",
+						"uz": "Istiqlol masjidini ziyorat qilmoqchiman, namoz o'qib, ma'ruza tinglamoqchiman"
+					},
+					{
+						"speaker": "الْمُدَرِّس",
+						"ar": "أَرْشَدَكَ اللهُ لِطَاعَتِهِ. وَمَاذَا تُرِيدُ يَا سَلْمَان؟",
+						"uz": "Alloh seni o'z toatiga muvaffaq qilsin. Sen-chi, ey Salmon?"
+					},
+					{
+						"speaker": "سَلْمَان",
+						"ar": "أُرِيدُ أَنْ آكُلَ فِي الْمَطْعَمِ ثُمَّ أُشَاهِدَ مُبَارَاةَ كُرَةِ السَّلَّةِ",
+						"uz": "Men restoranda ovqatlanaman, keyin basketbol musobaqasini tomosha qilaman"
+					},
+					{
+						"speaker": "الْمُدَرِّس",
+						"ar": "وَأَنْتَ يَا فُضَيْل؟",
+						"uz": "Sen-chi, ey Fudayl?"
+					},
+					{
+						"speaker": "فُضَيْل",
+						"ar": "أُرِيدُ أَنْ أَتَجَوَّلَ وَأَتَحَدَّثَ مَعَ أَصْدِقَائِي",
+						"uz": "Men sayr qilib, do'stlarim bilan suhbatlashmoqchiman"
+					},
+					{
+						"speaker": "الْمُدَرِّس",
+						"ar": "سَهَّلَ اللهُ لَكُمْ أُمُورَكُمْ",
+						"uz": "Alloh ishlaringizni oson qilsin"
+					}
+				]
+			}
+		],
+
+		"texts": [
+			{
+				"title": "الْحَيَاةُ الْيَوْمِيَّةُ",
+				"titleUz": "Kundalik hayot (Ja'far haqida)",
+				"ar": "جَعْفَرُ رَجُلٌ نَشِيطٌ. هُوَ يَسْتَيْقِظُ مُبَكِّرًا كُلَّ يَوْمٍ. ثُمَّ يَتَوَضَّأُ وَيُصَلِّي الْفَجْرَ فِي الْمَسْجِدِ وَيَقْرَأُ الْقُرْآنَ حَتَّى طُلُوعِ الشَّمْسِ وَلَا يَرْجِعُ إِلَّا بَعْدَ النَّافِلَةِ. وَبَعْدَ ذَلِكَ، يَسْتَحِمُّ وَيَتَنَاوَلُ الْفَطُورَ. هُوَ يُحِبُّ أَنْ يَشْرَبَ اللَّبَنَ كُلَّ صَبَاحٍ. ثُمَّ يَذْهَبُ إِلَى الْمَدْرَسَةِ بِالْحَافِلَةِ. يَرْجِعُ جَعْفَرُ إِلَى الْبَيْتِ مَسَاءً. ثُمَّ يَلْعَبُ مَعَ أَصْدِقَائِهِ وَيَتَحَدَّثُ مَعَ أَبِيهِ وَأُمِّهِ وَأَحْيَانًا يُشَاهِدُ التِّلْفَازَ ثُمَّ يُرَاجِعُ الدُّرُوسَ وَيَكْتُبُ الْوَاجِبَاتِ ثُمَّ يَنَامُ.",
+				"uz": "Ja'far faol odam. U har kuni ertaroq turadi. So'ng tahorat oladi va masjidda bomdod namozini o'qiydi, quyosh chiqquncha Qur'on o'qiydi va nafl namozdan keyingina qaytadi. Shundan keyin cho'miladi va nonushta qiladi. U har ertalab sut ichishni yaxshi ko'radi. So'ng avtobusda maktabga boradi. Ja'far uyga kechqurun qaytadi. Keyin do'stlari bilan o'ynaydi, otasi va onasi bilan suhbatlashadi, ba'zan televizor tomosha qiladi, so'ng darslarini takrorlaydi va uy vazifalarini yozadi, so'ng uxlaydi."
+			}
+		],
+
+		"comprehensionQuiz": [
+			{
+				"ar": "مَاذَا يُرِيدُ بِلَالٌ أَنْ يَفْعَلَ يَوْمَ السَّبْتِ؟",
+				"uz": "Bilol shanba kuni nima qilmoqchi?",
+				"answer": {
+					"ar": "يُرِيدُ أَنْ يَذْهَبَ إِلَى شَاطِئِ الْبَحْرِ",
+					"uz": "Dengiz qirg'og'iga bormoqchi"
+				},
+				"choices": [
+					"يُرِيدُ أَنْ يَذْهَبَ إِلَى شَاطِئِ الْبَحْرِ",
+					"يُرِيدُ أَنْ يَلْعَبَ كُرَةَ الْقَدَمِ",
+					"يُرِيدُ أَنْ يَقْرَأَ الْكُتُبَ",
+					"يُرِيدُ أَنْ يَأْكُلَ فِي الْمَطْعَمِ"
+				]
+			},
+			{
+				"ar": "أَيْنَ يُرِيدُ عَمْرُو أَنْ يَتَمَشَّى؟",
+				"uz": "Amr qayerda sayr qilmoqchi?",
+				"answer": {
+					"ar": "فِي حَدِيقَةِ الْحَيَوَانَاتِ",
+					"uz": "Hayvonot bog'ida"
+				},
+				"choices": [
+					"فِي حَدِيقَةِ الْحَيَوَانَاتِ",
+					"فِي شَاطِئِ الْبَحْرِ",
+					"فِي السُّوقِ",
+					"فِي الْمَسْجِدِ"
+				]
+			},
+			{
+				"ar": "مَاذَا يُرِيدُ عَمَّارٌ أَنْ يَفْعَلَ فِي الْمَكْتَبَةِ؟",
+				"uz": "Ammor kutubxonada nima qilmoqchi?",
+				"answer": {
+					"ar": "يُرِيدُ أَنْ يَقْرَأَ كُتُبًا نَافِعَةً",
+					"uz": "Foydali kitoblar o'qimoqchi"
+				},
+				"choices": [
+					"يُرِيدُ أَنْ يَقْرَأَ كُتُبًا نَافِعَةً",
+					"يُرِيدُ أَنْ يَنَامَ",
+					"يُرِيدُ أَنْ يَتَحَدَّثَ مَعَ أَصْدِقَائِهِ",
+					"يُرِيدُ أَنْ يَكْتُبَ الْوَاجِبَاتِ"
+				]
+			},
+			{
+				"ar": "مَاذَا يُرِيدُ مُوسَى أَنْ يَفْعَلَ بَعْدَ أَنْ يَسْتَيْقِظَ؟",
+				"uz": "Muso uyg'ongandan keyin nima qilmoqchi?",
+				"answer": {
+					"ar": "يُرِيدُ أَنْ يَلْعَبَ كُرَةَ الْقَدَمِ",
+					"uz": "Futbol o'ynamoqchi"
+				},
+				"choices": [
+					"يُرِيدُ أَنْ يَلْعَبَ كُرَةَ الْقَدَمِ",
+					"يُرِيدُ أَنْ يَنَامَ مَرَّةً أُخْرَى",
+					"يُرِيدُ أَنْ يَذْهَبَ إِلَى السُّوقِ",
+					"يُرِيدُ أَنْ يُشَاهِدَ التِّلْفَازَ"
+				]
+			},
+			{
+				"ar": "أَيْنَ يُرِيدُ أُسَامَةُ أَنْ يَزُورَ؟",
+				"uz": "Usama qayerga bormoqchi?",
+				"answer": {
+					"ar": "مَسْجِدَ الْاِسْتِقْلَالِ",
+					"uz": "Istiqlol masjidiga"
+				},
+				"choices": [
+					"مَسْجِدَ الْاِسْتِقْلَالِ",
+					"حَدِيقَةَ الْحَيَوَانَاتِ",
+					"شَاطِئَ الْبَحْرِ",
+					"الْمَكْتَبَةَ"
+				]
+			},
+			{
+				"ar": "مَاذَا يُرِيدُ سَلْمَانُ أَنْ يُشَاهِدَ؟",
+				"uz": "Salmon nimani tomosha qilmoqchi?",
+				"answer": {
+					"ar": "مُبَارَاةَ كُرَةِ السَّلَّةِ",
+					"uz": "Basketbol musobaqasini"
+				},
+				"choices": [
+					"مُبَارَاةَ كُرَةِ السَّلَّةِ",
+					"مُبَارَاةَ كُرَةِ الْقَدَمِ",
+					"الْأَفْلَامَ",
+					"الْأَخْبَارَ"
+				]
+			},
+			{
+				"ar": "مَاذَا يُرِيدُ فُضَيْلٌ أَنْ يَفْعَلَ؟",
+				"uz": "Fudayl nima qilmoqchi?",
+				"answer": {
+					"ar": "يُرِيدُ أَنْ يَتَجَوَّلَ وَيَتَحَدَّثَ مَعَ أَصْدِقَائِهِ",
+					"uz": "Sayr qilib do'stlari bilan suhbatlashmoqchi"
+				},
+				"choices": [
+					"يُرِيدُ أَنْ يَتَجَوَّلَ وَيَتَحَدَّثَ مَعَ أَصْدِقَائِهِ",
+					"يُرِيدُ أَنْ يَنَامَ كَثِيرًا",
+					"يُرِيدُ أَنْ يَدْرُسَ فِي الْبَيْتِ",
+					"يُرِيدُ أَنْ يُسَافِرَ"
+				]
+			},
+			{
+				"ar": "كَيْفَ جَعْفَرُ؟",
+				"uz": "Ja'far qanday inson?",
+				"answer": {
+					"ar": "هُوَ رَجُلٌ نَشِيطٌ",
+					"uz": "U faol inson"
+				},
+				"choices": [
+					"هُوَ رَجُلٌ نَشِيطٌ",
+					"هُوَ رَجُلٌ كَسْلَانٌ",
+					"هُوَ رَجُلٌ مَرِيضٌ",
+					"هُوَ رَجُلٌ نَائِمٌ"
+				]
+			},
+			{
+				"ar": "أَيْنَ يُصَلِّي جَعْفَرُ الْفَجْرَ؟",
+				"uz": "Ja'far bomdod namozini qayerda o'qiydi?",
+				"answer": {
+					"ar": "فِي الْمَسْجِدِ",
+					"uz": "Masjidda"
+				},
+				"choices": [
+					"فِي الْمَسْجِدِ",
+					"فِي الْبَيْتِ",
+					"فِي الْمَدْرَسَةِ",
+					"فِي الْحَدِيقَةِ"
+				]
+			},
+			{
+				"ar": "مَاذَا يَقْرَأُ جَعْفَرُ حَتَّى طُلُوعِ الشَّمْسِ؟",
+				"uz": "Ja'far quyosh chiqquncha nimani o'qiydi?",
+				"answer": {
+					"ar": "يَقْرَأُ الْقُرْآنَ",
+					"uz": "Qur'on o'qiydi"
+				},
+				"choices": [
+					"يَقْرَأُ الْقُرْآنَ",
+					"يَقْرَأُ الْكُتُبَ",
+					"يَقْرَأُ الْجَرِيدَةَ",
+					"يَقْرَأُ الْمَجَلَّةَ"
+				]
+			},
+			{
+				"ar": "مَاذَا يُحِبُّ جَعْفَرُ أَنْ يَشْرَبَ كُلَّ صَبَاحٍ؟",
+				"uz": "Ja'far har ertalab nima ichishni yaxshi ko'radi?",
+				"answer": {
+					"ar": "يُحِبُّ أَنْ يَشْرَبَ اللَّبَنَ",
+					"uz": "Sut ichishni yaxshi ko'radi"
+				},
+				"choices": [
+					"يُحِبُّ أَنْ يَشْرَبَ اللَّبَنَ",
+					"يُحِبُّ أَنْ يَشْرَبَ الْقَهْوَةَ",
+					"يُحِبُّ أَنْ يَشْرَبَ الشَّايَ",
+					"يُحِبُّ أَنْ يَشْرَبَ الْمَاءَ"
+				]
+			},
+			{
+				"ar": "كَيْفَ يَذْهَبُ جَعْفَرُ إِلَى الْمَدْرَسَةِ؟",
+				"uz": "Ja'far maktabga qanday boradi?",
+				"answer": {
+					"ar": "يَذْهَبُ بِالْحَافِلَةِ",
+					"uz": "Avtobusda boradi"
+				},
+				"choices": [
+					"يَذْهَبُ بِالْحَافِلَةِ",
+					"يَذْهَبُ بِالسَّيَّارَةِ",
+					"يَذْهَبُ مَاشِيًا",
+					"يَذْهَبُ بِالدَّرَّاجَةِ"
+				]
+			},
+			{
+				"ar": "مَاذَا يَفْعَلُ جَعْفَرُ قَبْلَ أَنْ يَنَامَ؟",
+				"uz": "Ja'far uxlashdan oldin nima qiladi?",
+				"answer": {
+					"ar": "يُرَاجِعُ الدُّرُوسَ وَيَكْتُبُ الْوَاجِبَاتِ",
+					"uz": "Darslarini takrorlaydi va uy vazifalarini yozadi"
+				},
+				"choices": [
+					"يُرَاجِعُ الدُّرُوسَ وَيَكْتُبُ الْوَاجِبَاتِ",
+					"يَلْعَبُ مَعَ أَصْدِقَائِهِ",
+					"يَأْكُلُ الطَّعَامَ",
+					"يَخْرُجُ مِنَ الْبَيْتِ"
+				]
+			}
+		],
+
+		"grammar": [
+			{
+				"title": "Hafta kunlari (أَيَّامُ الْأُسْبُوع)",
+				"content": "Hafta kunlari arabchada raqamlar yoki maxsus nomlar bilan ataladi. الْأَحَد (yakshanba) — birinchi kun (واحد), الْاِثْنَيْن (dushanba) — ikkinchi kun va h.k. Faqat الْجُمْعَة (juma) va السَّبْت (shanba) maxsus nomlarga ega.",
+				"examples": [
+					{ "ar": "الْأَحَد", "uz": "Yakshanba (1-kun)" },
+					{ "ar": "الْاِثْنَيْن", "uz": "Dushanba (2-kun)" },
+					{ "ar": "الثُّلَاثَاء", "uz": "Seshanba (3-kun)" },
+					{ "ar": "الْأَرْبِعَاء", "uz": "Chorshanba (4-kun)" },
+					{ "ar": "الْخَمِيس", "uz": "Payshanba (5-kun)" },
+					{ "ar": "الْجُمْعَة", "uz": "Juma" },
+					{ "ar": "السَّبْت", "uz": "Shanba" },
+					{ "ar": "يَوْمَ السَّبْتِ", "uz": "Shanba kuni (zarf)" }
+				]
+			},
+			{
+				"title": "أُرِيدُ أَنْ + muzore' fe'l",
+				"content": "Istakni bildirish uchun «أُرِيدُ أَنْ + fe'l (nasb shaklda)» konstruksiyasi ishlatiladi. أَنْ — bog'lovchi, undan keyingi fe'l mansub (nasb) holatga o'tadi.",
+				"examples": [
+					{ "ar": "أُرِيدُ أَنْ أَذْهَبَ", "uz": "Bormoqchiman" },
+					{ "ar": "أُرِيدُ أَنْ أَقْرَأَ", "uz": "O'qimoqchiman" },
+					{ "ar": "أُرِيدُ أَنْ أَلْعَبَ", "uz": "O'ynamoqchiman" },
+					{ "ar": "تُرِيدُ أَنْ تَفْعَلَ", "uz": "Qilmoqchisan (erkakka)" },
+					{ "ar": "يُرِيدُ أَنْ يَزُورَ", "uz": "Ziyorat qilmoqchi" },
+					{ "ar": "نُرِيدُ أَنْ نَتَجَوَّلَ", "uz": "Sayr qilmoqchimiz" }
+				]
+			},
+			{
+				"title": "ثُمَّ — keyin (vaqt bog'lovchisi)",
+				"content": "«ثُمَّ» — ish-harakatlar ketma-ketligini ko'rsatish uchun («va keyin», «so'ng»). Bu so'z matnda Ja'farning kunlik ishlarini tartibga solishda juda ko'p ishlatilgan.",
+				"examples": [
+					{
+						"ar": "أَسْتَيْقِظُ ثُمَّ أُصَلِّي",
+						"uz": "Uyg'onaman, so'ng namoz o'qiyman"
+					},
+					{ "ar": "ثُمَّ يَتَوَضَّأُ", "uz": "So'ng tahorat oladi" },
+					{
+						"ar": "ثُمَّ يَذْهَبُ إِلَى الْمَدْرَسَةِ",
+						"uz": "So'ng maktabga boradi"
+					},
+					{ "ar": "ثُمَّ يَنَامُ", "uz": "So'ng uxlaydi" }
+				]
+			},
+			{
+				"title": "Namoz vaqtlari (أَوْقَاتُ الصَّلَاة)",
+				"content": "Islom kunining besh namoz vaqti vaqt ko'rsatkichi sifatida ham ishlatiladi. Matnda «بَعْدَ الْمَغْرِبِ» (shomdan keyin) shu turdagi qo'llanish.",
+				"examples": [
+					{ "ar": "الْفَجْر", "uz": "Bomdod (tong)" },
+					{ "ar": "الظُّهْر", "uz": "Peshin (tushdan keyin)" },
+					{ "ar": "الْعَصْر", "uz": "Asr (kechki)" },
+					{ "ar": "الْمَغْرِب", "uz": "Shom (quyosh botgach)" },
+					{ "ar": "الْعِشَاء", "uz": "Xufton (kech)" },
+					{ "ar": "بَعْدَ الْفَجْرِ", "uz": "Bomdoddan keyin" },
+					{ "ar": "قَبْلَ الْعِشَاءِ", "uz": "Xuftondan oldin" }
+				]
+			},
+			{
+				"title": "Duo va xushtilakli iboralar",
+				"content": "Dialogda o'qituvchi har bir o'quvchi javobiga maxsus duolar bilan munosabat bildiradi — bu islomiy madaniyatda muhim. مَا شَاءَ اللهُ (Alloh xohlagani bo'ldi), سَهَّلَ اللهُ (Alloh oson qilsin), أَرْشَدَكَ اللهُ (Alloh seni to'g'ri yo'lga boshlasin).",
+				"examples": [
+					{
+						"ar": "مَا شَاءَ اللهُ",
+						"uz": "Alloh xohlagani bo'ldi (taajjub yoki maqtov)"
+					},
+					{
+						"ar": "سَهَّلَ اللهُ لَكُمْ أُمُورَكُمْ",
+						"uz": "Alloh ishlaringizni oson qilsin"
+					},
+					{
+						"ar": "أَرْشَدَكَ اللهُ لِطَاعَتِهِ",
+						"uz": "Alloh seni o'z toatiga muvaffaq qilsin"
+					},
+					{ "ar": "إِنْ شَاءَ اللهُ", "uz": "Inshaalloh (Alloh xohlasa)" }
+				]
+			}
+		]
 	},
 	{
 		"number": 14,

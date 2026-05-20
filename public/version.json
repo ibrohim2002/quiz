@@ -1,7 +1,7 @@
 {
-	"version": "3.0.1",
-	"releaseDate": "2026-05-18",
-	"totalWords": 473,
-	"totalLessons": 12,
-	"changelog": "Katta yangilanish! Kitoblar bo'limi qo'shildi (kelajakda yangi kitoblar). Matn va dialoglar uchun 20 martalik takrorlash hisoblagichi. Har dars uchun yangi testlar: dialog va matn bo'yicha savol-javoblar. 12-dars ham qo'shildi"
+	"version": "3.2.0",
+	"releaseDate": "2026-05-21",
+	"totalWords": 525,
+	"totalLessons": 13,
+	"changelog": "13-dars qo'shildi: Hafta oxiri (hafta kunlari, namoz vaqtlari, kundalik hayot matni Ja'far haqida). 52 ta yangi so'z, 13 qatorli dialog, 13 ta savol-test."
 }
