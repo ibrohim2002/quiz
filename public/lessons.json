@@ -7395,14 +7395,1098 @@
 		"number": 14,
 		"titleAr": "الْاِتِّجَاهُ",
 		"titleUz": "Yo'nalish",
-		"words": [],
-		"comingSoon": true
+
+		"words": [
+			{
+				"ar": "اِتِّجَاه",
+				"tr": "ittijāh",
+				"uz": "Yo'nalish, tomon",
+				"ex": "أَيْنَ اِتِّجَاهُ الْقِبْلَةِ؟"
+			},
+			{
+				"ar": "قِبْلَة",
+				"tr": "qibla",
+				"uz": "Qibla",
+				"ex": "اِتِّجَاهُ الْقِبْلَةِ"
+			},
+			{
+				"ar": "إِشَارَة",
+				"tr": "ishāra",
+				"uz": "Belgi, ko'rsatkich",
+				"ex": "هُنَاكَ إِشَارَةٌ"
+			},
+			{
+				"ar": "سَقْف",
+				"tr": "saqf",
+				"uz": "Shift, tom",
+				"ex": "اُنْظُرْ إِلَى السَّقْفِ"
+			},
+			{
+				"ar": "حُجْرَة",
+				"tr": "ḥujra",
+				"uz": "Xona",
+				"ex": "فِي حُجْرَتِكَ"
+			},
+			{
+				"ar": "أَمَام",
+				"tr": "amām",
+				"uz": "Old, oldida",
+				"ex": "اِمْشِ إِلَى الْأَمَامِ"
+			},
+			{
+				"ar": "خَلْف",
+				"tr": "khalf",
+				"uz": "Orqa, orqada",
+				"ex": "خَلْفَ الْبَيْتِ"
+			},
+			{
+				"ar": "يَمِين",
+				"tr": "yamīn",
+				"uz": "O'ng",
+				"ex": "خُذِ الْيَمِينَ"
+			},
+			{
+				"ar": "يَسَار",
+				"tr": "yasār",
+				"uz": "Chap",
+				"ex": "خُذِ الْيَسَارَ"
+			},
+			{
+				"ar": "شِمَال",
+				"tr": "shimāl",
+				"uz": "Shimol, chap",
+				"ex": "يَقَعُ شِمَالَهُ"
+			},
+			{
+				"ar": "جَنُوب",
+				"tr": "janūb",
+				"uz": "Janub",
+				"ex": "جَنُوبَ الْمَسْجِدِ"
+			},
+			{
+				"ar": "شَرْق",
+				"tr": "sharq",
+				"uz": "Sharq",
+				"ex": "شَرْقَ الْمَسْجِدِ"
+			},
+			{
+				"ar": "غَرْب",
+				"tr": "gharb",
+				"uz": "G'arb",
+				"ex": "غَرْبَ الْمَسْجِدِ"
+			},
+			{
+				"ar": "مَشَى",
+				"tr": "mashā",
+				"uz": "Yurdi",
+				"ex": "اِمْشِ إِلَى الْأَمَامِ"
+			},
+			{
+				"ar": "مُثَلَّث",
+				"tr": "muthallath",
+				"uz": "Uchburchak, uchyo'lak",
+				"ex": "فِي الْمُثَلَّثِ"
+			},
+			{
+				"ar": "أَخَذَ",
+				"tr": "akhadha",
+				"uz": "Oldi, ushladi (yo'nalish)",
+				"ex": "خُذِ الْيَمِينَ"
+			},
+			{
+				"ar": "وَصَلَ",
+				"tr": "waṣala",
+				"uz": "Yetib bordi",
+				"ex": "كَيْفَ أَصِلُ إِلَى...؟"
+			},
+			{
+				"ar": "وَقَعَ",
+				"tr": "waqa'a",
+				"uz": "Joylashdi",
+				"ex": "يَقَعُ شِمَالَهُ"
+			},
+			{
+				"ar": "وَجَدَ",
+				"tr": "wajada",
+				"uz": "Topdi",
+				"ex": "أَيْنَ أَجِدُ...؟"
+			},
+			{
+				"ar": "مُتْحَف",
+				"tr": "mutḥaf",
+				"uz": "Muzey",
+				"ex": "تَرَى الْمُتْحَفَ"
+			},
+			{
+				"ar": "مَسْجِد النَّبَوِيّ",
+				"tr": "al-masjid an-nabawiyy",
+				"uz": "Masjidi Nabaviy",
+				"ex": "الْمَسْجِدُ النَّبَوِيُّ"
+			},
+			{
+				"ar": "مَطْعَم",
+				"tr": "maṭ'am",
+				"uz": "Restoran",
+				"ex": "أَصِلُ إِلَى الْمَطْعَمِ"
+			},
+			{
+				"ar": "جِهَاز الصَّرْف الْآلِيّ",
+				"tr": "jihāz aṣ-ṣarf al-ālī",
+				"uz": "Bankomat (ATM)",
+				"ex": "جِهَازُ الصَّرْفِ الْآلِيِّ"
+			},
+			{
+				"ar": "مَصْرِف",
+				"tr": "maṣrif",
+				"uz": "Bank",
+				"ex": "الْمَصْرِفُ الْإِسْلَامِيُّ"
+			},
+			{
+				"ar": "مَدِينَة",
+				"tr": "madīna",
+				"uz": "Shahar",
+				"ex": "جَاكَرْتَا مَدِينَةٌ كَبِيرَةٌ"
+			},
+			{
+				"ar": "عَاصِمَة",
+				"tr": "'āṣima",
+				"uz": "Poytaxt",
+				"ex": "عَاصِمَةُ إِنْدُونِيسِيَا"
+			},
+			{
+				"ar": "جَزِيرَة",
+				"tr": "jazīra",
+				"uz": "Orol",
+				"ex": "فِي جَزِيرَةِ جَاوَا"
+			},
+			{
+				"ar": "جُزُر",
+				"tr": "juzur",
+				"uz": "Orollar",
+				"ex": "الْجُزُرُ الْأَلْف"
+			},
+			{
+				"ar": "تَكَوَّنَ",
+				"tr": "takawwana",
+				"uz": "Tashkil topdi",
+				"ex": "تَتَكَوَّنُ مِنْ...",
+				"tr_extra": ""
+			},
+			{
+				"ar": "مُقَاطَعَة",
+				"tr": "muqāṭa'a",
+				"uz": "Viloyat, hudud",
+				"ex": "سِتُّ مُقَاطَعَاتٍ"
+			},
+			{
+				"ar": "مَرْكَزِيّ",
+				"tr": "markazī",
+				"uz": "Markaziy",
+				"ex": "الْمَرْكَزِيَّةُ"
+			},
+			{
+				"ar": "سُكَّان",
+				"tr": "sukkān",
+				"uz": "Aholi",
+				"ex": "عَدَدُ سُكَّانِهَا"
+			},
+			{
+				"ar": "نَسَمَة",
+				"tr": "nasama",
+				"uz": "Jon (hisob birligi)",
+				"ex": "عَشَرَةُ مَلَايِينِ نَسَمَةٍ"
+			},
+			{
+				"ar": "اِقْتِصَادِيّ",
+				"tr": "iqtiṣādī",
+				"uz": "Iqtisodiy",
+				"ex": "الْمَرْكَزُ الْاِقْتِصَادِيُّ"
+			},
+			{
+				"ar": "ثَقَافِيّ",
+				"tr": "thaqāfī",
+				"uz": "Madaniy",
+				"ex": "الْمَرْكَزُ الثَّقَافِيُّ"
+			},
+			{
+				"ar": "سِيَاسِيّ",
+				"tr": "siyāsī",
+				"uz": "Siyosiy",
+				"ex": "الْمَرْكَزُ السِّيَاسِيُّ"
+			},
+			{
+				"ar": "بَلَد",
+				"tr": "balad",
+				"uz": "Davlat, mamlakat",
+				"ex": "فِي الْبَلَدِ"
+			},
+			{
+				"ar": "مِيْنَاء",
+				"tr": "mīnā'",
+				"uz": "Port",
+				"ex": "كَيْفَ أَصِلُ إِلَى الْمِيْنَاءِ؟"
+			},
+			{
+				"ar": "مَحَطَّة",
+				"tr": "maḥaṭṭa",
+				"uz": "Bekat, stansiya",
+				"ex": "مَحَطَّةُ الْقِطَارِ"
+			},
+			{
+				"ar": "قِطَار",
+				"tr": "qiṭār",
+				"uz": "Poezd",
+				"ex": "مَحَطَّةُ الْقِطَارِ"
+			},
+			{
+				"ar": "وُقُوف",
+				"tr": "wuqūf",
+				"uz": "To'xtash",
+				"ex": "مَحَطَّةُ وُقُوفِ الْحَافِلَةِ"
+			},
+			{
+				"ar": "صَيْدَلِيَّة",
+				"tr": "ṣaydaliyya",
+				"uz": "Dorixona",
+				"ex": "أَيْنَ الصَّيْدَلِيَّةُ؟"
+			},
+			{
+				"ar": "فُنْدُق",
+				"tr": "funduq",
+				"uz": "Mehmonxona",
+				"ex": "الْفُنْدُقُ كَبِيرٌ"
+			},
+			{
+				"ar": "مَكْتَب الشُّرْطَة",
+				"tr": "maktab ash-shurṭa",
+				"uz": "Politsiya idorasi",
+				"ex": "بَيْنَ مَكْتَبِ الشُّرْطَةِ"
+			},
+			{
+				"ar": "غَابَة",
+				"tr": "ghāba",
+				"uz": "O'rmon",
+				"ex": "أَشْجَارٌ فِي الْغَابَةِ"
+			},
+			{
+				"ar": "نَهْر",
+				"tr": "nahr",
+				"uz": "Daryo",
+				"ex": "النَّهْرُ طَوِيلٌ"
+			},
+			{
+				"ar": "جَبَل",
+				"tr": "jabal",
+				"uz": "Tog'",
+				"ex": "إِلَى الْجَبَلِ"
+			},
+			{
+				"ar": "بَيْنَ",
+				"tr": "bayna",
+				"uz": "O'rtasida, orasida",
+				"ex": "بَيْنَ الْمَكْتَبَيْنِ"
+			},
+			{
+				"ar": "نَاحِيَة",
+				"tr": "nāḥiya",
+				"uz": "Tomon, qism",
+				"ex": "فِي نَاحِيَةِ شَمَالِ..."
+			},
+			{
+				"ar": "خَرِيطَة",
+				"tr": "kharīṭa",
+				"uz": "Xarita",
+				"ex": "هَذِهِ الْخَرِيطَةُ"
+			}
+		],
+
+		"dialogues": [
+			{
+				"title": "الْحِوَارُ",
+				"titleUz": "Dialog (Ibrohim va mehmonxona xizmatchisi)",
+				"lines": [
+					{
+						"speaker": "إِبْرَاهِيم",
+						"ar": "لَوْ سَمَحْتَ يَا سَيِّدُ... أَيْنَ اِتِّجَاهُ الْقِبْلَةِ؟",
+						"uz": "Iltimos, janob... Qibla qaysi tomonda?"
+					},
+					{
+						"speaker": "مُضِيف",
+						"ar": "اُنْظُرْ إِلَى السَّقْفِ فِي حُجْرَتِكَ! هُنَاكَ إِشَارَةٌ إِلَى اِتِّجَاهِ الْقِبْلَةِ",
+						"uz": "Xonangizdagi shiftga qarang! U yerda qibla yo'nalishini ko'rsatuvchi belgi bor"
+					},
+					{
+						"speaker": "إِبْرَاهِيم",
+						"ar": "كَيْفَ أَصِلُ إِلَى الْمَسْجِدِ النَّبَوِيِّ؟",
+						"uz": "Masjidi Nabaviyga qanday yetib boraman?"
+					},
+					{
+						"speaker": "مُضِيف",
+						"ar": "اِمْشِ إِلَى الْأَمَامِ وَفِي الْمُثَلَّثِ خُذِ الْيَمِينَ حَتَّى تَرَى الْمُتْحَفَ وَالْمَسْجِدُ يَقَعُ شِمَالَهُ",
+						"uz": "To'g'riga yuring va uchburchakda o'ngga buring, muzey ko'rinmaguncha, masjid uning shimolida joylashgan"
+					},
+					{
+						"speaker": "إِبْرَاهِيم",
+						"ar": "وَكَيْفَ أَصِلُ إِلَى الْمَطْعَمِ؟",
+						"uz": "Restoranga qanday yetib boraman?"
+					},
+					{
+						"speaker": "مُضِيف",
+						"ar": "هُنَاكَ مَطَاعِمُ كَثِيرَةٌ جَنُوبَ الْمَسْجِدِ",
+						"uz": "Masjidning janubida ko'p restoranlar bor"
+					},
+					{
+						"speaker": "إِبْرَاهِيم",
+						"ar": "وَأَيْنَ أَجِدُ جِهَازَ الصَّرْفِ الْآلِيِّ؟",
+						"uz": "Bankomatni qayerda topaman?"
+					},
+					{
+						"speaker": "مُضِيف",
+						"ar": "سَتَجِدُهُ شَرْقَ الْمَسْجِدِ وَغَرْبَهُ وَشَمَالَهُ وَجَنُوبَهُ",
+						"uz": "Uni masjidning sharqida, g'arbida, shimolida va janubida topasiz"
+					},
+					{
+						"speaker": "إِبْرَاهِيم",
+						"ar": "جَزَاكَ اللهُ خَيْرًا",
+						"uz": "Alloh sizni xayrlashtirsin"
+					},
+					{
+						"speaker": "مُضِيف",
+						"ar": "وَجَزَاكَ اللهُ خَيْرًا",
+						"uz": "Sizni ham Alloh xayrlashtirsin"
+					}
+				]
+			}
+		],
+
+		"texts": [
+			{
+				"title": "جَاكَرْتَا",
+				"titleUz": "Jakarta haqida",
+				"ar": "جَاكَرْتَا مَدِينَةٌ كَبِيرَةٌ. هِيَ عَاصِمَةُ إِنْدُونِيسِيَا. تَقَعُ جَاكَرْتَا فِي جَزِيرَةِ جَاوَا وَتَتَكَوَّنُ مِنْ سِتِّ مُقَاطَعَاتٍ: الْمَرْكَزِيَّةِ، وَالْغَرْبِيَّةِ، وَالشَّرْقِيَّةِ، وَالْجَنُوبِيَّةِ، وَالشَّمَالِيَّةِ، وَالْجُزُرِ الْأَلْفِ. وَعَدَدُ سُكَّانِهَا عَشَرَةُ مَلَايِينِ نَسَمَةٍ. جَاكَرْتَا هِيَ الْمَرْكَزُ الْاِقْتِصَادِيُّ وَالثَّقَافِيُّ وَالسِّيَاسِيُّ فِي الْبَلَدِ.",
+				"uz": "Jakarta katta shahar. U Indoneziyaning poytaxti. Jakarta Java orolida joylashgan va olti viloyatdan iborat: Markaziy, G'arbiy, Sharqiy, Janubiy, Shimoliy va Ming Orollar. Aholisi soni 10 million kishi. Jakarta mamlakatning iqtisodiy, madaniy va siyosiy markazi hisoblanadi."
+			}
+		],
+
+		"comprehensionQuiz": [
+			{
+				"ar": "أَيْنَ يَجِدُ إِبْرَاهِيمُ اِتِّجَاهَ الْقِبْلَةِ؟",
+				"uz": "Ibrohim qibla yo'nalishini qayerdan topadi?",
+				"answer": {
+					"ar": "فِي سَقْفِ الْحُجْرَةِ",
+					"uz": "Xona shiftida"
+				},
+				"choices": [
+					"فِي سَقْفِ الْحُجْرَةِ",
+					"فِي الْكِتَابِ",
+					"فِي هَاتِفِهِ",
+					"عِنْدَ الْمَسْجِدِ"
+				]
+			},
+			{
+				"ar": "كَيْفَ يَصِلُ إِبْرَاهِيمُ إِلَى الْمَسْجِدِ النَّبَوِيِّ؟",
+				"uz": "Ibrohim Masjidi Nabaviyga qanday boradi?",
+				"answer": {
+					"ar": "يَمْشِي إِلَى الْأَمَامِ ثُمَّ يَأْخُذُ الْيَمِينَ فِي الْمُثَلَّثِ",
+					"uz": "To'g'riga yuradi, uchburchakda o'ngga buradi"
+				},
+				"choices": [
+					"يَمْشِي إِلَى الْأَمَامِ ثُمَّ يَأْخُذُ الْيَمِينَ فِي الْمُثَلَّثِ",
+					"يَأْخُذُ الْيَسَارَ فَوْرًا",
+					"يَذْهَبُ بِالسَّيَّارَةِ",
+					"يَسْأَلُ النَّاسَ فِي الطَّرِيقِ"
+				]
+			},
+			{
+				"ar": "أَيْنَ يَقَعُ الْمَسْجِدُ النَّبَوِيُّ بِالنِّسْبَةِ لِلْمُتْحَفِ؟",
+				"uz": "Masjidi Nabaviy muzeyga nisbatan qayerda?",
+				"answer": {
+					"ar": "شَمَالَ الْمُتْحَفِ",
+					"uz": "Muzeyning shimolida"
+				},
+				"choices": [
+					"شَمَالَ الْمُتْحَفِ",
+					"جَنُوبَ الْمُتْحَفِ",
+					"شَرْقَ الْمُتْحَفِ",
+					"غَرْبَ الْمُتْحَفِ"
+				]
+			},
+			{
+				"ar": "أَيْنَ الْمَطَاعِمُ؟",
+				"uz": "Restoranlar qayerda?",
+				"answer": {
+					"ar": "جَنُوبَ الْمَسْجِدِ",
+					"uz": "Masjidning janubida"
+				},
+				"choices": [
+					"جَنُوبَ الْمَسْجِدِ",
+					"شَمَالَ الْمَسْجِدِ",
+					"شَرْقَ الْمَسْجِدِ",
+					"غَرْبَ الْمَسْجِدِ"
+				]
+			},
+			{
+				"ar": "أَيْنَ يُوجَدُ جِهَازُ الصَّرْفِ الْآلِيِّ؟",
+				"uz": "Bankomat qayerda joylashgan?",
+				"answer": {
+					"ar": "شَرْقَ الْمَسْجِدِ وَغَرْبَهُ وَشَمَالَهُ وَجَنُوبَهُ",
+					"uz": "Masjidning sharqida, g'arbida, shimolida va janubida"
+				},
+				"choices": [
+					"شَرْقَ الْمَسْجِدِ وَغَرْبَهُ وَشَمَالَهُ وَجَنُوبَهُ",
+					"فَقَطْ شَمَالَ الْمَسْجِدِ",
+					"فِي الْمُتْحَفِ",
+					"فِي الْفُنْدُقِ"
+				]
+			},
+			{
+				"ar": "مَا هِيَ عَاصِمَةُ إِنْدُونِيسِيَا؟",
+				"uz": "Indoneziyaning poytaxti qayer?",
+				"answer": {
+					"ar": "جَاكَرْتَا",
+					"uz": "Jakarta"
+				},
+				"choices": [
+					"جَاكَرْتَا",
+					"كُوَالَا لُمْبُور",
+					"سُورَابَايَا",
+					"بَانْدُونْغ"
+				]
+			},
+			{
+				"ar": "فِي أَيِّ جَزِيرَةٍ تَقَعُ جَاكَرْتَا؟",
+				"uz": "Jakarta qaysi orolda joylashgan?",
+				"answer": {
+					"ar": "فِي جَزِيرَةِ جَاوَا",
+					"uz": "Java orolida"
+				},
+				"choices": [
+					"فِي جَزِيرَةِ جَاوَا",
+					"فِي جَزِيرَةِ سُومَطْرَا",
+					"فِي جَزِيرَةِ بَالِي",
+					"فِي جَزِيرَةِ بُورْنِيُو"
+				]
+			},
+			{
+				"ar": "مِنْ كَمْ مُقَاطَعَةٍ تَتَكَوَّنُ جَاكَرْتَا؟",
+				"uz": "Jakarta nechta viloyatdan iborat?",
+				"answer": {
+					"ar": "سِتُّ مُقَاطَعَاتٍ",
+					"uz": "Olti viloyat"
+				},
+				"choices": [
+					"سِتُّ مُقَاطَعَاتٍ",
+					"خَمْسُ مُقَاطَعَاتٍ",
+					"سَبْعُ مُقَاطَعَاتٍ",
+					"ثَلَاثُ مُقَاطَعَاتٍ"
+				]
+			},
+			{
+				"ar": "كَمْ عَدَدُ سُكَّانِ جَاكَرْتَا؟",
+				"uz": "Jakarta aholisi nechta?",
+				"answer": {
+					"ar": "عَشَرَةُ مَلَايِينِ نَسَمَةٍ",
+					"uz": "10 million kishi"
+				},
+				"choices": [
+					"عَشَرَةُ مَلَايِينِ نَسَمَةٍ",
+					"خَمْسَةُ مَلَايِينِ نَسَمَةٍ",
+					"عِشْرُونَ مَلَايِينِ نَسَمَةٍ",
+					"مِلْيُونُ نَسَمَةٍ"
+				]
+			},
+			{
+				"ar": "مَاذَا تُمَثِّلُ جَاكَرْتَا فِي إِنْدُونِيسِيَا؟",
+				"uz": "Jakarta Indoneziya uchun nimani anglatadi?",
+				"answer": {
+					"ar": "الْمَرْكَزُ الْاِقْتِصَادِيُّ وَالثَّقَافِيُّ وَالسِّيَاسِيُّ",
+					"uz": "Iqtisodiy, madaniy va siyosiy markaz"
+				},
+				"choices": [
+					"الْمَرْكَزُ الْاِقْتِصَادِيُّ وَالثَّقَافِيُّ وَالسِّيَاسِيُّ",
+					"الْمَرْكَزُ الزِّرَاعِيُّ",
+					"الْمَرْكَزُ الصِّنَاعِيُّ فَقَطْ",
+					"الْمَرْكَزُ الدِّينِيُّ"
+				]
+			}
+		],
+
+		"grammar": [
+			{
+				"title": "Asosiy yo'nalishlar (الْاِتِّجَاهَاتُ الْأَسَاسِيَّةُ)",
+				"content": "Arabchada 4 asosiy yo'nalish: شَمَال (shimol), جَنُوب (janub), شَرْق (sharq), غَرْب (g'arb). Va 4 oraliq yo'nalish: شَمَال الشَّرْق (shimoli-sharq) va h.k.",
+				"examples": [
+					{ "ar": "الشَّمَال", "uz": "Shimol" },
+					{ "ar": "الْجَنُوب", "uz": "Janub" },
+					{ "ar": "الشَّرْق", "uz": "Sharq" },
+					{ "ar": "الْغَرْب", "uz": "G'arb" },
+					{ "ar": "شَمَالُ الشَّرْقِ", "uz": "Shimoli-sharq" },
+					{ "ar": "جَنُوبُ الْغَرْبِ", "uz": "Janubi-g'arb" }
+				]
+			},
+			{
+				"title": "Yo'l so'rash iboralari",
+				"content": "Birovdan yo'l so'rash uchun standart iboralar. «كَيْفَ أَصِلُ إِلَى...؟» (Qanday yetib boraman?), «أَيْنَ...؟» (Qayerda?).",
+				"examples": [
+					{
+						"ar": "كَيْفَ أَصِلُ إِلَى الْمَسْجِدِ؟",
+						"uz": "Masjidga qanday yetib boraman?"
+					},
+					{ "ar": "أَيْنَ الْمَطْعَمُ؟", "uz": "Restoran qayerda?" },
+					{ "ar": "أَيْنَ أَجِدُ...؟", "uz": "...ni qayerdan topaman?" },
+					{ "ar": "اِمْشِ إِلَى الْأَمَامِ", "uz": "To'g'riga yur" },
+					{ "ar": "خُذِ الْيَمِينَ", "uz": "O'ngga bur" },
+					{ "ar": "خُذِ الْيَسَارَ", "uz": "Chapga bur" }
+				]
+			},
+			{
+				"title": "Joylashuv predloglari",
+				"content": "Joy bildirish uchun ko'p ishlatiladigan predloglar/zarflar. Bular mansub (nasb) holatda keladi va izofa qiladi.",
+				"examples": [
+					{ "ar": "أَمَامَ", "uz": "Old (qarshisida)" },
+					{ "ar": "خَلْفَ", "uz": "Orqa (orqasida)" },
+					{ "ar": "بِجَانِبِ", "uz": "Yon (yonida)" },
+					{ "ar": "بَيْنَ", "uz": "O'rtasida" },
+					{ "ar": "أَمَامَ الْفُنْدُقِ", "uz": "Mehmonxonaning oldida" },
+					{
+						"ar": "بَيْنَ الْمَسْجِدِ وَالْمَدْرَسَةِ",
+						"uz": "Masjid va maktab o'rtasida"
+					}
+				]
+			},
+			{
+				"title": "Aniq ot bilan yo'nalishni ko'rsatish",
+				"content": "Bir narsani boshqasiga nisbatan joylashtirish uchun yo'nalish so'zi izofada keladi: شَمَالَ + ot (jarr holatida).",
+				"examples": [
+					{ "ar": "شَمَالَ الْمَسْجِدِ", "uz": "Masjidning shimolida" },
+					{ "ar": "جَنُوبَ الْمَدْرَسَةِ", "uz": "Maktabning janubida" },
+					{ "ar": "شَرْقَ الْبَيْتِ", "uz": "Uyning sharqida" },
+					{ "ar": "غَرْبَ الْمَدِينَةِ", "uz": "Shaharning g'arbida" },
+					{ "ar": "يَقَعُ شِمَالَهُ", "uz": "Uning shimolida joylashgan" }
+				]
+			},
+			{
+				"title": "تَتَكَوَّنُ مِنْ — ...dan iborat",
+				"content": "Bir narsaning tarkibini bildirish uchun «يَتَكَوَّنُ مِنْ» (...dan iborat) ishlatiladi. Matnda Jakarta 6 viloyatdan iborat ekanligi shu bilan ko'rsatilgan.",
+				"examples": [
+					{
+						"ar": "تَتَكَوَّنُ مِنْ سِتِّ مُقَاطَعَاتٍ",
+						"uz": "Olti viloyatdan iborat"
+					},
+					{
+						"ar": "يَتَكَوَّنُ مِنْ ثَلَاثَةِ أَجْزَاءٍ",
+						"uz": "Uch qismdan iborat"
+					},
+					{
+						"ar": "تَتَكَوَّنُ السَّنَةُ مِنِ اثْنَيْ عَشَرَ شَهْرًا",
+						"uz": "Yil 12 oydan iborat"
+					}
+				]
+			}
+		]
 	},
 	{
 		"number": 15,
 		"titleAr": "الْعُطْلَةُ",
 		"titleUz": "Ta'til",
-		"words": [],
-		"comingSoon": true
+
+		"words": [
+			{
+				"ar": "عُطْلَة",
+				"tr": "'uṭla",
+				"uz": "Ta'til",
+				"ex": "الْعُطْلَةُ بَعْدَ أُسْبُوعٍ"
+			},
+			{
+				"ar": "قَضَى",
+				"tr": "qaḍā",
+				"uz": "O'tkazdi (vaqt)",
+				"ex": "كَيْفَ سَنَقْضِي الْعُطْلَةَ؟"
+			},
+			{
+				"ar": "زَارَ",
+				"tr": "zāra",
+				"uz": "Ziyorat qildi",
+				"ex": "نَزُورُ عَائِلَتَنَا"
+			},
+			{
+				"ar": "عَائِلَة",
+				"tr": "'ā'ila",
+				"uz": "Oila, qarindosh",
+				"ex": "نَزُورُ عَائِلَتَنَا"
+			},
+			{
+				"ar": "قَرْيَة",
+				"tr": "qarya",
+				"uz": "Qishloq",
+				"ex": "فِي الْقَرْيَةِ"
+			},
+			{
+				"ar": "رَأْي",
+				"tr": "ra'y",
+				"uz": "Fikr",
+				"ex": "مَا رَأْيُكَ؟"
+			},
+			{
+				"ar": "بُنَيّ",
+				"tr": "bunayy",
+				"uz": "O'g'ilcham (kichikartirma)",
+				"ex": "يَا بُنَيَّ"
+			},
+			{
+				"ar": "فِكْرَة",
+				"tr": "fikra",
+				"uz": "Fikr, g'oya",
+				"ex": "هَذِهِ فِكْرَةٌ طَيِّبَةٌ"
+			},
+			{
+				"ar": "طَيِّب",
+				"tr": "ṭayyib",
+				"uz": "Yaxshi, ezgu",
+				"ex": "فِكْرَةٌ طَيِّبَةٌ"
+			},
+			{
+				"ar": "مَكَان",
+				"tr": "makān",
+				"uz": "Joy",
+				"ex": "أَمَاكِنُ جَمِيلَةٌ"
+			},
+			{
+				"ar": "أَمَاكِن",
+				"tr": "amākin",
+				"uz": "Joylar (ko'plik)",
+				"ex": "أَمَاكِنُ جَمِيلَةٌ"
+			},
+			{
+				"ar": "جَمِيل",
+				"tr": "jamīl",
+				"uz": "Chiroyli",
+				"ex": "مَكَانٌ جَمِيلٌ"
+			},
+			{
+				"ar": "طَبْعًا",
+				"tr": "ṭab'an",
+				"uz": "Albatta",
+				"ex": "طَبْعًا! هُنَاكَ بَحْرٌ"
+			},
+			{
+				"ar": "بَحْر",
+				"tr": "baḥr",
+				"uz": "Dengiz",
+				"ex": "أَسْبَحُ فِي الْبَحْرِ"
+			},
+			{
+				"ar": "بُحَيْرَة",
+				"tr": "buḥayra",
+				"uz": "Ko'l",
+				"ex": "السَّمَكُ فِي الْبُحَيْرَةِ"
+			},
+			{
+				"ar": "جَبَل",
+				"tr": "jabal",
+				"uz": "Tog'",
+				"ex": "هُنَاكَ جَبَلٌ"
+			},
+			{
+				"ar": "غَابَة",
+				"tr": "ghāba",
+				"uz": "O'rmon",
+				"ex": "الْغَابَةُ كَبِيرَةٌ"
+			},
+			{
+				"ar": "شَلَّال",
+				"tr": "shallāl",
+				"uz": "Sharshara",
+				"ex": "هُنَاكَ شَلَّالٌ"
+			},
+			{
+				"ar": "نَهْر",
+				"tr": "nahr",
+				"uz": "Daryo",
+				"ex": "النَّهْرُ طَوِيلٌ"
+			},
+			{
+				"ar": "غَار",
+				"tr": "ghār",
+				"uz": "G'or",
+				"ex": "غَارُ حِرَاءَ"
+			},
+			{
+				"ar": "فُوَّهَة الْبُرْكَان",
+				"tr": "fuwwahat al-burkān",
+				"uz": "Vulqon og'zi",
+				"ex": "فُوَّهَةُ الْبُرْكَانِ"
+			},
+			{
+				"ar": "شَاطِئ",
+				"tr": "shāṭi'",
+				"uz": "Qirg'oq",
+				"ex": "شَاطِئُ الْبَحْرِ"
+			},
+			{
+				"ar": "رَائِع",
+				"tr": "rā'i'",
+				"uz": "Ajoyib",
+				"ex": "رَائِعٌ جِدًّا"
+			},
+			{
+				"ar": "سَبَحَ",
+				"tr": "sabaḥa",
+				"uz": "Suzdi",
+				"ex": "أَسْبَحُ فِي الْبَحْرِ"
+			},
+			{
+				"ar": "اِصْطَادَ",
+				"tr": "iṣṭāda",
+				"uz": "Ovladi (baliq)",
+				"ex": "نَصْطَادُ السَّمَكَ"
+			},
+			{
+				"ar": "سَمَك",
+				"tr": "samak",
+				"uz": "Baliq",
+				"ex": "نَصْطَادُ السَّمَكَ"
+			},
+			{
+				"ar": "حَصَدَ",
+				"tr": "ḥaṣada",
+				"uz": "O'rdi, yig'di",
+				"ex": "نَحْصُدُ الْخَضْرَوَاتِ"
+			},
+			{
+				"ar": "خَضْرَوَات",
+				"tr": "khaḍrawāt",
+				"uz": "Sabzavotlar",
+				"ex": "نَحْصُدُ الْخَضْرَوَاتِ"
+			},
+			{
+				"ar": "مَزْرَعَة",
+				"tr": "mazra'a",
+				"uz": "Dala, ferma",
+				"ex": "فِي مَزْرَعَةِ عَمِّي"
+			},
+			{
+				"ar": "عَمّ",
+				"tr": "'amm",
+				"uz": "Amaki",
+				"ex": "مَزْرَعَةُ عَمِّي"
+			},
+			{
+				"ar": "حَقًّا",
+				"tr": "ḥaqqan",
+				"uz": "Rostdanmi?",
+				"ex": "حَقًّا؟"
+			},
+			{
+				"ar": "بِالضَّبْط",
+				"tr": "biḍ-ḍabṭ",
+				"uz": "Aniq, to'g'ri",
+				"ex": "بِالضَّبْطِ!"
+			},
+			{
+				"ar": "أَعَدَّ",
+				"tr": "a'adda",
+				"uz": "Tayyorladi",
+				"ex": "لِنُعِدَّ كُلَّ شَيْءٍ"
+			},
+			{
+				"ar": "مُنْذُ",
+				"tr": "mundhu",
+				"uz": "...dan beri",
+				"ex": "مُنْذُ الْيَوْمِ"
+			},
+			{
+				"ar": "اِقْتِرَاح",
+				"tr": "iqtirāḥ",
+				"uz": "Taklif",
+				"ex": "اِقْتِرَاحُ الْأُمِّ"
+			},
+			{
+				"ar": "وَافَقَ",
+				"tr": "wāfaqa",
+				"uz": "Rozi bo'ldi",
+				"ex": "وَافَقَ الْاِبْنُ"
+			},
+			{
+				"ar": "أَحْيَانًا",
+				"tr": "aḥyānan",
+				"uz": "Ba'zan",
+				"ex": "أَحْيَانًا آكُلُ السَّمَكَ"
+			},
+			{
+				"ar": "اِسْتَخْدَمَ",
+				"tr": "istakhdama",
+				"uz": "Foydalandi",
+				"ex": "أَسْتَخْدِمُ الْجَوَّالَ"
+			},
+			{
+				"ar": "اِشْتَرَى",
+				"tr": "ishtarā",
+				"uz": "Sotib oldi",
+				"ex": "أَشْتَرِي الْبَيْضَ"
+			},
+			{
+				"ar": "مَجَلَّة",
+				"tr": "majalla",
+				"uz": "Jurnal",
+				"ex": "أَقْرَأُ الْمَجَلَّةَ"
+			}
+		],
+
+		"dialogues": [
+			{
+				"title": "الْحِوَارُ",
+				"titleUz": "Dialog (Ota, ona va o'g'il — ta'tilni rejalashtirish)",
+				"lines": [
+					{
+						"speaker": "الْأَب",
+						"ar": "الْعُطْلَةُ بَعْدَ أُسْبُوعٍ. كَيْفَ سَنَقْضِي الْعُطْلَةَ؟",
+						"uz": "Bir haftadan keyin ta'til. Ta'tilni qanday o'tkazamiz?"
+					},
+					{
+						"speaker": "الْأُمّ",
+						"ar": "نَزُورُ عَائِلَتَنَا فِي الْقَرْيَةِ. مَا رَأْيُكَ يَا بُنَيَّ؟",
+						"uz": "Qishloqdagi qarindoshlarimizni ziyorat qilamiz. Sening fikring qanday, o'g'ilcham?"
+					},
+					{
+						"speaker": "الْاِبْن",
+						"ar": "هَذِهِ فِكْرَةٌ طَيِّبَةٌ يَا أُمِّي. وَلَكِنْ هَلْ هُنَاكَ أَمَاكِنُ جَمِيلَةٌ؟",
+						"uz": "Bu yaxshi fikr, onam. Lekin u yerda chiroyli joylar bormi?"
+					},
+					{
+						"speaker": "الْأَب",
+						"ar": "طَبْعًا! هُنَاكَ بَحْرٌ وَبُحَيْرَةٌ وَجَبَلٌ وَغَابَةٌ وَشَلَّالٌ",
+						"uz": "Albatta! U yerda dengiz, ko'l, tog', o'rmon va sharshara bor"
+					},
+					{
+						"speaker": "الْاِبْن",
+						"ar": "رَائِعٌ جِدًّا. أُرِيدُ أَنْ أَسْبَحَ فِي الْبَحْرِ",
+						"uz": "Juda ajoyib. Men dengizda suzmoqchiman"
+					},
+					{
+						"speaker": "الْأَب",
+						"ar": "نَعَمْ... سَنَصْطَادُ السَّمَكَ فِي الْبُحَيْرَةِ",
+						"uz": "Ha... Ko'lda baliq ovlaymiz"
+					},
+					{
+						"speaker": "الْأُمّ",
+						"ar": "وَنَحْصُدُ الْخَضْرَوَاتِ فِي مَزْرَعَةِ عَمِّي",
+						"uz": "Va amakimning dalasida sabzavotlar yig'amiz"
+					},
+					{
+						"speaker": "الْاِبْن",
+						"ar": "حَقًّا؟",
+						"uz": "Rostdanmi?"
+					},
+					{
+						"speaker": "الْأَب",
+						"ar": "بِالضَّبْطِ! لِنُعِدَّ كُلَّ شَيْءٍ مُنْذُ الْيَوْمِ",
+						"uz": "Aniq! Bugundan boshlab hamma narsani tayyorlaylik"
+					}
+				]
+			}
+		],
+
+		"comprehensionQuiz": [
+			{
+				"ar": "مَتَى الْعُطْلَةُ؟",
+				"uz": "Ta'til qachon?",
+				"answer": {
+					"ar": "بَعْدَ أُسْبُوعٍ",
+					"uz": "Bir haftadan keyin"
+				},
+				"choices": [
+					"بَعْدَ أُسْبُوعٍ",
+					"بَعْدَ شَهْرٍ",
+					"غَدًا",
+					"بَعْدَ يَوْمَيْنِ"
+				]
+			},
+			{
+				"ar": "أَيْنَ سَيَقْضُونَ الْعُطْلَةَ؟",
+				"uz": "Ta'tilni qayerda o'tkazadilar?",
+				"answer": {
+					"ar": "فِي الْقَرْيَةِ مَعَ عَائِلَتِهِمْ",
+					"uz": "Qishloqda qarindoshlari bilan"
+				},
+				"choices": [
+					"فِي الْقَرْيَةِ مَعَ عَائِلَتِهِمْ",
+					"فِي الْمَدِينَةِ",
+					"فِي الْفُنْدُقِ",
+					"فِي بَيْتِهِمْ"
+				]
+			},
+			{
+				"ar": "هَلْ وَافَقَ الْاِبْنُ عَلَى اِقْتِرَاحِ الْأُمِّ؟",
+				"uz": "O'g'il onaning taklifiga rozi bo'ldimi?",
+				"answer": {
+					"ar": "نَعَمْ، وَافَقَ وَقَالَ إِنَّهَا فِكْرَةٌ طَيِّبَةٌ",
+					"uz": "Ha, rozi bo'ldi va uni \"yaxshi fikr\" dedi"
+				},
+				"choices": [
+					"نَعَمْ، وَافَقَ وَقَالَ إِنَّهَا فِكْرَةٌ طَيِّبَةٌ",
+					"لَا، رَفَضَ",
+					"كَانَ غَيْرَ مُهْتَمٍّ",
+					"أَرَادَ مَكَانًا آخَرَ"
+				]
+			},
+			{
+				"ar": "مَا الْأَمَاكِنُ الْجَمِيلَةُ فِي الْقَرْيَةِ؟",
+				"uz": "Qishloqdagi chiroyli joylar nimalar?",
+				"answer": {
+					"ar": "بَحْرٌ وَبُحَيْرَةٌ وَجَبَلٌ وَغَابَةٌ وَشَلَّالٌ",
+					"uz": "Dengiz, ko'l, tog', o'rmon va sharshara"
+				},
+				"choices": [
+					"بَحْرٌ وَبُحَيْرَةٌ وَجَبَلٌ وَغَابَةٌ وَشَلَّالٌ",
+					"مَدِينَةٌ كَبِيرَةٌ فَقَطْ",
+					"مَسْجِدٌ وَمَدْرَسَةٌ",
+					"سُوقٌ وَمَطْعَمٌ"
+				]
+			},
+			{
+				"ar": "هَلْ يُوجَدُ شَلَّالٌ فِي الْقَرْيَةِ؟",
+				"uz": "Qishloqda sharshara bormi?",
+				"answer": {
+					"ar": "نَعَمْ، يُوجَدُ شَلَّالٌ",
+					"uz": "Ha, sharshara bor"
+				},
+				"choices": [
+					"نَعَمْ، يُوجَدُ شَلَّالٌ",
+					"لَا، لَيْسَ هُنَاكَ شَلَّالٌ",
+					"هُنَاكَ شَلَّالَانِ",
+					"الشَّلَّالُ بَعِيدٌ"
+				]
+			},
+			{
+				"ar": "مَاذَا يُرِيدُ الْاِبْنُ أَنْ يَفْعَلَ فِي الْبَحْرِ؟",
+				"uz": "O'g'il dengizda nima qilmoqchi?",
+				"answer": {
+					"ar": "يُرِيدُ أَنْ يَسْبَحَ",
+					"uz": "Suzmoqchi"
+				},
+				"choices": [
+					"يُرِيدُ أَنْ يَسْبَحَ",
+					"يُرِيدُ أَنْ يَصْطَادَ السَّمَكَ",
+					"يُرِيدُ أَنْ يَنَامَ",
+					"يُرِيدُ أَنْ يَقْرَأَ"
+				]
+			},
+			{
+				"ar": "أَيْنَ سَيَصْطَادُونَ السَّمَكَ؟",
+				"uz": "Baliqni qayerda ovlaydilar?",
+				"answer": {
+					"ar": "فِي الْبُحَيْرَةِ",
+					"uz": "Ko'lda"
+				},
+				"choices": [
+					"فِي الْبُحَيْرَةِ",
+					"فِي الْبَحْرِ",
+					"فِي النَّهْرِ",
+					"فِي الشَّلَّالِ"
+				]
+			},
+			{
+				"ar": "أَيْنَ سَيَحْصُدُونَ الْخَضْرَوَاتِ؟",
+				"uz": "Sabzavotlarni qayerda yig'adilar?",
+				"answer": {
+					"ar": "فِي مَزْرَعَةِ الْعَمِّ",
+					"uz": "Amakining dalasida"
+				},
+				"choices": [
+					"فِي مَزْرَعَةِ الْعَمِّ",
+					"فِي السُّوقِ",
+					"فِي الْحَدِيقَةِ",
+					"فِي الْغَابَةِ"
+				]
+			},
+			{
+				"ar": "مَتَى سَيَبْدَؤُونَ الْإِعْدَادَ؟",
+				"uz": "Tayyorgarlikni qachon boshlaydilar?",
+				"answer": {
+					"ar": "مُنْذُ الْيَوْمِ",
+					"uz": "Bugundan boshlab"
+				},
+				"choices": [
+					"مُنْذُ الْيَوْمِ",
+					"بَعْدَ أُسْبُوعٍ",
+					"غَدًا",
+					"قَبْلَ الْعُطْلَةِ بِيَوْمٍ"
+				]
+			},
+			{
+				"ar": "مَنْ يَتَحَدَّثُ فِي الْحِوَارِ؟",
+				"uz": "Dialogda kim suhbatlashadi?",
+				"answer": {
+					"ar": "الْأَبُ وَالْأُمُّ وَالْاِبْنُ",
+					"uz": "Ota, ona va o'g'il"
+				},
+				"choices": [
+					"الْأَبُ وَالْأُمُّ وَالْاِبْنُ",
+					"الْأَبُ وَالْاِبْنُ فَقَطْ",
+					"الْأُمُّ وَالْبِنْتُ",
+					"الْأَصْدِقَاءُ"
+				]
+			}
+		],
+
+		"grammar": [
+			{
+				"title": "Tabiat va joy nomlari",
+				"content": "Bu darsda tabiat bilan bog'liq ko'p so'zlar bor: bahr (dengiz), buhayra (ko'l), nahr (daryo), jabal (tog'), ghaba (o'rmon), shallal (sharshara). Bularning ko'pchiligi muannas.",
+				"examples": [
+					{ "ar": "بَحْر", "uz": "Dengiz" },
+					{ "ar": "بُحَيْرَة", "uz": "Ko'l (kichikartirma — kichik dengiz)" },
+					{ "ar": "نَهْر", "uz": "Daryo" },
+					{ "ar": "جَبَل", "uz": "Tog'" },
+					{ "ar": "غَابَة", "uz": "O'rmon" },
+					{ "ar": "شَلَّال", "uz": "Sharshara" },
+					{ "ar": "غَار", "uz": "G'or" },
+					{ "ar": "شَاطِئ", "uz": "Qirg'oq" }
+				]
+			},
+			{
+				"title": "Birinchi shaxs ko'plik (نَحْنُ) bilan kelajak",
+				"content": "«Biz qilamiz» degan ma'no نَـ prefiksi bilan, kelajak uchun esa سَنَـ qo'shiladi. Dialogda «سَنَقْضِي» (o'tkazamiz), «سَنَصْطَادُ» (ovlaymiz), «نَحْصُدُ» (yig'amiz).",
+				"examples": [
+					{ "ar": "سَنَقْضِي", "uz": "O'tkazamiz (kelajak)" },
+					{ "ar": "نَزُورُ", "uz": "Ziyorat qilamiz" },
+					{ "ar": "سَنَصْطَادُ", "uz": "Ovlaymiz" },
+					{ "ar": "نَحْصُدُ", "uz": "Yig'amiz" },
+					{ "ar": "لِنُعِدَّ", "uz": "Tayyorlaylik (taklif)" }
+				]
+			},
+			{
+				"title": "Fikr so'rash: مَا رَأْيُكَ؟",
+				"content": "«مَا رَأْيُكَ» — Sening fikring qanday? Bu suhbatda taklif berishdan keyin javob olish uchun ishlatiladi.",
+				"examples": [
+					{ "ar": "مَا رَأْيُكَ؟", "uz": "Sening fikring qanday? (erkakka)" },
+					{ "ar": "مَا رَأْيُكِ؟", "uz": "Sening fikring qanday? (ayolga)" },
+					{ "ar": "مَا رَأْيُكُمْ؟", "uz": "Sizlarning fikringiz qanday?" },
+					{ "ar": "فِي رَأْيِي", "uz": "Mening fikrimcha" }
+				]
+			},
+			{
+				"title": "Taklifga javob: فِكْرَة طَيِّبَة",
+				"content": "Yaxshi taklifga javob iboralari: «فِكْرَةٌ طَيِّبَةٌ» (yaxshi fikr), «طَبْعًا» (albatta), «بِالضَّبْطِ» (aniq), «حَقًّا» (rostdanmi).",
+				"examples": [
+					{ "ar": "فِكْرَةٌ طَيِّبَةٌ", "uz": "Yaxshi fikr" },
+					{ "ar": "طَبْعًا", "uz": "Albatta" },
+					{ "ar": "بِالضَّبْطِ", "uz": "Aniq" },
+					{ "ar": "حَقًّا", "uz": "Rostdanmi" },
+					{ "ar": "رَائِعٌ جِدًّا", "uz": "Juda ajoyib" }
+				]
+			},
+			{
+				"title": "Bolaga murojaat: يَا بُنَيَّ",
+				"content": "«بُنَيّ» — «o'g'lim» so'zining kichikartirma shakli (tasghir). Mehribonlik bilan murojaat qilish uchun ishlatiladi. Qur'oni Karimda Lukmon o'g'liga shu shakl bilan murojaat qiladi.",
+				"examples": [
+					{ "ar": "يَا بُنَيَّ", "uz": "Ey o'g'ilcham" },
+					{ "ar": "يَا بِنْتِي", "uz": "Ey qizim" },
+					{ "ar": "يَا أُمِّي", "uz": "Ey onam" },
+					{ "ar": "يَا أَبِي", "uz": "Ey otam" }
+				]
+			}
+		]
 	}
 ]

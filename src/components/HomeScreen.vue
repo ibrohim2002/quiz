@@ -83,7 +83,7 @@ const topMistakes = computed(() =>
 			</button>
 
 			<!-- Qoidalar -->
-			<!-- <button
+			<button
 				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-[18px] text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
 				@click="$emit('browseGrammar')"
 			>
@@ -98,7 +98,7 @@ const topMistakes = computed(() =>
 						Grammatika qoidalari va misollar
 					</div>
 				</div>
-			</button> -->
+			</button>
 
 			<!-- Lug'at -->
 			<button
