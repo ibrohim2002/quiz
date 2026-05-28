@@ -8287,7 +8287,86 @@
 			}
 		],
 
+		"texts": [
+			{
+				"title": "نُحِبُّ شَاطِئَ الْبَحْرِ",
+				"titleUz": "Biz dengiz qirg'og'ini yaxshi ko'ramiz",
+				"ar": "قَرَّرَتْ أُسْرَتِي أَنْ نَقْضِيَ الْعُطْلَةَ هَذَا الْمَوْسِمَ إِلَى جَزِيرَةِ لُومْبُوكَ. نَخْتَارُ تِلْكَ الْجَزِيرَةَ لِوُجُودِ عِدَّةِ شَوَاطِئِ الْبَحْرِ الْجَمِيلَةِ. تُحِبُّ أُسْرَتِي الشَّاطِئَ كَثِيرًا. نَحْنُ ذَاهِبُونَ إِلَى الشَّاطِئِ دَائِمًا عِنْدَ الْعُطْلَةِ. أَحْيَانًا نَقْضِي الْعُطْلَةَ فِي شَاطِئِ «بَالِي» وَأَحْيَانًا فِي شَاطِئِ «رَاجَا أَمْبَاتْ». وَمَعَ ذَلِكَ، فَقَدْ نَتَمَشَّى إِلَى الْجَبَلِ لِنُخَيِّمَ عَلَيْهِ نِهَايَةَ الْأُسْبُوعِ.",
+				"uz": "Oilam bu mavsumdagi ta'tilni Lombok orolida o'tkazishga qaror qildi. Bu orolni bir nechta chiroyli dengiz qirg'oqlari borligi uchun tanlaymiz. Oilam qirg'oqni juda yaxshi ko'radi. Biz ta'tilda har doim qirg'oqqa boramiz. Ba'zan ta'tilni «Bali» qirg'og'ida, ba'zan «Raja Ampat» qirg'og'ida o'tkazamiz. Shuningdek, hafta oxirida tog'da chodir tikish uchun tog'ga sayrga chiqishimiz mumkin."
+			}
+		],
+
 		"comprehensionQuiz": [
+			{
+				"ar": "إِلَى أَيِّ جَزِيرَةٍ قَرَّرَتِ الْأُسْرَةُ أَنْ تَذْهَبَ فِي النَّصِّ؟",
+				"uz": "Matnda oila qaysi orolga borishni qaror qildi?",
+				"answer": {
+					"ar": "إِلَى جَزِيرَةِ لُومْبُوكَ",
+					"uz": "Lombok oroliga"
+				},
+				"choices": [
+					"إِلَى جَزِيرَةِ لُومْبُوكَ",
+					"إِلَى جَزِيرَةِ جَاوَا",
+					"إِلَى جَزِيرَةِ سُومَطْرَا",
+					"إِلَى جَزِيرَةِ بُورْنِيُو"
+				]
+			},
+			{
+				"ar": "لِمَاذَا اخْتَارَتِ الْأُسْرَةُ تِلْكَ الْجَزِيرَةَ؟",
+				"uz": "Oila nima uchun o'sha orolni tanladi?",
+				"answer": {
+					"ar": "لِوُجُودِ شَوَاطِئَ جَمِيلَةٍ",
+					"uz": "Chiroyli qirg'oqlar borligi uchun"
+				},
+				"choices": [
+					"لِوُجُودِ شَوَاطِئَ جَمِيلَةٍ",
+					"لِأَنَّهَا قَرِيبَةٌ",
+					"لِوُجُودِ أَسْوَاقٍ كَبِيرَةٍ",
+					"لِأَنَّهَا رَخِيصَةٌ"
+				]
+			},
+			{
+				"ar": "مَاذَا تُحِبُّ الْأُسْرَةُ كَثِيرًا؟",
+				"uz": "Oila nimani juda yaxshi ko'radi?",
+				"answer": {
+					"ar": "تُحِبُّ الشَّاطِئَ",
+					"uz": "Qirg'oqni yaxshi ko'radi"
+				},
+				"choices": [
+					"تُحِبُّ الشَّاطِئَ",
+					"تُحِبُّ الْجَبَلَ",
+					"تُحِبُّ السُّوقَ",
+					"تُحِبُّ الْمَدِينَةَ"
+				]
+			},
+			{
+				"ar": "فِي أَيِّ شَاطِئَيْنِ تَقْضِي الْأُسْرَةُ الْعُطْلَةَ أَحْيَانًا؟",
+				"uz": "Oila ba'zan qaysi ikki qirg'oqda ta'til o'tkazadi?",
+				"answer": {
+					"ar": "شَاطِئُ بَالِي وَشَاطِئُ رَاجَا أَمْبَاتْ",
+					"uz": "Bali va Raja Ampat qirg'oqlari"
+				},
+				"choices": [
+					"شَاطِئُ بَالِي وَشَاطِئُ رَاجَا أَمْبَاتْ",
+					"شَاطِئُ جَاكَرْتَا وَشَاطِئُ جُدَّةَ",
+					"شَاطِئُ مَكَّةَ وَالْمَدِينَةِ",
+					"لَا تَذْكُرُ النَّصُّ"
+				]
+			},
+			{
+				"ar": "مَاذَا تَفْعَلُ الْأُسْرَةُ نِهَايَةَ الْأُسْبُوعِ أَحْيَانًا؟",
+				"uz": "Oila ba'zan hafta oxirida nima qiladi?",
+				"answer": {
+					"ar": "تَتَمَشَّى إِلَى الْجَبَلِ لِتُخَيِّمَ عَلَيْهِ",
+					"uz": "Tog'da chodir tikish uchun tog'ga sayrga chiqadi"
+				},
+				"choices": [
+					"تَتَمَشَّى إِلَى الْجَبَلِ لِتُخَيِّمَ عَلَيْهِ",
+					"تَبْقَى فِي الْبَيْتِ",
+					"تَذْهَبُ إِلَى السُّوقِ",
+					"تَزُورُ الْمُتْحَفَ"
+				]
+			},
 			{
 				"ar": "مَتَى الْعُطْلَةُ؟",
 				"uz": "Ta'til qachon?",
