@@ -7,16 +7,20 @@
 		"coverImage": "/images/al-mumtaz-cover.png",
 		"level": "1-daraja",
 		"lessonsCount": 15,
-		"available": true
+		"available": true,
+		"lessonsFile": "/lessons.json",
+		"versionFile": "/version.json"
 	},
 	{
-		"id": "coming-soon-1",
-		"titleAr": "المنهج العالمي المستوي المبتدئ",
-		"titleUz": "Tez orada",
-		"description": "Keyingi kitob tez orada qo'shiladi, inshaAlloh.",
+		"id": "al-manhaj",
+		"titleAr": "الْمَنْهَجُ الْعَالَمِيُّ الْمُسْتَوَى الْمُبْتَدِئ",
+		"titleUz": "Al-Manhaj — Boshlang'ich daraja",
+		"description": "Kommunikativ usulda arabcha o'rgatuvchi xalqaro dastur. 12 ta mavzu: salomlashish, oila, ta'lim, kasb va boshqalar.",
 		"coverImage": "/images/second-book.png",
-		"level": "—",
-		"lessonsCount": 0,
-		"available": false
+		"level": "A1",
+		"lessonsCount": 12,
+		"available": true,
+		"lessonsFile": "/lessons-al-manhaj.json",
+		"versionFile": "/version-al-manhaj.json"
 	}
 ]

@@ -5,9 +5,10 @@ import DialogueView from './DialogueView.vue';
 import GrammarView from './GrammarView.vue';
 import TextView from './TextView.vue';
 import ComprehensionView from './ComprehensionView.vue';
+import ExerciseView from './ExerciseView.vue';
 
-type Tab = 'words' | 'dialogues' | 'texts' | 'grammar' | 'quiz';
-type Mode = 'all' | 'textdialog' | 'grammar' | 'words';
+type Tab = 'words' | 'dialogues' | 'texts' | 'grammar' | 'quiz' | 'exercises';
+type Mode = 'all' | 'textdialog' | 'grammar' | 'words' | 'exercises';
 
 const props = withDefaults(
 	defineProps<{
@@ -27,10 +28,11 @@ const emit = defineEmits<{
 }>();
 
 const tabsForMode: Record<Mode, Tab[]> = {
-	all: ['words', 'dialogues', 'texts', 'grammar', 'quiz'],
+	all: ['words', 'dialogues', 'texts', 'grammar', 'quiz', 'exercises'],
 	textdialog: ['dialogues', 'texts', 'quiz'],
 	grammar: ['grammar'],
 	words: ['words'],
+	exercises: ['exercises'],
 };
 
 const availableTabs = computed<
@@ -74,6 +76,13 @@ const availableTabs = computed<
 			count: props.lesson.comprehensionQuiz.length,
 		});
 	}
+	if (allowedTabs.includes('exercises') && props.lesson.exercises?.length) {
+		tabs.push({
+			id: 'exercises',
+			label: 'Mashqlar',
+			count: props.lesson.exercises.reduce((s, sec) => s + sec.items.length, 0),
+		});
+	}
 	return tabs;
 });
 
@@ -104,6 +113,8 @@ const modeTitle = computed(() => {
 			return 'Qoidalar';
 		case 'words':
 			return "Lug'at";
+		case 'exercises':
+			return 'Mashqlar';
 		default:
 			return null;
 	}
@@ -115,7 +126,7 @@ const modeTitle = computed(() => {
 		<!-- Header -->
 		<div class="flex items-center gap-3">
 			<button
-				class="flex-shrink-0 w-9 h-9 rounded-full bg-gray-100 hover:bg-gray-200 flex items-center justify-center text-gray-700 transition"
+				class="shrink-0 w-9 h-9 rounded-full bg-gray-100 hover:bg-gray-200 flex items-center justify-center text-gray-700 transition"
 				aria-label="Orqaga"
 				@click="emit('back')"
 			>
@@ -179,7 +190,7 @@ const modeTitle = computed(() => {
 					class="flex items-center gap-3 p-3 rounded-lg border border-gray-200 bg-white hover:border-gray-300 transition"
 				>
 					<button
-						class="flex-shrink-0 w-9 h-9 rounded-full bg-gray-100 text-gray-600 hover:bg-emerald-100 hover:text-emerald-700 flex items-center justify-center transition"
+						class="shrink-0 w-9 h-9 rounded-full bg-gray-100 text-gray-600 hover:bg-emerald-100 hover:text-emerald-700 flex items-center justify-center transition"
 						:aria-label="`Eshitish: ${word.ar}`"
 						@click="speak(word.ar)"
 					>
@@ -240,6 +251,12 @@ const modeTitle = computed(() => {
 			v-else-if="activeTab === 'quiz' && lesson.comprehensionQuiz"
 			:questions="lesson.comprehensionQuiz"
 			:speak="speak"
+		/>
+
+		<!-- TAB: Mashqlar -->
+		<ExerciseView
+			v-else-if="activeTab === 'exercises' && lesson.exercises"
+			:sections="lesson.exercises"
 		/>
 	</div>
 </template>

@@ -1,0 +1,1780 @@
+[
+	{
+		"number": 1,
+		"titleAr": "التَّحِيَّةُ وَالتَّعَارُفُ",
+		"titleUz": "Salomlashish va tanishish",
+		"words": [
+			{
+				"ar": "مَرْحَبًا",
+				"tr": "marhaban",
+				"uz": "Salom",
+				"ex": "مَرْحَبًا يَا صَدِيقِي"
+			},
+			{
+				"ar": "أَهْلًا وَسَهْلًا",
+				"tr": "ahlan wa-sahlan",
+				"uz": "Xush kelibsiz",
+				"ex": "أَهْلًا وَسَهْلًا بِكَ"
+			},
+			{
+				"ar": "سَعِيدٌ بِلِقَائِكَ",
+				"tr": "sa'iidun bi-liqaa'ika",
+				"uz": "Tanishganimdan xursandman",
+				"ex": "أَنَا سَعِيدٌ بِلِقَائِكَ"
+			},
+			{
+				"ar": "كَيْفَ حَالُكَ؟",
+				"tr": "kayfa haaluka",
+				"uz": "Ahvoling qanday?",
+				"ex": "كَيْفَ حَالُكَ يَا مَحْمُود؟"
+			},
+			{
+				"ar": "بِخَيْرٍ",
+				"tr": "bi-khayr",
+				"uz": "Yaxshi",
+				"ex": "أَنَا بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ"
+			},
+			{
+				"ar": "وَالْحَمْدُ لِلّٰهِ",
+				"tr": "wa-l-hamdu lillaah",
+				"uz": "Alhamdulillah",
+				"ex": "بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ"
+			},
+			{
+				"ar": "مَعَ السَّلَامَةِ",
+				"tr": "ma'a-s-salaama",
+				"uz": "Xayr / Salomat bo'ling",
+				"ex": "مَعَ السَّلَامَةِ يَا زَايِد"
+			},
+			{
+				"ar": "إِلَى اللِّقَاءِ",
+				"tr": "ilaa-l-liqaa'",
+				"uz": "Ko'rishguncha",
+				"ex": "إِلَى اللِّقَاءِ يَا صَدِيقِي"
+			},
+			{
+				"ar": "صَبَاحُ الْخَيْرِ",
+				"tr": "sabaahu-l-khayr",
+				"uz": "Hayrli tong",
+				"ex": "صَبَاحُ الْخَيْرِ يَا عَائِشَة"
+			},
+			{
+				"ar": "صَبَاحُ النُّورِ",
+				"tr": "sabaahu-n-nuur",
+				"uz": "Hayrli tong (javob)",
+				"ex": "صَبَاحُ النُّورِ يَا نُور"
+			},
+			{
+				"ar": "مَسَاءُ الْخَيْرِ",
+				"tr": "masaa'u-l-khayr",
+				"uz": "Xayrli kech",
+				"ex": "مَسَاءُ الْخَيْرِ يَا أَخِي"
+			},
+			{
+				"ar": "مَسَاءُ النُّورِ",
+				"tr": "masaa'u-n-nuur",
+				"uz": "Xayrli kech (javob)",
+				"ex": "مَسَاءُ النُّورِ يَا أُخْتِي"
+			},
+			{
+				"ar": "مَا اسْمُكَ؟",
+				"tr": "mas-muka",
+				"uz": "Isming nima?",
+				"ex": "مَا اسْمُكَ يَا أَخِي؟"
+			},
+			{
+				"ar": "اِسْمِي",
+				"tr": "ismii",
+				"uz": "Mening ismim ...",
+				"ex": "اِسْمِي زَايِدٌ"
+			},
+			{
+				"ar": "مِنْ أَيْنَ أَنْتَ؟",
+				"tr": "min ayna anta",
+				"uz": "Sen qayerdansan?",
+				"ex": "مِنْ أَيْنَ أَنْتَ يَا مَحْمُود؟"
+			},
+			{
+				"ar": "أَنَا مِنَ",
+				"tr": "anaa mina",
+				"uz": "Men ... danman",
+				"ex": "أَنَا مِنَ الْأُرْدُنِّ"
+			},
+			{
+				"ar": "جَامِعَةٌ",
+				"tr": "jaami'ah",
+				"uz": "Universitet",
+				"ex": "أَنَا طَالِبَةٌ فِي الْجَامِعَةِ"
+			},
+			{
+				"ar": "طَالِبٌ / طَالِبَةٌ",
+				"tr": "taalib / taalibah",
+				"uz": "Talaba (erkak / qiz)",
+				"ex": "هَذَا طَالِبٌ وَهَذِهِ طَالِبَةٌ"
+			},
+			{
+				"ar": "مَدِينَةٌ",
+				"tr": "madiinah",
+				"uz": "Shahar",
+				"ex": "أَنَا مِنْ مَدِينَةِ دُبَيّ"
+			},
+			{
+				"ar": "مُعَلِّمٌ / مُعَلِّمَةٌ",
+				"tr": "mu'allim / mu'allimah",
+				"uz": "O'qituvchi (erkak / ayol)",
+				"ex": "هِيَ مُعَلِّمَةٌ فِي الْمَدْرَسَةِ"
+			},
+			{
+				"ar": "مُدِيرٌ / مُدِيرَةٌ",
+				"tr": "mudiir / mudiira",
+				"uz": "Mudur / Direktora",
+				"ex": "هُوَ مُدِيرٌ فِي الشَّرِكَةِ"
+			},
+			{
+				"ar": "طَبِيبٌ / طَبِيبَةٌ",
+				"tr": "tabiib / tabiibah",
+				"uz": "Shifokor (erkak / ayol)",
+				"ex": "هُوَ طَبِيبٌ مَاهِرٌ"
+			},
+			{
+				"ar": "مَدْرَسَةٌ",
+				"tr": "madrasah",
+				"uz": "Maktab",
+				"ex": "أَعْمَلُ مُعَلِّمَةً فِي الْمَدْرَسَةِ"
+			},
+			{
+				"ar": "صَدِيقٌ / صَدِيقَةٌ",
+				"tr": "sadiiq / sadiiqah",
+				"uz": "Do'st (erkak / ayol)",
+				"ex": "هَذَا صَدِيقِي يَاسِر"
+			},
+			{
+				"ar": "أَعْمَلُ",
+				"tr": "a'malu",
+				"uz": "Men ishlayman",
+				"ex": "أَعْمَلُ مُعَلِّمًا فِي الْجَامِعَةِ"
+			},
+			{
+				"ar": "هَذَا",
+				"tr": "haadzaa",
+				"uz": "Bu (erkak uchun)",
+				"ex": "هَذَا صَدِيقِي"
+			},
+			{
+				"ar": "هَذِهِ",
+				"tr": "haadzihi",
+				"uz": "Bu (ayol uchun)",
+				"ex": "هَذِهِ مُعَلِّمَتِي"
+			},
+			{
+				"ar": "أَنَا",
+				"tr": "anaa",
+				"uz": "Men",
+				"ex": "أَنَا طَالِبٌ"
+			},
+			{
+				"ar": "أَنْتَ / أَنْتِ",
+				"tr": "anta / anti",
+				"uz": "Sen (erkak / ayol)",
+				"ex": "أَنْتَ مُعَلِّمٌ"
+			},
+			{
+				"ar": "هُوَ / هِيَ",
+				"tr": "huwa / hiya",
+				"uz": "U (erkak / ayol)",
+				"ex": "هُوَ طَبِيبٌ وَهِيَ مُعَلِّمَةٌ"
+			}
+		],
+		"dialogues": [
+			{
+				"title": "سَعِيدٌ بِلِقَائِكَ",
+				"titleUz": "Tanishganimdan xursandman",
+				"intro": "زَايِدٌ مِنَ الْإِمَارَاتِ يَلْتَقِي بِمَحْمُودٍ مِنَ الْأُرْدُنِّ وَصَدِيقِهِ يَاسِرَ مِنْ مِصْرَ.",
+				"introUz": "BAA dan Zaid Iordaniyadan Mahmud va uning do'sti Misrdan Yosir bilan uchrashayyapti.",
+				"lines": [
+					{
+						"speaker": "زَايِد",
+						"ar": "صَبَاحُ الْخَيْرِ.",
+						"uz": "Hayrli tong."
+					},
+					{
+						"speaker": "مَحْمُود",
+						"ar": "صَبَاحُ النُّورِ.",
+						"uz": "Hayrli tong."
+					},
+					{
+						"speaker": "زَايِد",
+						"ar": "كَيْفَ حَالُكَ؟",
+						"uz": "Ahvoling qanday?"
+					},
+					{
+						"speaker": "مَحْمُود",
+						"ar": "بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ، وَأَنْتَ؟",
+						"uz": "Yaxshi, alhamdulillah. Siz-chi?"
+					},
+					{
+						"speaker": "زَايِد",
+						"ar": "بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ.",
+						"uz": "Yaxshi, alhamdulillah."
+					},
+					{
+						"speaker": "مَحْمُود",
+						"ar": "مَا اسْمُكَ؟",
+						"uz": "Isming nima?"
+					},
+					{
+						"speaker": "زَايِد",
+						"ar": "اسْمِي زَايِدٌ، وَأَنْتَ؟",
+						"uz": "Mening ismim Zaid. Sen-chi?"
+					},
+					{
+						"speaker": "مَحْمُود",
+						"ar": "اسْمِي مَحْمُودٌ.",
+						"uz": "Mening ismim Mahmud."
+					},
+					{
+						"speaker": "زَايِد",
+						"ar": "مِنْ أَيْنَ أَنْتَ يَا مَحْمُود؟",
+						"uz": "Qayerdansan, Mahmud?"
+					},
+					{
+						"speaker": "مَحْمُود",
+						"ar": "أَنَا مِنَ الْأُرْدُنِّ، مِنْ مَدِينَةِ عَمَّان.",
+						"uz": "Men Iordaniyadan, Ammon shahridan."
+					},
+					{
+						"speaker": "زَايِد",
+						"ar": "وَأَنَا مِنَ الْإِمَارَاتِ، مِنْ مَدِينَةِ دُبَيّ.",
+						"uz": "Men esa BAA dan, Dubay shahridan."
+					},
+					{
+						"speaker": "مَحْمُود",
+						"ar": "مَنْ هَذَا؟",
+						"uz": "Bu kim?"
+					},
+					{
+						"speaker": "زَايِد",
+						"ar": "هَذَا صَدِيقِي يَاسِرٌ، هُوَ مِنْ مِصْرَ.",
+						"uz": "Bu mening do'stim Yosir, u Misrdan."
+					},
+					{
+						"speaker": "مَحْمُود",
+						"ar": "أَهْلًا وَسَهْلًا.",
+						"uz": "Xush kelibsiz."
+					},
+					{
+						"speaker": "يَاسِر",
+						"ar": "أَهْلًا بِكَ.",
+						"uz": "Xush kelibsiz."
+					},
+					{
+						"speaker": "مَحْمُود",
+						"ar": "سَعِيدٌ بِلِقَائِكَ.",
+						"uz": "Tanishganimdan xursandman."
+					},
+					{
+						"speaker": "زَايِد",
+						"ar": "وَأَنَا أَيْضًا، مَعَ السَّلَامَةِ.",
+						"uz": "Men ham. Xayr."
+					},
+					{
+						"speaker": "مَحْمُود",
+						"ar": "إِلَى اللِّقَاءِ.",
+						"uz": "Ko'rishguncha."
+					}
+				],
+				"audioUrl": "https://drive.google.com/file/d/17FvHyIXyzrCftoVfEKEmO6IKV_8cofjB/view?usp=sharing"
+			},
+			{
+				"title": "صَبَاحُ الْخَيْرِ",
+				"titleUz": "Hayrli tong",
+				"intro": "عَائِشَةُ مِنْ مِصْرَ تَلْتَقِي بِنُورٍ مِنْ سُورِيَا.",
+				"introUz": "Misrdan Oisha Suriyadan Nur bilan uchrashayyapti.",
+				"lines": [
+					{
+						"speaker": "عَائِشَة",
+						"ar": "صَبَاحُ الْخَيْرِ.",
+						"uz": "Hayrli tong."
+					},
+					{
+						"speaker": "نُور",
+						"ar": "صَبَاحُ النُّورِ.",
+						"uz": "Hayrli tong."
+					},
+					{
+						"speaker": "عَائِشَة",
+						"ar": "كَيْفَ حَالُكِ؟",
+						"uz": "Ahvoling qanday?"
+					},
+					{
+						"speaker": "نُور",
+						"ar": "بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ، وَأَنْتِ؟",
+						"uz": "Yaxshi, alhamdulillah. Siz-chi?"
+					},
+					{
+						"speaker": "عَائِشَة",
+						"ar": "أَنَا بِخَيْرٍ، مَا اسْمُكِ؟",
+						"uz": "Men yaxshiman. Isming nima?"
+					},
+					{
+						"speaker": "نُور",
+						"ar": "اسْمِي نُورٌ، وَأَنْتِ؟",
+						"uz": "Mening ismim Nur. Sen-chi?"
+					},
+					{
+						"speaker": "عَائِشَة",
+						"ar": "اسْمِي عَائِشَةُ، مِنْ أَيْنَ أَنْتِ يَا نُور؟",
+						"uz": "Mening ismim Oisha. Qayerdansan, Nur?"
+					},
+					{
+						"speaker": "نُور",
+						"ar": "أَنَا مِنْ سُورِيَا، مِنْ دِمَشْق، وَأَنْتِ؟",
+						"uz": "Men Suriyadan, Damashqdan. Sen-chi?"
+					},
+					{
+						"speaker": "عَائِشَة",
+						"ar": "أَنَا مِنْ مِصْرَ، مِنَ الْقَاهِرَةِ.",
+						"uz": "Men Misrdan, Qohiradan."
+					},
+					{
+						"speaker": "نُور",
+						"ar": "مَا عَمَلُكِ؟",
+						"uz": "Kasbingiz nima?"
+					},
+					{
+						"speaker": "عَائِشَة",
+						"ar": "أَعْمَلُ مُعَلِّمَةً فِي الْمَدْرَسَةِ، وَأَنْتِ؟",
+						"uz": "Men maktabda o'qituvchi bo'lib ishlayman. Sen-chi?"
+					},
+					{
+						"speaker": "نُور",
+						"ar": "أَنَا طَالِبَةٌ فِي الْجَامِعَةِ، فِي السَّنَةِ الثَّالِثَةِ.",
+						"uz": "Men universitetda o'qiyman, uchinchi kursda."
+					},
+					{
+						"speaker": "عَائِشَة",
+						"ar": "أَنَا سَعِيدَةٌ بِلِقَائِكِ.",
+						"uz": "Tanishganimdan xursandman."
+					},
+					{
+						"speaker": "نُور",
+						"ar": "وَأَنَا أَيْضًا.",
+						"uz": "Men ham."
+					}
+				],
+				"audioUrl": "https://drive.google.com/file/d/1jYAaLunNOlv0xwGZ4Gew3k9gidBLDl6F/view?usp=sharing"
+			}
+		],
+		"grammar": [
+			{
+				"title": "اسم الإشارة المفرد — Yaqin ko'rsatish olmoshlari",
+				"content": "Arabchada yaqin narsani ko'rsatish uchun ikki so'z ishlatiladi: erkak jins uchun هَذَا (bu), ayol jins uchun هَذِهِ (bu). Misol: هَذَا رَجُلٌ (bu erkak), هَذِهِ امْرَأَةٌ (bu ayol).",
+				"examples": [
+					{
+						"ar": "هَذَا طَالِبٌ.",
+						"uz": "Bu talaba (erkak)."
+					},
+					{
+						"ar": "هَذِهِ طَالِبَةٌ.",
+						"uz": "Bu talaba (qiz)."
+					},
+					{
+						"ar": "هَذَا مُعَلِّمٌ.",
+						"uz": "Bu o'qituvchi (erkak)."
+					},
+					{
+						"ar": "هَذِهِ مَدْرَسَةٌ.",
+						"uz": "Bu maktab."
+					},
+					{
+						"ar": "مَنْ هَذَا؟ — هَذَا صَدِيقِي يَاسِر.",
+						"uz": "Bu kim? — Bu mening do'stim Yosir."
+					}
+				]
+			},
+			{
+				"title": "ضمائر المفرد — Birlik kishilik olmoshlari",
+				"content": "Arabchada birlik kishilik olmoshlari: أَنَا (men), أَنْتَ (sen — erkak), أَنْتِ (sen — ayol), هُوَ (u — erkak), هِيَ (u — ayol).",
+				"examples": [
+					{
+						"ar": "أَنَا طَالِبٌ.",
+						"uz": "Men talabaman (erkak)."
+					},
+					{
+						"ar": "أَنَا طَالِبَةٌ.",
+						"uz": "Men talabaman (qiz)."
+					},
+					{
+						"ar": "أَنْتَ مُعَلِّمٌ.",
+						"uz": "Sen o'qituvchisan (erkak)."
+					},
+					{
+						"ar": "أَنْتِ مُعَلِّمَةٌ.",
+						"uz": "Sen o'qituvchisan (ayol)."
+					},
+					{
+						"ar": "هُوَ طَبِيبٌ وَهِيَ مُدِيرَةٌ.",
+						"uz": "U shifokor (erkak) va u direktora (ayol)."
+					}
+				]
+			},
+			{
+				"title": "أدوات الاستفهام — So'roq so'zlari",
+				"content": "Arabchada asosiy so'roq so'zlari: مَنْ (kim?), مَا (nima?), أَيْنَ (qayerda?), مِنْ أَيْنَ (qayerdan?), كَيْفَ (qanday?), مَاذَا (nima? — fe'l bilan), كَمْ (qancha?).",
+				"examples": [
+					{
+						"ar": "مَا اسْمُكَ؟ — اسْمِي مَحْمُود.",
+						"uz": "Isming nima? — Mening ismim Mahmud."
+					},
+					{
+						"ar": "مِنْ أَيْنَ أَنْتَ؟ — أَنَا مِنَ الْأُرْدُنِّ.",
+						"uz": "Qayerdansan? — Men Iordaniyadan."
+					},
+					{
+						"ar": "مَنْ هَذَا؟ — هَذَا صَدِيقِي.",
+						"uz": "Bu kim? — Bu mening do'stim."
+					},
+					{
+						"ar": "أَيْنَ تَعْمَلُ؟ — أَعْمَلُ فِي الْجَامِعَةِ.",
+						"uz": "Qayerda ishlaysan? — Universitetda ishlayman."
+					},
+					{
+						"ar": "كَيْفَ حَالُكَ؟ — بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ.",
+						"uz": "Ahvoling qanday? — Yaxshi, alhamdulillah."
+					}
+				]
+			}
+		],
+		"exercises": [
+			{
+				"titleAr": "اخْتَرِ الْجَوَابَ الصَّحِيحَ",
+				"titleUz": "To'g'ri javobni tanlang (1-o'qish asosida)",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": "تَحَدَّثَ زَايِدٌ مَعَ مَحْمُودٍ فِي ...",
+						"uz": "Zaid Mahmud bilan ... gaplashdi.",
+						"choices": ["الصَّبَاح", "الظُّهْر", "الْمَسَاء"],
+						"answer": "الصَّبَاح"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "زَايِدٌ مِنَ ...",
+						"uz": "Zaid ... dan.",
+						"choices": ["الْإِمَارَات", "مِصْر", "الْأُرْدُن"],
+						"answer": "الْإِمَارَات"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "يَسْكُنُ زَايِدٌ فِي مَدِينَةِ ...",
+						"uz": "Zaid ... shahrida yashaydi.",
+						"choices": ["الْقَاهِرَة", "دِمَشْق", "دُبَيّ"],
+						"answer": "دُبَيّ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "مَحْمُودٌ مِنْ مَدِينَةِ ...",
+						"uz": "Mahmud ... shahridan.",
+						"choices": ["دُبَيّ", "عَمَّان", "الرِّيَاض"],
+						"answer": "عَمَّان"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "صَدِيقُ زَايِدٍ مِنَ ...",
+						"uz": "Zaidning do'sti ... dan.",
+						"choices": ["تُونُس", "الْأُرْدُن", "مِصْر"],
+						"answer": "مِصْر"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مِنَ الْأُرْدُنّ.",
+						"uz": ".......... Iordaniyadan.",
+						"choices": ["زَايِد", "مَحْمُود", "يَاسِر"],
+						"answer": "مَحْمُود"
+					}
+				]
+			},
+			{
+				"titleAr": "أَكْمِلِ الْفَرَاغَ بِالْكَلِمَةِ الْمُنَاسِبَة",
+				"titleUz": "Bo'sh joyni to'ldiring (من / مع / إلى / بـ / يا)",
+				"items": [
+					{
+						"type": "fill-blank",
+						"ar": ".......... اللِّقَاء.",
+						"uz": "Ko'rishguncha.",
+						"wordBank": ["مَعَ", "إِلَى", "مِنَ", "بِـ", "يَا"],
+						"answer": "إِلَى"
+					},
+					{
+						"type": "fill-blank",
+						"ar": ".......... السَّلَامَة.",
+						"uz": "Xayr (salomat bo'ling).",
+						"wordBank": ["مَعَ", "إِلَى", "مِنَ", "بِـ", "يَا"],
+						"answer": "مَعَ"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "أَنَا .......... الْأُرْدُنّ.",
+						"uz": "Men Iordaniyadan.",
+						"wordBank": ["مَعَ", "إِلَى", "مِنَ", "بِـ", "يَا"],
+						"answer": "مِنَ"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "سَعِيدٌ .......... لِقَائِك.",
+						"uz": "Tanishganimdan xursandman.",
+						"wordBank": ["مَعَ", "إِلَى", "مِنَ", "بِـ", "يَا"],
+						"answer": "بِـ"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "كَيْفَ حَالُكَ .......... صَدِيقِي؟",
+						"uz": "Ahvoling qanday, do'stim?",
+						"wordBank": ["مَعَ", "إِلَى", "مِنَ", "بِـ", "يَا"],
+						"answer": "يَا"
+					}
+				]
+			},
+			{
+				"titleAr": "صَوَابٌ أَمْ خَطَأ؟",
+				"titleUz": "To'g'rimi yoki noto'g'ri? (1-o'qish asosida)",
+				"items": [
+					{
+						"type": "true-false",
+						"ar": "زَايِدٌ مِنَ الْإِمَارَاتِ مِنْ مَدِينَةِ دُبَيّ.",
+						"uz": "Zaid BAA dan, Dubay shahridan.",
+						"isTrue": true
+					},
+					{
+						"type": "true-false",
+						"ar": "مَحْمُودٌ مِنْ مَدِينَةِ الرِّيَاض.",
+						"uz": "Mahmud Riyadh shahridan.",
+						"isTrue": false
+					},
+					{
+						"type": "true-false",
+						"ar": "يَاسِرٌ صَدِيقُ مَحْمُود.",
+						"uz": "Yosir Mahmudning do'sti.",
+						"isTrue": false
+					},
+					{
+						"type": "true-false",
+						"ar": "عَائِشَةُ تَعْمَلُ مُعَلِّمَةً فِي الْمَدْرَسَةِ.",
+						"uz": "Oisha maktabda o'qituvchi.",
+						"isTrue": true
+					},
+					{
+						"type": "true-false",
+						"ar": "نُورٌ طَالِبَةٌ فِي السَّنَةِ الْأُولَى.",
+						"uz": "Nur birinchi kurs talabasi.",
+						"isTrue": false
+					},
+					{
+						"type": "true-false",
+						"ar": "نُورٌ مِنْ سُورِيَا مِنْ مَدِينَةِ دِمَشْق.",
+						"uz": "Nur Suriyadan, Damashq shahridan.",
+						"isTrue": true
+					}
+				]
+			},
+			{
+				"titleAr": "صِلِ الْكَلِمَةَ بِمَا يُنَاسِبُهَا",
+				"titleUz": "So'zni mos kelishiga ulang (o'ng tomondagi juftini bosing)",
+				"items": [
+					{
+						"type": "matching",
+						"ar": "Chap tomondagi so'zni o'ng tomondagi mos so'z bilan ulang",
+						"pairs": [
+							{
+								"left": "صَبَاح",
+								"right": "الْخَيْر"
+							},
+							{
+								"left": "الْحَمْد",
+								"right": "لِلّٰه"
+							},
+							{
+								"left": "مَا",
+								"right": "اسْمُك؟"
+							},
+							{
+								"left": "سَعِيد",
+								"right": "بِلِقَائِك"
+							},
+							{
+								"left": "مَدِينَة",
+								"right": "الْقَاهِرَة"
+							}
+						]
+					}
+				]
+			},
+			{
+				"titleAr": "الِاسْتِمَاعُ وَالْفَهْمُ — اسْتَمِعْ ثُمَّ اخْتَرِ الْجَوَابَ الصَّحِيح",
+				"titleUz": "Tinglash va tushunish — tinglang va to'g'ri javobni tanlang",
+				"audioRequired": true,
+				"audioUrl": "https://drive.google.com/file/d/1BwtsM4pcRROfRHWnIaelT-rH9Y7ZN8KB/view?usp=sharing",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": "١. مَرْحَبًا ........",
+						"uz": "1. Salom ... (qanday javob berildi?)",
+						"choices": [
+							"أَهْلًا وَسَهْلًا",
+							"صَبَاحُ الْخَيْر",
+							"تَشَرَّفْتُ بِك"
+						],
+						"answer": "أَهْلًا وَسَهْلًا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٢. كَيْفَ حَالُكَ؟ ........",
+						"uz": "2. Ahvoling qanday? (javob nima edi?)",
+						"choices": ["بِخَيْر", "أَهْلًا بِك", "شُكْرًا لَك"],
+						"answer": "بِخَيْر"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٣. أَحْمَدُ مِنَ ........",
+						"uz": "3. Ahmad ... dan. (audio asosida)",
+						"choices": ["مِصْر", "الْكُوَيْت", "الْعِرَاق"],
+						"answer": ""
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٤. رَاسِمٌ مِنَ ........",
+						"uz": "4. Rosim ... dan. (audio asosida)",
+						"choices": ["الْأُرْدُن", "السُّودَان", "سُورِيَا"],
+						"answer": ""
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٥. تَشَرَّفْتُ بِك ... ........",
+						"uz": "5. Tanishganimdan xursandman. (javob nima edi?)",
+						"choices": [
+							"وَأَنَا أَيْضًا",
+							"سَعِيدٌ بِلِقَائِك",
+							"إِلَى اللِّقَاء"
+						],
+						"answer": ""
+					}
+				]
+			},
+			{
+				"titleAr": "أَكْمِلِ الْحِوَار",
+				"titleUz": "Dialogni to'ldiring",
+				"items": [
+					{
+						"type": "fill-blank",
+						"ar": "أ: .......... ب: أَهْلًا وَسَهْلًا.",
+						"uz": "A nima dedi, B esa 'Xush kelibsiz' deb javob berdi?",
+						"wordBank": [
+							"مَرْحَبًا",
+							"كَيْفَ حَالُك؟",
+							"مِنْ أَيْنَ أَنْت؟",
+							"تَشَرَّفْتُ بِك",
+							"مَعَ السَّلَامَة"
+						],
+						"answer": "مَرْحَبًا"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "بِخَيْرٍ، وَ.......... ",
+						"uz": "'Yaxshi, va ...' gapni to'ldiring",
+						"wordBank": [
+							"الْحَمْدُ لِلّٰه",
+							"أَهْلًا وَسَهْلًا",
+							"إِلَى اللِّقَاء",
+							"مِنْ أَيْنَ",
+							"صَبَاحُ الْخَيْر"
+						],
+						"answer": "الْحَمْدُ لِلّٰه"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "أ: ..........؟  ب: أَنَا مِنْ سُورِيَا.",
+						"uz": "A qanday savol berdi, B esa 'Suriyadan' deb javob berdi?",
+						"wordBank": [
+							"مَرْحَبًا",
+							"كَيْفَ حَالُك؟",
+							"مِنْ أَيْنَ أَنْت",
+							"تَشَرَّفْتُ بِك",
+							"مَعَ السَّلَامَة"
+						],
+						"answer": "مِنْ أَيْنَ أَنْت"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "أ: تَشَرَّفْتُ بِك.  ب: ..........",
+						"uz": "Tanishishdan xursandman — javob nima?",
+						"wordBank": [
+							"مَرْحَبًا",
+							"بِخَيْر",
+							"تَشَرَّفْتُ بِك",
+							"مَعَ السَّلَامَة",
+							"إِلَى اللِّقَاء"
+						],
+						"answer": "تَشَرَّفْتُ بِك"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "أ: ..........  ب: إِلَى اللِّقَاء.",
+						"uz": "B esa 'Ko'rishguncha' dedi — A nima dedi?",
+						"wordBank": [
+							"مَرْحَبًا",
+							"كَيْفَ حَالُك؟",
+							"مِنْ أَيْنَ أَنْت؟",
+							"تَشَرَّفْتُ بِك",
+							"مَعَ السَّلَامَة"
+						],
+						"answer": "مَعَ السَّلَامَة"
+					}
+				]
+			},
+			{
+				"titleAr": "اسْتَمِعْ ثُمَّ ضَعْ عَلَامَةً (✓) أَوْ (✗) — عَنْ زَيْنَب",
+				"titleUz": "Tinglang va (✓) yoki (✗) belgilang — Zaynab haqida",
+				"audioRequired": true,
+				"audioUrl": "https://drive.google.com/file/d/1q4iws0783z7JmWAWW2wXfxjn7LFG7mVP/view?usp=sharing",
+				"items": [
+					{
+						"type": "writing",
+						"ar": "زَيْنَبُ مِنَ السُّعُودِيَّةِ.",
+						"uz": "Zaynab Saudiya Arabistonidan.  ✓ / ✗"
+					},
+					{
+						"type": "writing",
+						"ar": "تَعْمَلُ زَيْنَبُ مُمَرِّضَةً.",
+						"uz": "Zaynab hamshira bo'lib ishlaydi.  ✓ / ✗"
+					},
+					{
+						"type": "writing",
+						"ar": "زَيْنَبُ عُمْرُهَا ثَلَاثُونَ عَامًا.",
+						"uz": "Zaynab 30 yoshda.  ✓ / ✗"
+					},
+					{
+						"type": "writing",
+						"ar": "تَعْمَلُ زَيْنَبُ سَبْعَ سَاعَاتٍ.",
+						"uz": "Zaynab 7 soat ishlaydi.  ✓ / ✗"
+					},
+					{
+						"type": "writing",
+						"ar": "زَيْنَبُ مِنْ مَدِينَةِ حَلَب.",
+						"uz": "Zaynab Halap shahridan.  ✓ / ✗"
+					},
+					{
+						"type": "writing",
+						"ar": "تَذْهَبُ زَيْنَبُ إِلَى الْمُسْتَشْفَى كُلَّ يَوْم.",
+						"uz": "Zaynab har kuni kasalxonaga boradi.  ✓ / ✗"
+					}
+				]
+			},
+			{
+				"titleAr": "اخْتَرِ الْكَلِمَةَ الْغَرِيبَة",
+				"titleUz": "Guruhga to'g'ri kelmaydigan so'zni tanlang",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": "١. اَلْفُنْدُق / الْقُدْس / دِمَشْق / الْقَاهِرَة",
+						"uz": "1. Qaysi so'z boshqalardan farq qiladi?",
+						"choices": ["الْفُنْدُق", "الْقُدْس", "دِمَشْق", "الْقَاهِرَة"],
+						"answer": "الْفُنْدُق"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٢. جَامِعَة / مَطْعَم / مَدْرَسَة / مَعْهَد",
+						"uz": "2. Qaysi so'z boshqalardan farq qiladi?",
+						"choices": ["جَامِعَة", "مَطْعَم", "مَدْرَسَة", "مَعْهَد"],
+						"answer": "مَطْعَم"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٣. أَنَا / أَنْت / هُو / هَذَا",
+						"uz": "3. Qaysi so'z boshqalardan farq qiladi?",
+						"choices": ["أَنَا", "أَنْت", "هُو", "هَذَا"],
+						"answer": "هَذَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٤. مُعَلِّمَة / طَبِيبَة / رَبَّةُ بَيْت / مُهَنْدِسَة",
+						"uz": "4. Qaysi so'z boshqalardan farq qiladi?",
+						"choices": [
+							"مُعَلِّمَة",
+							"طَبِيبَة",
+							"رَبَّةُ بَيْت",
+							"مُهَنْدِسَة"
+						],
+						"answer": "رَبَّةُ بَيْت"
+					}
+				]
+			},
+			{
+				"titleAr": "الْقِرَاءَةُ الثَّانِيَة — أَجِبْ عَنِ الْأَسْئِلَة (عَائِشَة وَنُور)",
+				"titleUz": "2-o'qish — Oisha va Nur haqida savollarga javob bering",
+				"items": [
+					{
+						"type": "fill-blank",
+						"ar": "عَائِشَةُ مِنْ بَلَدِ: ..........",
+						"uz": "Oisha qaysi mamlakatdan?",
+						"wordBank": ["مِصْر", "سُورِيَا", "الْأُرْدُن", "الْإِمَارَات"],
+						"answer": "مِصْر"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "عَائِشَةُ مِنْ مَدِينَةِ: ..........",
+						"uz": "Oisha qaysi shahardan?",
+						"wordBank": ["الْقَاهِرَة", "دِمَشْق", "عَمَّان", "دُبَيّ"],
+						"answer": "الْقَاهِرَة"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "تَعْمَلُ عَائِشَةُ: ..........",
+						"uz": "Oisha nima ish qiladi?",
+						"wordBank": [
+							"مُعَلِّمَةً فِي الْمَدْرَسَة",
+							"طَالِبَةً فِي الْجَامِعَة",
+							"مُمَرِّضَةً فِي الْمُسْتَشْفَى",
+							"مُدِيرَةً فِي الشَّرِكَة"
+						],
+						"answer": "مُعَلِّمَةً فِي الْمَدْرَسَة"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "نُورٌ مِنْ بَلَدِ: ..........",
+						"uz": "Nur qaysi mamlakatdan?",
+						"wordBank": ["مِصْر", "سُورِيَا", "الْأُرْدُن", "الْإِمَارَات"],
+						"answer": "سُورِيَا"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "نُورٌ مِنْ مَدِينَةِ: ..........",
+						"uz": "Nur qaysi shahardan?",
+						"wordBank": ["الْقَاهِرَة", "دِمَشْق", "عَمَّان", "دُبَيّ"],
+						"answer": "دِمَشْق"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "نُورٌ: ..........",
+						"uz": "Nur nima ish qiladi/o'qiydi?",
+						"wordBank": [
+							"مُعَلِّمَةً فِي الْمَدْرَسَة",
+							"طَالِبَةٌ فِي الْجَامِعَة",
+							"مُمَرِّضَةً فِي الْمُسْتَشْفَى",
+							"مُدِيرَةً فِي الشَّرِكَة"
+						],
+						"answer": "طَالِبَةٌ فِي الْجَامِعَة"
+					}
+				]
+			},
+			{
+				"titleAr": "الْقَوَاعِد — اسْمُ الْإِشَارَة: هَذَا أَمْ هَذِه؟",
+				"titleUz": "Grammatika — ko'rsatish olmoshi: هذا yoki هذه?",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": ".......... رَجُلٌ.",
+						"uz": "... erkak.",
+						"choices": ["هَذَا", "هَذِه"],
+						"answer": "هَذَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... امْرَأَةٌ.",
+						"uz": "... ayol.",
+						"choices": ["هَذَا", "هَذِه"],
+						"answer": "هَذِه"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مُعَلِّمٌ.",
+						"uz": "... o'qituvchi (erkak).",
+						"choices": ["هَذَا", "هَذِه"],
+						"answer": "هَذَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مُعَلِّمَةٌ.",
+						"uz": "... o'qituvchi (ayol).",
+						"choices": ["هَذَا", "هَذِه"],
+						"answer": "هَذِه"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... طَالِبٌ.",
+						"uz": "... talaba (erkak).",
+						"choices": ["هَذَا", "هَذِه"],
+						"answer": "هَذَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... طَالِبَةٌ.",
+						"uz": "... talaba (qiz).",
+						"choices": ["هَذَا", "هَذِه"],
+						"answer": "هَذِه"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... قَلَمٌ.",
+						"uz": "... qalam (muzhrod — erkak jins).",
+						"choices": ["هَذَا", "هَذِه"],
+						"answer": "هَذَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... حَقِيبَةٌ.",
+						"uz": "... sumka (muannath — ayol jins).",
+						"choices": ["هَذَا", "هَذِه"],
+						"answer": "هَذِه"
+					}
+				]
+			},
+			{
+				"titleAr": "الْقَوَاعِد — ضَمَائِرُ الْمُفْرَد: اخْتَرِ الضَّمِيرَ الصَّحِيح",
+				"titleUz": "Grammatika — birlik kishilik olmoshlari",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": ".......... رَجُلٌ قَوِيٌّ.",
+						"uz": "... kuchli erkak.",
+						"choices": ["هُو", "هِي", "أَنْتِ"],
+						"answer": "هُو"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مُهَنْدِسَةٌ نَشِيطَة.",
+						"uz": "... faol muhandis (ayol).",
+						"choices": ["هُو", "هِي", "أَنْت"],
+						"answer": "هِي"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مِصْرِيٌّ. (shaxs o'zi haqida gapirmoqda)",
+						"uz": "... misrlik. (o'zi haqida)",
+						"choices": ["أَنَا", "هُو", "هِي"],
+						"answer": "أَنَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... صَدِيقِي. (uchinchi shaxs — erkak)",
+						"uz": "... mening do'stim. (erkak)",
+						"choices": ["هُو", "هِي", "أَنَا"],
+						"answer": "هُو"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مُدِيرَةٌ.",
+						"uz": "... direktora (ayol).",
+						"choices": ["هُو", "أَنْت", "هِي"],
+						"answer": "هِي"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مُعَلِّمَةٌ. (siz — murojaat qilinayotgan ayol)",
+						"uz": "... o'qituvchisiz. (ayolga murojaat)",
+						"choices": ["أَنْتِ", "هُو", "هِي"],
+						"answer": "أَنْتِ"
+					}
+				]
+			},
+			{
+				"titleAr": "الْقَوَاعِد — أَدَوَاتُ الِاسْتِفْهَام: اكْتُبِ الْأَدَاةَ الْمُنَاسِبَة",
+				"titleUz": "Grammatika — so'roq so'zlari: kerakli so'roq so'zini tanlang",
+				"items": [
+					{
+						"type": "fill-blank",
+						"ar": ".......... هَذَا؟  ← هَذَا كِتَاب.",
+						"uz": "Bu nima? (narsa haqida) ← Bu kitob.",
+						"wordBank": ["مَن", "مَا", "أَيْن", "كَيْف", "مَاذَا"],
+						"answer": "مَا"
+					},
+					{
+						"type": "fill-blank",
+						"ar": ".......... الطُّلَّاب؟  ← الطُّلَّابُ فِي الصَّف.",
+						"uz": "Talabalar qayerda? ← Talabalar sinfda.",
+						"wordBank": ["مَن", "مَا", "أَيْن", "كَيْف", "مَاذَا"],
+						"answer": "أَيْن"
+					},
+					{
+						"type": "fill-blank",
+						"ar": ".......... حَالُك؟  ← بِخَيْر.",
+						"uz": "Ahvoling qanday? ← Yaxshi.",
+						"wordBank": ["مَن", "مَا", "أَيْن", "كَيْف", "مَاذَا"],
+						"answer": "كَيْف"
+					},
+					{
+						"type": "fill-blank",
+						"ar": ".......... هَذِه؟  ← هَذِهِ مُعَلِّمَة.",
+						"uz": "Bu kim? (shaxs haqida) ← Bu o'qituvchi.",
+						"wordBank": ["مَن", "مَا", "أَيْن", "كَيْف", "مَاذَا"],
+						"answer": "مَن"
+					},
+					{
+						"type": "fill-blank",
+						"ar": ".......... تَدْرُسُ؟  ← أَدْرُسُ اللُّغَةَ الْعَرَبِيَّة.",
+						"uz": "Nima o'qiysiz? ← Arabcha o'qiyman.",
+						"wordBank": ["مَن", "مَا", "أَيْن", "كَيْف", "مَاذَا"],
+						"answer": "مَاذَا"
+					}
+				]
+			},
+			{
+				"titleAr": "صِلِ التَّحِيَّةَ بِمَا يُنَاسِبُهَا",
+				"titleUz": "Salomlashish iboralarini mos javoblari bilan ulang",
+				"items": [
+					{
+						"type": "matching",
+						"ar": "Salomlashish iboralarini o'ng tomonidagi mos javoblari bilan ulang",
+						"pairs": [
+							{
+								"left": "السَّلَامُ عَلَيْكُم",
+								"right": "وَعَلَيْكُمُ السَّلَام"
+							},
+							{
+								"left": "صَبَاحُ الْخَيْر",
+								"right": "صَبَاحُ النُّور"
+							},
+							{
+								"left": "مَسَاءُ الْخَيْر",
+								"right": "مَسَاءُ النُّور"
+							},
+							{
+								"left": "مَرْحَبًا",
+								"right": "أَهْلًا وَسَهْلًا"
+							},
+							{
+								"left": "مَعَ السَّلَامَة",
+								"right": "إِلَى اللِّقَاء"
+							}
+						]
+					}
+				]
+			},
+			{
+				"titleAr": "الْكِتَابَة — رَتِّبِ الْكَلِمَاتِ لِتَكُونَ جُمَلًا مُفِيدَة",
+				"titleUz": "Yozish — so'zlarni to'g'ri tartibda joylashtiring",
+				"items": [
+					{
+						"type": "writing",
+						"ar": "مُعَلِّمًا — فِي — أَعْمَلُ — الْجَامِعَةِ",
+						"uz": "To'g'ri gap: أَعْمَلُ مُعَلِّمًا فِي الْجَامِعَةِ."
+					},
+					{
+						"type": "writing",
+						"ar": "مَرْحَبًا — عَادِل — اسْمِي — بِكُمْ",
+						"uz": "To'g'ri gap: مَرْحَبًا، اسْمِي عَادِل، بِكُمْ."
+					},
+					{
+						"type": "writing",
+						"ar": "الْقَاهِرَة — مَدِينَة — مِصْرِيٌّ — أَنَا — مِنْ",
+						"uz": "To'g'ri gap: أَنَا مِصْرِيٌّ مِنْ مَدِينَةِ الْقَاهِرَة."
+					},
+					{
+						"type": "writing",
+						"ar": "وَعِشْرُون — عُمْرِي — عَامًا — تِسْعَة",
+						"uz": "To'g'ri gap: عُمْرِي تِسْعَةٌ وَعِشْرُونَ عَامًا."
+					}
+				]
+			},
+			{
+				"titleAr": "الْكِتَابَة — ضَعْ إِشَارَةً بِجَانِبِ الشَّكْلِ الصَّحِيح",
+				"titleUz": "Yozish — to'g'ri yozilgan so'zni tanlang",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": "١. الشَّكْلُ الصَّحِيح لِـ'مرحبا':",
+						"uz": "1. 'Marhaban' ning to'g'ri yozilishi:",
+						"choices": ["مَرْحَبَن", "مَرْحَبًا", "مَرْحَبَان"],
+						"answer": "مَرْحَبًا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٢. الشَّكْلُ الصَّحِيح لِـ'حالك':",
+						"uz": "2. 'Haoluka' ning to'g'ri yozilishi:",
+						"choices": ["هَالَك", "حَالَك", "حَالُك"],
+						"answer": "حَالُك"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٣. الشَّكْلُ الصَّحِيح لِـ'أهلا وسهلا':",
+						"uz": "3. 'Ahlan va sahlan' ning to'g'ri yozilishi:",
+						"choices": [
+							"أَهْلَن وَسَهْلَن",
+							"أَهْلًا وَسَهْلًا",
+							"أَهْلَان وَسَهْلَان"
+						],
+						"answer": "أَهْلًا وَسَهْلًا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٤. الشَّكْلُ الصَّحِيح لِـ'السلام عليكم':",
+						"uz": "4. 'Assalamu alaykum' ning to'g'ri yozilishi:",
+						"choices": [
+							"اَلسَّلَامُو عَلَيْكُم",
+							"اِسْلَام أَلَيْكُم",
+							"اَلسَّلَامُ عَلَيْكُم"
+						],
+						"answer": "اَلسَّلَامُ عَلَيْكُم"
+					}
+				]
+			},
+			{
+				"titleAr": "اقْرَأْ وَاكْتُبْ وَاحْفَظ",
+				"titleUz": "O'qing, yozing va yodlang",
+				"audioRequired": true,
+				"items": [
+					{
+						"type": "writing",
+						"ar": "﴿يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا﴾ — الحجرات: ١٣",
+						"uz": "Ushbu oyatni o'qing, yozing va yodlang. Ma'nosi: 'Ey odamlar! Biz sizlarni bir erkak va ayoldan yaratdik va sizlarni o‘zaro tanishishingiz uchun xalqlar va qabilalar qilib qo‘ydik.' — Hujurot 13"
+					}
+				],
+				"audioUrl": "https://drive.google.com/file/d/19feMK7eozqI0gLEmFhGhBlUoEA_ntz6b/view?usp=sharing"
+			}
+		]
+	},
+	{
+		"number": 2,
+		"titleAr": "الْأُسْرَةُ وَالْعَائِلَةُ",
+		"titleUz": "Oila va qarindoshlar",
+		"words": [
+			{"ar": "أُسْرَةٌ", "tr": "usrah", "uz": "Oila (yadro)", "ex": "أُسْرَتِي تَتَكَوَّنُ مِنْ سِتَّةِ أَفْرَادٍ"},
+			{"ar": "عَائِلَةٌ", "tr": "'aa'ilah", "uz": "Oila / qarindoshlar", "ex": "أَفْرَادُ الْعَائِلَةِ"},
+			{"ar": "أَفْرَادٌ", "tr": "afraad", "uz": "A'zolar / kishilar", "ex": "تَتَكَوَّنُ مِنْ خَمْسَةِ أَفْرَادٍ"},
+			{"ar": "جَدٌّ", "tr": "jadd", "uz": "Bobo", "ex": "جَدِّي عُمْرُهُ سَبْعُونَ عَامًا"},
+			{"ar": "جَدَّةٌ", "tr": "jaddah", "uz": "Buvi", "ex": "جَدَّتِي رَبَّةُ بَيْتٍ"},
+			{"ar": "أَبٌ", "tr": "ab", "uz": "Ota", "ex": "أَبِي يَعْمَلُ مُهَنْدِسًا"},
+			{"ar": "أُمٌّ", "tr": "umm", "uz": "Ona", "ex": "أُمِّي رَبَّةُ بَيْتٍ"},
+			{"ar": "أَخٌ", "tr": "akh", "uz": "Aka / uka", "ex": "أَخِي طَالِبٌ فِي الْمَدْرَسَةِ"},
+			{"ar": "أُخْتٌ", "tr": "ukht", "uz": "Opa / singil", "ex": "أُخْتِي تَدْرُسُ فِي الْجَامِعَةِ"},
+			{"ar": "عَمٌّ", "tr": "'amm", "uz": "Amaki (ota tomoni)", "ex": "عَمِّي يَعْمَلُ طَبِيبًا"},
+			{"ar": "عَمَّةٌ", "tr": "'ammah", "uz": "Amma (ota tomoni)", "ex": "عَمَّتِي مُمَرِّضَةٌ"},
+			{"ar": "خَالٌ", "tr": "khaal", "uz": "Tog'a (ona tomoni)", "ex": "خَالِي يَعْمَلُ إِمَامًا"},
+			{"ar": "خَالَةٌ", "tr": "khaalah", "uz": "Xola (ona tomoni)", "ex": "خَالَتِي تَعْمَلُ مُعَلِّمَةً"},
+			{"ar": "مُتَقَاعِدٌ", "tr": "mutaqaa'id", "uz": "Nafaqaxo'r / pensioner", "ex": "جَدِّي مُتَقَاعِدٌ"},
+			{"ar": "مُتَزَوِّجٌ", "tr": "mutazawwij", "uz": "Uylangan / turmush qurgan", "ex": "أَخِي الْكَبِيرُ مُتَزَوِّجٌ"},
+			{"ar": "أَعْزَبُ", "tr": "a'zabu", "uz": "Uylanmagan / bo'ydoq", "ex": "أَخِي الصَّغِيرُ لَا يَزَالُ أَعْزَبَ"},
+			{"ar": "تَوْءَمٌ", "tr": "taw'am", "uz": "Egizak", "ex": "عَمِّي هُوَ تَوْءَمُ أَبِي"},
+			{"ar": "ذَكِيٌّ", "tr": "dhakiyy", "uz": "Ziyrak / aqlli", "ex": "أَخِي ذَكِيٌّ وَمُجْتَهِدٌ"},
+			{"ar": "مُجْتَهِدٌ", "tr": "mujtahid", "uz": "Tirishqoq / g'ayratli", "ex": "هُوَ مُجْتَهِدٌ فِي الدِّرَاسَةِ"},
+			{"ar": "مَرِحٌ", "tr": "marih", "uz": "Xushchaqchaq / shod", "ex": "أُخْتِي مَرِحَةٌ وَمُبْتَسِمَةٌ"},
+			{"ar": "كَرِيمٌ", "tr": "kariim", "uz": "Saxiy", "ex": "أَبِي لَطِيفٌ وَكَرِيمٌ"},
+			{"ar": "لَطِيفٌ", "tr": "latiif", "uz": "Muloyim / yoqimli", "ex": "هُوَ لَطِيفٌ مَعَ الْجَمِيعِ"},
+			{"ar": "حَنُونٌ", "tr": "hanuun", "uz": "Mehribon / g'amxo'r", "ex": "أُمِّي جَمِيلَةٌ وَحَنُونَةٌ"},
+			{"ar": "مُبْتَسِمٌ", "tr": "mubtasim", "uz": "Jilmayuvchi", "ex": "هُوَ دَائِمًا مُبْتَسِمٌ"},
+			{"ar": "قَوِيٌّ", "tr": "qawiyy", "uz": "Kuchli", "ex": "أَخِي الْكَبِيرُ طَوِيلٌ وَقَوِيٌّ"},
+			{"ar": "سَمِينٌ", "tr": "samiin", "uz": "Semiz / to'liq", "ex": "الطِّفْلُ سَمِينٌ وَمُبْتَسِمٌ"},
+			{"ar": "شُرْطِيٌّ", "tr": "shurtiyy", "uz": "Politsiyachi", "ex": "يَعْمَلُ أَبُوهُ شُرْطِيًّا"},
+			{"ar": "مُمَرِّضَةٌ", "tr": "mumarridah", "uz": "Hamshira (ayol)", "ex": "عَمَّتِي مُمَرِّضَةٌ فِي الْمُسْتَشْفَى"},
+			{"ar": "طَبَّاخٌ", "tr": "tabbakh", "uz": "Oshpaz / pazanda", "ex": "يَعْمَلُ طَبَّاخًا فِي الْمَطْعَمِ"},
+			{"ar": "تَاجِرٌ", "tr": "taajiir", "uz": "Savdogar / tojir", "ex": "أَبِي يَعْمَلُ تَاجِرًا"},
+			{"ar": "مُهَنْدِسٌ", "tr": "muhandis", "uz": "Muhandis", "ex": "أَبِي يَعْمَلُ مُهَنْدِسًا"},
+			{"ar": "إِمَامٌ", "tr": "imaam", "uz": "Imom", "ex": "خَالِي يَعْمَلُ إِمَامًا فِي الْمَسْجِدِ"},
+			{"ar": "رَبَّةُ بَيْتٍ", "tr": "rabbatu bayt", "uz": "Uy bekasi / xonadon bekasi", "ex": "أُمِّي رَبَّةُ بَيْتٍ"},
+			{"ar": "يَعْمَلُ", "tr": "ya'malu", "uz": "U ishlaydi (erkak)", "ex": "أَبِي يَعْمَلُ مُهَنْدِسًا"},
+			{"ar": "يَدْرُسُ", "tr": "yadrusu", "uz": "U o'qiydi", "ex": "أَخِي يَدْرُسُ فِي الْمَدْرَسَةِ"},
+			{"ar": "يُشْبِهُ", "tr": "yushbihu", "uz": "U o'xshaydi", "ex": "يُشْبِهُ أَبَاهُ كَثِيرًا"},
+			{"ar": "تَتَكَوَّنُ مِنْ", "tr": "tatakawwanu min", "uz": "...dan iborat / tashkil topadi", "ex": "أُسْرَتِي تَتَكَوَّنُ مِنْ خَمْسَةِ أَفْرَادٍ"},
+			{"ar": "زِيَارَةٌ", "tr": "ziyaarah", "uz": "Tashrif / ziyorat", "ex": "نَذْهَبُ لِزِيَارَةِ الْعَائِلَةِ كُلَّ أُسْبُوعٍ"},
+			{"ar": "كُلَّ أُسْبُوعٍ", "tr": "kulla usbuu'", "uz": "Har hafta", "ex": "يَزُورُ الْعَائِلَةَ كُلَّ أُسْبُوعٍ"},
+			{"ar": "بَارَكَ اللهُ فِيكَ", "tr": "baaraka llaahu fiik", "uz": "Alloh senga baraka bersin", "ex": "بَارَكَ اللهُ فِيكَ يَا مُحَمَّد"},
+			{"ar": "الأَوْسَطُ", "tr": "al-awsat", "uz": "O'rtancha", "ex": "أَخِي الأَوْسَطُ مَرِحٌ"},
+			{"ar": "أَقَارِبُ", "tr": "aqaarib", "uz": "Qarindoshlar", "ex": "أُحِبُّ أَقَارِبِي كَثِيرًا"},
+			{"ar": "أُحِبُّ", "tr": "uhibbu", "uz": "Men sevaman", "ex": "أُحِبُّ أُسْرَتِي كَثِيرًا"}
+		],
+		"dialogues": [
+			{
+				"title": "هَذِهِ عَائِلَتِي",
+				"titleUz": "Bu mening oilam",
+				"intro": "مُحَمَّدٌ يُرِي صَدِيقَهُ خَالِدًا صُورَةَ عَائِلَتِهِ.",
+				"introUz": "Muhammad do'sti Xolidga oilasining rasmini ko'rsatyapti.",
+				"lines": [
+					{"speaker": "خَالِد", "ar": "مَا شَاءَ اللهُ! هَلْ هَذِهِ صُورَةُ عَائِلَتِكَ؟", "uz": "Mashallah! Bu oilangning rasmimi?"},
+					{"speaker": "مُحَمَّد", "ar": "نَعَمْ، هَذَا جَدِّي عُمَرُ، عُمْرُهُ سَبْعُونَ عَامًا، هُوَ مُتَقَاعِدٌ، وَهَذِهِ جَدَّتِي فَاطِمَةُ، عُمْرُهَا سِتُّونَ عَامًا، وَهِيَ رَبَّةُ بَيْتٍ.", "uz": "Ha, bu bobom Umar, u 70 yoshda, nafaqada, bu esa buvim Fotima, u 60 yoshda va uy bekasi."},
+					{"speaker": "مُحَمَّد", "ar": "وَهَذَا خَالِي فَهْمِي، يَعْمَلُ إِمَامًا، وَهَذِهِ خَالَتِي أَمَلٌ، وَتَعْمَلُ مُعَلِّمَةً.", "uz": "Bu tog'am Fahmi, u imom bo'lib ishlaydi. Bu esa xolam Amal, u o'qituvchi."},
+					{"speaker": "مُحَمَّد", "ar": "وَهَذَا أَبِي حُسَيْنٌ، عُمْرُهُ خَمْسَةٌ وَثَلَاثُونَ عَامًا، وَيَعْمَلُ مُهَنْدِسًا، وَهَذِهِ أُمِّي، هِيَ رَبَّةُ بَيْتٍ.", "uz": "Bu otam Husayn, u 35 yoshda va muhandis bo'lib ishlaydi. Bu esa onam, u uy bekasi."},
+					{"speaker": "خَالِد", "ar": "مَنْ هَذَا؟ يُشْبِهُ أَبَاكَ كَثِيرًا.", "uz": "Bu kim? U otangga juda o'xshaydi."},
+					{"speaker": "مُحَمَّد", "ar": "هَذَا عَمِّي حَسَنٌ، هُوَ تَوْءَمُ أَبِي، يَعْمَلُ طَبِيبًا، وَهَذِهِ عَمَّتِي هُدَى، هِيَ مُمَرِّضَةٌ.", "uz": "Bu amakIm Hasan, u otamning egizagi, shifokor bo'lib ishlaydi. Bu esa ammam Hudo, u hamshira."},
+					{"speaker": "خَالِد", "ar": "مَنْ هَذَانِ الطِّفْلَانِ؟", "uz": "Bu ikki bola kim?"},
+					{"speaker": "مُحَمَّد", "ar": "هَذَا أَخِي مَحْمُودٌ، عُمْرُهُ عَشْرُ سَنَوَاتٍ، وَهَذِهِ أُخْتِي خَدِيجَةُ وَعُمْرُهَا ثَلَاثُ سَنَوَاتٍ.", "uz": "Bu ukam Mahmud, u 10 yoshda. Bu esa singilim Xadija, u 3 yoshda."},
+					{"speaker": "خَالِد", "ar": "بَارَكَ اللهُ فِي عَائِلَتِكَ.", "uz": "Alloh oilangga baraka bersin."}
+				]
+			}
+		],
+		"texts": [
+			{
+				"title": "أُحِبُّ أُسْرَتِي",
+				"titleUz": "Men oilamni sevaman",
+				"ar": "مَرْحَبًا بِكُمْ، اسْمِي عَائِشَةُ، عُمْرِي عِشْرُونَ عَامًا، أَنَا مِصْرِيَّةٌ، مِنْ مَدِينَةِ الْقَاهِرَةِ، أُسْرَتِي تَتَكَوَّنُ مِنْ سِتَّةِ أَفْرَادٍ: أَبِي اسْمُهُ خَالِدٌ، عُمْرُهُ خَمْسَةٌ وَخَمْسُونَ عَامًا، وَيَعْمَلُ تَاجِرًا، هُوَ لَطِيفٌ وَكَرِيمٌ. أُمِّي اسْمُهَا سَاجِدَةُ، عُمْرُهَا خَمْسُونَ عَامًا، هِيَ رَبَّةُ بَيْتٍ، أُمِّي جَمِيلَةٌ وَحَنُونَةٌ.\n\nلِي أَخَوَانِ: الْكَبِيرُ اسْمُهُ عَادِلٌ، عُمْرُهُ سَبْعَةٌ وَعِشْرُونَ عَامًا، هُوَ مُتَزَوِّجٌ، وَيَعْمَلُ مَعَ أَبِي، هُوَ طَوِيلٌ وَقَوِيٌّ. وَأَخِي الصَّغِيرُ اسْمُهُ إِبْرَاهِيمُ، طَالِبٌ فِي الْمَدْرَسَةِ، وَعُمْرُهُ خَمْسَةَ عَشَرَ عَامًا، هُوَ ذَكِيٌّ وَمُجْتَهِدٌ.\n\nوَلِي أُخْتٌ وَاحِدَةٌ اسْمُهَا زَيْنَبُ، عُمْرُهَا سَبْعَةَ عَشَرَ عَامًا، تَدْرُسُ فِي الْجَامِعَةِ، هِيَ مَرِحَةٌ وَمُبْتَسِمَةٌ. أَنَا أُحِبُّ أُسْرَتِي كَثِيرًا.",
+				"uz": "Xush kelibsiz, mening ismim Oisha, men 20 yoshdaman, men misrlikman, Qohira shahridan. Oilam 6 kishidan iborat: Otamning ismi Xolid, u 55 yoshda va savdogar bo'lib ishlaydi, u muloyim va saxiy. Onamning ismi Sojida, u 50 yoshda, u uy bekasi, onam go'zal va mehribon.\n\nMening ikki akam bor: Kattasi Odil, u 27 yoshda, u uylanган va otam bilan birga ishlaydi, u baland bo'yli va kuchli. Kichik akam Ibrohim, maktabda o'qiydi, u 15 yoshda, u ziyrak va tirishqoq.\n\nBitta singilim bor, uning ismi Zaynab, u 17 yoshda, universitetda o'qiydi, u xushchaqchaq va jilmayuvchi. Men oilamni juda sevaman."
+			}
+		],
+		"grammar": [
+			{
+				"title": "الِاسْمُ الْمُثَنَّى — Juft son (ikkilik)",
+				"content": "Arabchada ikki narsani bildirish uchun ismga erkakda (انِ) — bosh kelishikda, (يْنِ) — boshqa kelishiklarda qo'shiladi. Ayol jinsda (ة) harfi (ت) ga aylanib so'ngra (انِ)/(يْنِ) qo'shiladi. Misol: طَالِبٌ → طَالِبَانِ, مَدْرَسَةٌ → مَدْرَسَتَانِ.",
+				"examples": [
+					{"ar": "جَدٌّ → جَدَّانِ / جَدَّيْنِ", "uz": "Bobo → ikki bobo"},
+					{"ar": "جَدَّةٌ → جَدَّتَانِ / جَدَّتَيْنِ", "uz": "Buvi → ikki buvi"},
+					{"ar": "عَمٌّ → عَمَّانِ / عَمَّيْنِ", "uz": "Amaki → ikki amaki"},
+					{"ar": "خَالَةٌ → خَالَتَانِ / خَالَتَيْنِ", "uz": "Xola → ikki xola"},
+					{"ar": "لِي أَخَوَانِ.", "uz": "Mening ikki akam bor."}
+				]
+			},
+			{
+				"title": "اسْمُ الْإِشَارَةِ لِلْمُثَنَّى — هَذَانِ / هَاتَانِ",
+				"content": "Juft erkak uchun هَذَانِ (bosh kelishik) / هَذَيْنِ (boshqa kelishiklar), juft ayol uchun هَاتَانِ / هَاتَيْنِ ishlatiladi.",
+				"examples": [
+					{"ar": "مَنْ هَذَانِ؟ — هَذَانِ طَالِبَانِ.", "uz": "Bu ikki kishi kim? — Bu ikki talaba (erkak)."},
+					{"ar": "مَنْ هَاتَانِ؟ — هَاتَانِ مُعَلِّمَتَانِ.", "uz": "Bu ikki kishi kim? — Bu ikki o'qituvchi (ayol)."},
+					{"ar": "مَا هَذَانِ؟ — هَذَانِ قَلَمَانِ.", "uz": "Bu ikki narsa nima? — Bu ikki qalam."},
+					{"ar": "مَا هَاتَانِ؟ — هَاتَانِ حَقِيبَتَانِ.", "uz": "Bu ikki narsa nima? — Bu ikki sumka."},
+					{"ar": "مَنْ هَذَانِ الطِّفْلَانِ؟", "uz": "Bu ikki bola kim?"}
+				]
+			},
+			{
+				"title": "ضَمَائِرُ الْمُثَنَّى — Juft son kishilik olmoshlari",
+				"content": "Arabchada juft son (ikkilik) uchun alohida olmoshlar bor: نَحْنُ (biz — ikkovimiz, mutakallim), أَنْتُمَا (siz ikkovingiz — mukhataab), هُمَا (u ikkovlari — g'oyib). Bu olmoshlar erkak va ayol uchun bir xil ishlatiladi.",
+				"examples": [
+					{"ar": "هُمَا أَخَوَانِ سَعِيدَانِ.", "uz": "Ular (ikkalasi) baxtli ikki aka-uka."},
+					{"ar": "أَنْتُمَا طَالِبَانِ مُجْتَهِدَانِ.", "uz": "Siz ikkovingiz tirishqoq ikkita talabasizlar."},
+					{"ar": "هُمَا جَدَّتَانِ سَعِيدَتَانِ.", "uz": "Ular (ikkalasi) baxtli ikki buvi."},
+					{"ar": "نَحْنُ مُعَلِّمَانِ.", "uz": "Biz ikkovimiz o'qituvchimiz."},
+					{"ar": "هُمَا طَبِيبَتَانِ مَاهِرَتَانِ.", "uz": "Ular ikki mohir hamshira (ayol)."}
+				]
+			}
+		],
+		"exercises": [
+			{
+				"titleAr": "اخْتَرِ الْكَلِمَةَ الْغَرِيبَةَ مِنْ كُلِّ مَجْمُوعَة",
+				"titleUz": "Har guruhdan farq qiluvchi so'zni tanlang",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": "١. طَبَّاخٌ — تَاجِرٌ — أُسْرَةٌ — طَبِيبٌ",
+						"uz": "1. Qaysi so'z boshqalardan farq qiladi?",
+						"choices": ["طَبَّاخٌ", "تَاجِرٌ", "أُسْرَةٌ", "طَبِيبٌ"],
+						"answer": "أُسْرَةٌ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٢. خَالَةٌ — عَمَّةٌ — جَدَّةٌ — إِمَامٌ",
+						"uz": "2. Qaysi so'z boshqalardan farq qiladi?",
+						"choices": ["خَالَةٌ", "عَمَّةٌ", "جَدَّةٌ", "إِمَامٌ"],
+						"answer": "إِمَامٌ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٣. مُتَقَاعِدٌ — يَعْمَلُ — يَدْرُسُ — يُحِبُّ",
+						"uz": "3. Qaysi so'z boshqalardan farq qiladi?",
+						"choices": ["مُتَقَاعِدٌ", "يَعْمَلُ", "يَدْرُسُ", "يُحِبُّ"],
+						"answer": "مُتَقَاعِدٌ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٤. كَرِيمٌ — تَوْءَمٌ — طَوِيلٌ — سَمِينٌ",
+						"uz": "4. Qaysi so'z boshqalardan farq qiladi?",
+						"choices": ["كَرِيمٌ", "تَوْءَمٌ", "طَوِيلٌ", "سَمِينٌ"],
+						"answer": "تَوْءَمٌ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٥. أُسْرَةٌ — عَائِلَةٌ — مُتَزَوِّجٌ — أَقَارِبُ",
+						"uz": "5. Qaysi so'z boshqalardan farq qiladi?",
+						"choices": ["أُسْرَةٌ", "عَائِلَةٌ", "مُتَزَوِّجٌ", "أَقَارِبُ"],
+						"answer": "مُتَزَوِّجٌ"
+					}
+				]
+			},
+			{
+				"titleAr": "صِلِ الْجُمْلَةَ بِمَا يُنَاسِبُهَا",
+				"titleUz": "Gapni mos kelishiga ulang",
+				"items": [
+					{
+						"type": "matching",
+						"ar": "Chap tomondagi gap boshini o'ng tomondagi davomi bilan ulang",
+						"pairs": [
+							{"left": "أَبِي يَعْمَلُ", "right": "طَبِيبًا فِي الْمُسْتَشْفَى"},
+							{"left": "بَارَكَ اللهُ", "right": "فِيكَ"},
+							{"left": "أُمِّي لَا تَعْمَلُ، هِيَ", "right": "رَبَّةُ بَيْتٍ"},
+							{"left": "أَزُورُ عَائِلَتِي", "right": "كُلَّ أُسْبُوعٍ"},
+							{"left": "تَتَكَوَّنُ أُسْرَتِي", "right": "مِنْ خَمْسَةِ أَفْرَادٍ"}
+						]
+					}
+				]
+			},
+			{
+				"titleAr": "الْقِرَاءَةُ وَالْفَهْمُ — اخْتَرِ الْجَوَابَ الصَّحِيحَ (هَذِهِ عَائِلَتِي)",
+				"titleUz": "O'qish va tushunish — to'g'ri javobni tanlang (1-dialog asosida)",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": "١. الْجَدَّةُ عُمْرُهَا .......... عَامًا.",
+						"uz": "1. Buvining yoshi ... yil.",
+						"choices": ["سَبْعُون", "سِتُّون", "خَمْسُون"],
+						"answer": "سِتُّون"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٢. تَعْمَلُ هُدَى فِي ..........",
+						"uz": "2. Hudo ... da ishlaydi.",
+						"choices": ["الْمُسْتَشْفَى", "الشَّرِكَة", "الْمَدْرَسَة"],
+						"answer": "الْمُسْتَشْفَى"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٣. يَعْمَلُ الْخَالُ ..........",
+						"uz": "3. Tog'a ... bo'lib ishlaydi.",
+						"choices": ["طَبِيبًا", "مُهَنْدِسًا", "إِمَامًا"],
+						"answer": "إِمَامًا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٤. أَمَلٌ هِيَ .......... مُحَمَّد.",
+						"uz": "4. Amal Muhammadning ... si.",
+						"choices": ["عَمَّة", "خَالَة", "جَدَّة"],
+						"answer": "خَالَة"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٥. مُحَمَّدٌ لَدَيْهِ ..........",
+						"uz": "5. Muhammadda ... bor.",
+						"choices": ["أَخَوَان", "أُخْتَان", "أَخٌ وَأُخْت"],
+						"answer": "أَخٌ وَأُخْت"
+					}
+				]
+			},
+			{
+				"titleAr": "صَوَابٌ أَمْ خَطَأٌ؟ (هَذِهِ عَائِلَتِي)",
+				"titleUz": "To'g'rimi yoki noto'g'ri? (1-dialog asosida)",
+				"items": [
+					{
+						"type": "true-false",
+						"ar": "تَعْمَلُ الْأُمُّ مُعَلِّمَةً.",
+						"uz": "Ona o'qituvchi bo'lib ishlaydi.",
+						"isTrue": false
+					},
+					{
+						"type": "true-false",
+						"ar": "الْعَمُّ عُمْرُهُ خَمْسَةٌ وَثَلَاثُونَ عَامًا.",
+						"uz": "Amakining yoshi 35 yil.",
+						"isTrue": true
+					},
+					{
+						"type": "true-false",
+						"ar": "عَمُّ مُحَمَّدٍ هُوَ تَوْءَمُ أَبِيهِ.",
+						"uz": "Muhammadning amakisi uning otasining egizagi.",
+						"isTrue": true
+					},
+					{
+						"type": "true-false",
+						"ar": "تَتَكَوَّنُ أُسْرَةُ مُحَمَّدٍ مِنْ أَرْبَعَةِ أَفْرَادٍ.",
+						"uz": "Muhammadning oilasi 4 kishidan iborat.",
+						"isTrue": false
+					},
+					{
+						"type": "true-false",
+						"ar": "الْجَدُّ أَكْبَرُ مِنَ الْجَدَّةِ بِعَشْرِ سَنَوَاتٍ.",
+						"uz": "Bobo buvidan 10 yosh katta.",
+						"isTrue": true
+					}
+				]
+			},
+			{
+				"titleAr": "بَيْنَ السُّؤَالِ وَالْجَوَابِ",
+				"titleUz": "Savol va javobni birlashtiring",
+				"items": [
+					{
+						"type": "matching",
+						"ar": "Savol bilan unga mos javobni ulang",
+						"pairs": [
+							{"left": "كَمْ عُمْرُكَ؟", "right": "عُمْرِي ثَلَاثُونَ عَامًا"},
+							{"left": "مِنْ أَيْنَ أَنْتَ؟", "right": "أَنَا مِنْ إِسْبَانِيَا"},
+							{"left": "كَمْ فَرْدًا فِي أُسْرَتِكَ؟", "right": "فِي أُسْرَتِي خَمْسَةُ أَفْرَادٍ"},
+							{"left": "مَاذَا يَعْمَلُ أَبُوكَ؟", "right": "أَبِي يَعْمَلُ طَبِيبًا"},
+							{"left": "هَلْ لَكَ إِخْوَةٌ؟", "right": "نَعَمْ، لِي ثَلَاثَةُ إِخْوَةٍ"}
+						]
+					}
+				]
+			},
+			{
+				"titleAr": "أَكْمِلِ الْفَرَاغَ بِالْكَلِمَةِ الْمُنَاسِبَة",
+				"titleUz": "Bo'sh joyni to'ldiring",
+				"items": [
+					{
+						"type": "fill-blank",
+						"ar": "أَبِي يَعْمَلُ ..........",
+						"uz": "Otam ... bo'lib ishlaydi.",
+						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"answer": "تَاجِرًا"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "تَتَكَوَّنُ أُسْرَتِي مِنْ سِتَّةِ ..........",
+						"uz": "Oilam 6 ... dan iborat.",
+						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"answer": "أَفْرَادٌ"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "جَدِّي لَا يَعْمَلُ، هُوَ ..........",
+						"uz": "Bobom ishlamaydi, u ...",
+						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"answer": "مُتَقَاعِدٌ"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "نَذْهَبُ لِـ.......... الْعَائِلَةِ فِي الْعُطْلَةِ.",
+						"uz": "Biz ta'tilda oilani ... ga boramiz.",
+						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"answer": "زِيَارَةٌ"
+					},
+					{
+						"type": "fill-blank",
+						"ar": "أَخِي طَالِبٌ .......... يَدْرُسُ فِي الْجَامِعَةِ.",
+						"uz": "Akam ... talaba, universitetda o'qiydi.",
+						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"answer": "مُجْتَهِدٌ"
+					}
+				]
+			},
+			{
+				"titleAr": "الْقِرَاءَةُ الثَّانِيَةُ — اخْتَرِ الْجَوَابَ الصَّحِيحَ (أُحِبُّ أُسْرَتِي)",
+				"titleUz": "2-o'qish — to'g'ri javobni tanlang (Oilamni sevaman)",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": "١. أُسْرَةُ عَائِشَةَ مِنْ ..........",
+						"uz": "1. Oishaning oilasi ... dan.",
+						"choices": ["مِصْر", "الْأُرْدُن", "السُّودَان"],
+						"answer": "مِصْر"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٢. الْأُمُّ اسْمُهَا ..........",
+						"uz": "2. Onaning ismi ...",
+						"choices": ["عَائِشَة", "زَيْنَب", "سَاجِدَة"],
+						"answer": "سَاجِدَة"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٣. يَعْمَلُ عَادِلٌ ..........",
+						"uz": "3. Odil ... qiladi.",
+						"choices": ["مُعَلِّمًا", "مَعَ أَبِيهِ", "طَبِيبًا"],
+						"answer": "مَعَ أَبِيهِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٤. يَدْرُسُ إِبْرَاهِيمُ فِي ..........",
+						"uz": "4. Ibrohim ... da o'qiydi.",
+						"choices": ["الْمَدْرَسَة", "الْجَامِعَة", "الْمَعْهَد"],
+						"answer": "الْمَدْرَسَة"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "٥. أَصْغَرُ أَفْرَادِ الْأُسْرَةِ ..........",
+						"uz": "5. Oilaning eng kichigi ...",
+						"choices": ["عَادِل", "إِبْرَاهِيم", "زَيْنَب"],
+						"answer": "إِبْرَاهِيم"
+					}
+				]
+			},
+			{
+				"titleAr": "صَوَابٌ أَمْ خَطَأٌ؟ (أُحِبُّ أُسْرَتِي)",
+				"titleUz": "To'g'rimi yoki noto'g'ri? (2-matn asosida)",
+				"items": [
+					{
+						"type": "true-false",
+						"ar": "تَسْكُنُ عَائِشَةُ فِي مَدِينَةِ الْقَاهِرَةِ.",
+						"uz": "Oisha Qohira shahrida yashaydi.",
+						"isTrue": true
+					},
+					{
+						"type": "true-false",
+						"ar": "تَتَكَوَّنُ أُسْرَةُ عَائِشَةَ مِنْ خَمْسَةِ أَفْرَادٍ.",
+						"uz": "Oishaning oilasi 5 kishidan iborat.",
+						"isTrue": false
+					},
+					{
+						"type": "true-false",
+						"ar": "الْأَبُ أَكْبَرُ مِنَ الْأُمِّ بِخَمْسِ سَنَوَاتٍ.",
+						"uz": "Ota onadan 5 yosh katta.",
+						"isTrue": true
+					},
+					{
+						"type": "true-false",
+						"ar": "يَعْمَلُ الْأَبُ مُهَنْدِسًا فِي شَرِكَةٍ.",
+						"uz": "Ota kompaniyada muhandis bo'lib ishlaydi.",
+						"isTrue": false
+					},
+					{
+						"type": "true-false",
+						"ar": "تَدْرُسُ زَيْنَبُ فِي الْجَامِعَةِ.",
+						"uz": "Zaynab universitetda o'qiydi.",
+						"isTrue": true
+					}
+				]
+			},
+			{
+				"titleAr": "صِلِ الْكَلِمَةَ بِضِدِّهَا",
+				"titleUz": "So'zni antonimi bilan ulang",
+				"items": [
+					{
+						"type": "matching",
+						"ar": "Chap tomondagi so'zni uning antonimi bilan ulang",
+						"pairs": [
+							{"left": "مَرِحٌ", "right": "حَزِينٌ"},
+							{"left": "طَوِيلٌ", "right": "قَصِيرٌ"},
+							{"left": "سَمِينٌ", "right": "نَحِيفٌ"},
+							{"left": "مُتَزَوِّجٌ", "right": "أَعْزَبُ"},
+							{"left": "مُجْتَهِدٌ", "right": "كَسْلَانٌ"}
+						]
+					}
+				]
+			},
+			{
+				"titleAr": "الْقَوَاعِد — الِاسْمُ الْمُثَنَّى: اخْتَرِ الصِّيغَةَ الصَّحِيحَة",
+				"titleUz": "Grammatika — juft son: to'g'ri shaklni tanlang",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": "مُدِيرٌ → ..........  (bosh kelishik)",
+						"uz": "Mudur → ... (ikkilik, bosh kelishik)",
+						"choices": ["مُدِيرَانِ", "مُدِيرِينَ", "مُدِيرُون"],
+						"answer": "مُدِيرَانِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "جَدَّةٌ → ..........  (bosh kelishik)",
+						"uz": "Buvi → ... (ikkilik, bosh kelishik)",
+						"choices": ["جَدَّتَيْن", "جَدَّتَانِ", "جَدَّات"],
+						"answer": "جَدَّتَانِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "عَمَّةٌ → ..........  (qaratqich kelishik)",
+						"uz": "Amma → ... (ikkilik, qaratqich kelishigi)",
+						"choices": ["عَمَّتَانِ", "عَمَّتَيْنِ", "عَمَّات"],
+						"answer": "عَمَّتَيْنِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "خَالٌ → ..........  (bosh kelishik)",
+						"uz": "Tog'a → ... (ikkilik, bosh kelishik)",
+						"choices": ["خَالَانِ", "خَالَيْن", "خَالُون"],
+						"answer": "خَالَانِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": "طَالِبَةٌ → ..........  (bosh kelishik)",
+						"uz": "Talaba (qiz) → ... (ikkilik, bosh kelishik)",
+						"choices": ["طَالِبَتَيْن", "طَالِبَات", "طَالِبَتَانِ"],
+						"answer": "طَالِبَتَانِ"
+					}
+				]
+			},
+			{
+				"titleAr": "الْقَوَاعِد — اسْمُ الْإِشَارَةِ: اسْتَخْدِمْ (هَذَانِ / هَاتَانِ)",
+				"titleUz": "Grammatika — ko'rsatish olmoshi: هَذَانِ yoki هَاتَانِ?",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": ".......... طَالِبَانِ. (erkak)",
+						"uz": "... ikki talaba (erkak).",
+						"choices": ["هَذَانِ", "هَاتَانِ"],
+						"answer": "هَذَانِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... جَدَّتَانِ. (ayol)",
+						"uz": "... ikki buvi.",
+						"choices": ["هَذَانِ", "هَاتَانِ"],
+						"answer": "هَاتَانِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مُهَنْدِسَانِ. (erkak)",
+						"uz": "... ikki muhandis (erkak).",
+						"choices": ["هَذَانِ", "هَاتَانِ"],
+						"answer": "هَذَانِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مُمَرِّضَتَانِ. (ayol)",
+						"uz": "... ikki hamshira.",
+						"choices": ["هَذَانِ", "هَاتَانِ"],
+						"answer": "هَاتَانِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... طِفْلَانِ. (erkak)",
+						"uz": "... ikki bola (erkak).",
+						"choices": ["هَذَانِ", "هَاتَانِ"],
+						"answer": "هَذَانِ"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مُعَلِّمَتَانِ. (ayol)",
+						"uz": "... ikki o'qituvchi (ayol).",
+						"choices": ["هَذَانِ", "هَاتَانِ"],
+						"answer": "هَاتَانِ"
+					}
+				]
+			},
+			{
+				"titleAr": "الْقَوَاعِد — ضَمَائِرُ الْمُثَنَّى: اخْتَرِ الضَّمِيرَ الصَّحِيح",
+				"titleUz": "Grammatika — juft son olmoshlari: to'g'ri olmoshni tanlang",
+				"items": [
+					{
+						"type": "multiple-choice",
+						"ar": ".......... أَخَوَانِ سَعِيدَانِ.",
+						"uz": "... baxtli ikki aka-uka.",
+						"choices": ["هُمَا", "هُوَ", "هِيَ"],
+						"answer": "هُمَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... جَدَّانِ كَبِيرَانِ.",
+						"uz": "... ikki keksa bobo.",
+						"choices": ["هُوَ", "أَنَا", "هُمَا"],
+						"answer": "هُمَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... جَدَّتَانِ سَعِيدَتَانِ.",
+						"uz": "... baxtli ikki buvi.",
+						"choices": ["هِيَ", "هُمَا", "أَنَا"],
+						"answer": "هُمَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... عَائِلَتَانِ صَغِيرَتَانِ.",
+						"uz": "... ikki kichik oila.",
+						"choices": ["هُمَا", "أَنْتُمَا", "هُوَ"],
+						"answer": "هُمَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... طَالِبَانِ مُجْتَهِدَانِ.",
+						"uz": "... ikki tirishqoq talaba.",
+						"choices": ["هُوَ", "هُمَا", "أَنْتُمَا"],
+						"answer": "هُمَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... بِنْتَانِ ذَكِيَّتَانِ.",
+						"uz": "... ikki aqlli qiz.",
+						"choices": ["هِيَ", "نَحْنُ", "هُمَا"],
+						"answer": "هُمَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... طَبِيبَانِ مَاهِرَانِ.",
+						"uz": "... ikki mohir shifokor.",
+						"choices": ["هُوَ", "هُمَا", "أَنْتُمَا"],
+						"answer": "هُمَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... مُعَلِّمَتَانِ جَدِيدَتَانِ.",
+						"uz": "... ikki yangi o'qituvchi (ayol).",
+						"choices": ["هِيَ", "هُمَا", "هُوَ"],
+						"answer": "هُمَا"
+					},
+					{
+						"type": "multiple-choice",
+						"ar": ".......... طَالِبَتَانِ مُجْتَهِدَتَانِ. (siz ikkovingiz — murojaat)",
+						"uz": "... ikki tirishqoq talaba qizsizlar (sizga murojaat).",
+						"choices": ["هُمَا", "أَنْتُمَا", "نَحْنُ"],
+						"answer": "أَنْتُمَا"
+					}
+				]
+			},
+			{
+				"titleAr": "الْكِتَابَة — اقْرَأْ وَاكْتُبْ وَاحْفَظ",
+				"titleUz": "Yozish — o'qing, yozing va yodlang",
+				"items": [
+					{
+						"type": "writing",
+						"ar": "﴿إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ﴾ — الحجرات: ١٠",
+						"uz": "Ushbu oyatni o'qing va yozing. Ma'nosi: 'Moʻminlar faqat birodarlardir. Bas, ikki birodaringizning orasini isloh qilinglar.' — Hujurot: 10"
+					},
+					{
+						"type": "writing",
+						"ar": "قَالَ رَسُولُ اللهِ ﷺ: ﴿مَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الْآخِرِ فَلْيَصِلْ رَحِمَهُ﴾ (حَدِيثٌ شَرِيفٌ)",
+						"uz": "Hadisni o'qing va yozing. Ma'nosi: 'Allohga va oxirat kuniga iymon keltirgan kishi silag'rag'im qilsin.' (Hadisi sharif)"
+					}
+				]
+			}
+		]
+	},
+	{
+		"number": 3,
+		"titleAr": "الدِّرَاسَةُ وَالتَّعْلِيمُ",
+		"titleUz": "O'qish va ta'lim",
+		"words": [],
+		"comingSoon": true
+	},
+	{
+		"number": 4,
+		"titleAr": "الْمِهَنُ وَالْأَعْمَالُ",
+		"titleUz": "Kasblar va ishlar",
+		"words": [],
+		"comingSoon": true
+	},
+	{
+		"number": 5,
+		"titleAr": "السَّكَنُ وَالْأَثَاثُ",
+		"titleUz": "Uy va jihozlar",
+		"words": [],
+		"comingSoon": true
+	},
+	{
+		"number": 6,
+		"titleAr": "الْأَمَاكِنُ وَالْجَوُّ",
+		"titleUz": "Joylar va ob-havo",
+		"words": [],
+		"comingSoon": true
+	},
+	{
+		"number": 7,
+		"titleAr": "السَّفَرُ وَالْمُوَاصَلَاتُ",
+		"titleUz": "Sayohat va transport",
+		"words": [],
+		"comingSoon": true
+	},
+	{
+		"number": 8,
+		"titleAr": "الطَّعَامُ وَالْمَشْرُوبَاتُ",
+		"titleUz": "Taom va ichimliklar",
+		"words": [],
+		"comingSoon": true
+	},
+	{
+		"number": 9,
+		"titleAr": "التَّسَوُّقُ وَالشِّرَاءُ",
+		"titleUz": "Xarid va savdo",
+		"words": [],
+		"comingSoon": true
+	},
+	{
+		"number": 10,
+		"titleAr": "شَفَاكَ اللّٰهُ",
+		"titleUz": "Sog'liq va kasalxona",
+		"words": [],
+		"comingSoon": true
+	},
+	{
+		"number": 11,
+		"titleAr": "الْهِوَايَاتُ وَالرِّيَاضَةُ",
+		"titleUz": "Hobbi va sport",
+		"words": [],
+		"comingSoon": true
+	},
+	{
+		"number": 12,
+		"titleAr": "الْبَرْنَامَجُ الْيَوْمِيُّ",
+		"titleUz": "Kundalik dastur",
+		"words": [],
+		"comingSoon": true
+	}
+]

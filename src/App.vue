@@ -13,25 +13,15 @@ import LoadingScreen from '@/components/LoadingScreen.vue';
 import ErrorScreen from '@/components/ErrorScreen.vue';
 import BooksScreen from '@/components/BooksScreen.vue';
 import HomeScreen from '@/components/HomeScreen.vue';
+import LessonsScreen from '@/components/LessonsScreen.vue';
 import BrowseScreen from '@/components/BrowseScreen.vue';
 import BrowseLessonScreen from '@/components/BrowseLessonScreen.vue';
 import BrowseTextDialogScreen from '@/components/BrowseTextDialogScreen.vue';
 import BrowseGrammarScreen from '@/components/BrowseGrammarScreen.vue';
+import BrowseExerciseScreen from '@/components/BrowseExerciseScreen.vue';
 import SetupScreen from '@/components/SetupScreen.vue';
 import QuizScreen from '@/components/QuizScreen.vue';
 import EndScreen from '@/components/EndScreen.vue';
-
-// === Data layer ===
-const {
-	lessons,
-	allWords,
-	isLoading,
-	loadError,
-	currentVersion,
-	updateAvailable,
-	newVersionInfo,
-	applyUpdate,
-} = useVocab();
 
 // === Kitoblar ro'yxati ===
 const books = ref<Book[]>([]);
@@ -53,6 +43,18 @@ onMounted(async () => {
 	}
 });
 
+// === Data layer ===
+const {
+	lessons,
+	allWords,
+	isLoading,
+	loadError,
+	currentVersion,
+	updateAvailable,
+	newVersionInfo,
+	applyUpdate,
+} = useVocab(selectedBook);
+
 // === Persistent state ===
 const totalCorrect = useStorage<number>('almumtaz_total_correct', 0);
 const totalWrong = useStorage<number>('almumtaz_total_wrong', 0);
@@ -69,7 +71,7 @@ const routeParams = computed(() => router.current.value.params ?? {});
 const browseLessonNum = computed<number | null>(
 	() => (routeParams.value.lessonNum as number) ?? null,
 );
-const browseLessonMode = computed<'all' | 'textdialog' | 'grammar' | 'words'>(
+const browseLessonMode = computed<'all' | 'textdialog' | 'grammar' | 'words' | 'exercises'>(
 	() => (routeParams.value.mode as any) ?? 'all',
 );
 
@@ -93,8 +95,15 @@ watch(
 
 // === Navigation handlers ===
 function openBook(bookId: string) {
+	if (selectedBookId.value !== bookId) {
+		quiz.selectedLessons.value = [];
+	}
 	selectedBookId.value = bookId;
-	router.navigate('home');
+	router.navigate('lessons');
+}
+
+function openLessonDetail(n: number) {
+	router.navigate('browse-lesson', { lessonNum: n, mode: 'all' });
 }
 
 function backToBooks() {
@@ -102,7 +111,7 @@ function backToBooks() {
 }
 
 function goHome() {
-	router.navigate('home');
+	router.navigate('lessons');
 }
 
 function startQuizFlow() {
@@ -140,9 +149,13 @@ function goToBrowseGrammar() {
 	router.navigate('browse-grammar');
 }
 
+function goToBrowseExercises() {
+	router.navigate('browse-exercises');
+}
+
 function openBrowseLesson(
 	n: number,
-	mode: 'all' | 'textdialog' | 'grammar' | 'words' = 'all',
+	mode: 'all' | 'textdialog' | 'grammar' | 'words' | 'exercises' = 'all',
 ) {
 	router.navigate('browse-lesson', { lessonNum: n, mode });
 }
@@ -212,6 +225,19 @@ function clearMistakes() {
 			:error="loadError"
 		/>
 
+		<LessonsScreen
+			v-else-if="screen === 'lessons'"
+			:lessons="lessons"
+			:mistakes="mistakes"
+			:book-title="selectedBook?.titleUz"
+			@back-to-books="backToBooks"
+			@open-lesson="openLessonDetail"
+			@start-quiz="startQuizFlow"
+			@practice-mistakes="startMistakesPractice"
+			@clear-mistakes="clearMistakes"
+			@reset-stats="resetStats"
+		/>
+
 		<HomeScreen
 			v-else-if="screen === 'home'"
 			:mistakes="mistakes"
@@ -221,6 +247,7 @@ function clearMistakes() {
 			@browse="goToBrowse"
 			@browse-text-dialog="goToBrowseTextDialog"
 			@browse-grammar="goToBrowseGrammar"
+			@browse-exercises="goToBrowseExercises"
 			@practice-mistakes="startMistakesPractice"
 			@clear-mistakes="clearMistakes"
 			@reset-stats="resetStats"
@@ -245,6 +272,13 @@ function clearMistakes() {
 			:lessons="lessons"
 			@back="router.back()"
 			@open="n => openBrowseLesson(n, 'grammar')"
+		/>
+
+		<BrowseExerciseScreen
+			v-else-if="screen === 'browse-exercises'"
+			:lessons="lessons"
+			@back="router.back()"
+			@open="n => openBrowseLesson(n, 'exercises')"
 		/>
 
 		<BrowseLessonScreen

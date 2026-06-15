@@ -65,6 +65,11 @@ function speakerClass(speaker: string): string {
 	}
 	return speakerColors.get(speaker)!;
 }
+
+function gdPreviewUrl(url: string): string | null {
+	const match = url.match(/\/d\/([a-zA-Z0-9_-]+)/);
+	return match ? `https://drive.google.com/file/d/${match[1]}/preview` : null;
+}
 </script>
 
 <template>
@@ -105,7 +110,7 @@ function speakerClass(speaker: string): string {
 
 			<button
 				:class="[
-					'flex-shrink-0 flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition',
+					'shrink-0 flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition',
 					speaking
 						? 'bg-red-50 text-red-700 hover:bg-red-100'
 						: 'bg-emerald-50 text-emerald-700 hover:bg-emerald-100',
@@ -115,6 +120,19 @@ function speakerClass(speaker: string): string {
 				<span v-if="speaking">⏸ To'xtatish</span>
 				<span v-else>▶ Eshitish</span>
 			</button>
+		</div>
+
+		<!-- Google Drive audio player -->
+		<div v-if="activeDialogue.audioUrl" class="mb-4">
+			<iframe
+				:src="gdPreviewUrl(activeDialogue.audioUrl) ?? activeDialogue.audioUrl"
+				:title="`${activeDialogue.title} audio`"
+				width="100%"
+				height="80"
+				frameborder="0"
+				allow="autoplay"
+				class="rounded-xl border border-gray-200 w-full"
+			/>
 		</div>
 
 		<!-- Takrorlash hisoblagichi -->
@@ -148,7 +166,7 @@ function speakerClass(speaker: string): string {
 				]"
 			>
 				<div class="p-3 sm:p-4 flex gap-3">
-					<div class="flex-shrink-0 pt-0.5">
+					<div class="shrink-0 pt-0.5">
 						<span
 							:class="[
 								'inline-block px-2.5 py-1 rounded-md text-xs font-bold whitespace-nowrap',
@@ -175,7 +193,7 @@ function speakerClass(speaker: string): string {
 
 					<button
 						:class="[
-							'flex-shrink-0 self-start w-9 h-9 rounded-full flex items-center justify-center transition',
+							'shrink-0 self-start w-9 h-9 rounded-full flex items-center justify-center transition',
 							playingLine === i
 								? 'bg-emerald-600 text-white'
 								: 'bg-gray-100 text-gray-600 hover:bg-emerald-100 hover:text-emerald-700',
