@@ -18,6 +18,7 @@ export interface Dialogue {
 	titleUz?: string;
 	intro?: string;
 	introUz?: string;
+	audioUrl?: string;
 	lines: DialogueLine[];
 }
 
@@ -59,10 +60,63 @@ export interface Lesson {
 	titleUz: string;
 	words: Word[];
 	dialogues?: Dialogue[];
-	texts?: LessonText[]; // YANGI
+	texts?: LessonText[];
 	grammar?: GrammarNote[];
-	comprehensionQuiz?: ComprehensionQuestion[]; // YANGI
-	comingSoon?: boolean; // YANGI: dars hali qo'shilmagan
+	comprehensionQuiz?: ComprehensionQuestion[];
+	exercises?: ExerciseSection[];
+	comingSoon?: boolean;
+}
+
+// === Exercises ===
+export interface ExerciseMultipleChoice {
+	type: 'multiple-choice';
+	ar: string;
+	uz?: string;
+	choices: string[];
+	answer: string;
+}
+
+export interface ExerciseFillBlank {
+	type: 'fill-blank';
+	ar: string;
+	uz?: string;
+	wordBank?: string[];
+	answer: string;
+}
+
+export interface ExerciseTrueFalse {
+	type: 'true-false';
+	ar: string;
+	uz?: string;
+	isTrue: boolean;
+}
+
+export interface ExerciseWriting {
+	type: 'writing';
+	ar: string;
+	uz?: string;
+}
+
+export interface ExerciseMatching {
+	type: 'matching';
+	ar: string;
+	uz?: string;
+	pairs: Array<{ left: string; right: string }>;
+}
+
+export type ExerciseItem =
+	| ExerciseMultipleChoice
+	| ExerciseFillBlank
+	| ExerciseTrueFalse
+	| ExerciseWriting
+	| ExerciseMatching;
+
+export interface ExerciseSection {
+	titleAr: string;
+	titleUz?: string;
+	audioRequired?: boolean;
+	audioUrl?: string;
+	items: ExerciseItem[];
 }
 
 // === Book ===
@@ -75,6 +129,8 @@ export interface Book {
   lessonsCount: number;
   description: string;
   available: boolean;
+  lessonsFile: string;
+  versionFile: string;
 }
 
 // === Version / update banner ===
@@ -116,10 +172,12 @@ export interface MistakeEntry {
 export type Screen =
 	| 'books'
 	| 'home'
-	| 'browse' // lug'at darslar ro'yxati
-	| 'browse-lesson' // dars ichidagi tablar
-	| 'browse-textdialog' // YANGI: matn/dialog darslar ro'yxati
-	| 'browse-grammar' // YANGI: qoidalar darslar ro'yxati
+	| 'lessons'
+	| 'browse'
+	| 'browse-lesson'
+	| 'browse-textdialog'
+	| 'browse-grammar'
+	| 'browse-exercises'
 	| 'setup'
 	| 'quiz'
 	| 'end';

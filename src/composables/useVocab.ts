@@ -1,15 +1,17 @@
-import { ref, computed, onMounted, onUnmounted } from 'vue'
-import type { Lesson, VersionInfo, WordWithMeta } from '@/types/vocab'
+import { ref, computed, watch, onUnmounted } from 'vue'
+import type { ComputedRef } from 'vue'
+import type { Lesson, VersionInfo, WordWithMeta, Book } from '@/types/vocab'
 
-const CACHE_KEY = 'almumtaz_vocab_cache'
-const VERSION_KEY = 'almumtaz_version'
-const UPDATE_CHECK_INTERVAL = 5 * 60 * 1000 // 5 daqiqa
+const UPDATE_CHECK_INTERVAL = 5 * 60 * 1000
 
-/**
- * Loads vocab data from /lessons.json with localStorage caching.
- * Periodically checks /version.json for updates.
- */
-export function useVocab() {
+function cacheKey(bookId: string) {
+  return `vocab_cache_${bookId}`
+}
+function versionKey(bookId: string) {
+  return `vocab_version_${bookId}`
+}
+
+export function useVocab(selectedBook: ComputedRef<Book | null>) {
   const lessons = ref<Lesson[]>([])
   const isLoading = ref(true)
   const loadError = ref<string | null>(null)
@@ -34,21 +36,29 @@ export function useVocab() {
 
   const cacheBust = () => `?t=${Date.now()}`
 
-  const loadVocabData = async (): Promise<Lesson[]> => {
-    const resp = await fetch(`/lessons.json${cacheBust()}`)
-    if (!resp.ok) throw new Error(`lessons.json yuklanmadi (${resp.status})`)
+  const loadVocabData = async (lessonsFile: string): Promise<Lesson[]> => {
+    const resp = await fetch(`${lessonsFile}${cacheBust()}`)
+    if (!resp.ok) throw new Error(`${lessonsFile} yuklanmadi (${resp.status})`)
     return (await resp.json()) as Lesson[]
   }
 
-  const loadVersionInfo = async (): Promise<VersionInfo> => {
-    const resp = await fetch(`/version.json${cacheBust()}`)
-    if (!resp.ok) throw new Error(`version.json yuklanmadi (${resp.status})`)
+  const loadVersionInfo = async (versionFile: string): Promise<VersionInfo> => {
+    const resp = await fetch(`${versionFile}${cacheBust()}`)
+    if (!resp.ok) throw new Error(`${versionFile} yuklanmadi (${resp.status})`)
     return (await resp.json()) as VersionInfo
   }
 
-  const initialLoad = async () => {
+  const initialLoad = async (book: Book) => {
+    isLoading.value = true
+    loadError.value = null
+    updateAvailable.value = false
+    newVersionInfo.value = null
+    lessons.value = []
+
+    const CACHE_KEY = cacheKey(book.id)
+    const VERSION_KEY = versionKey(book.id)
+
     try {
-      // Avval cache'dan ko'rsatamiz (agar bor bo'lsa)
       const cached = localStorage.getItem(CACHE_KEY)
       const cachedVer = localStorage.getItem(VERSION_KEY)
       if (cached && cachedVer) {
@@ -57,23 +67,20 @@ export function useVocab() {
           currentVersion.value = cachedVer
           isLoading.value = false
         } catch {
-          // corrupted cache - ignore, fall through to fresh load
+          // corrupted cache — ignore
         }
       }
 
-      // Versiyani tekshiramiz
-      const verData = await loadVersionInfo()
+      const verData = await loadVersionInfo(book.versionFile)
 
       if (cachedVer && cachedVer !== verData.version) {
-        // Yangilanish bor - banner ko'rsatamiz, foydalanuvchi bossa yuklaymiz
         newVersionInfo.value = verData
         updateAvailable.value = true
         return
       }
 
-      // Birinchi marta yuklash
       if (!cached || !cachedVer) {
-        const data = await loadVocabData()
+        const data = await loadVocabData(book.lessonsFile)
         lessons.value = data
         localStorage.setItem(CACHE_KEY, JSON.stringify(data))
         localStorage.setItem(VERSION_KEY, verData.version)
@@ -83,21 +90,22 @@ export function useVocab() {
     } catch (err) {
       console.error('Vocab load error:', err)
       if (lessons.value.length === 0) {
-        loadError.value = err instanceof Error ? err.message : 'Noma\'lum xato'
+        loadError.value = err instanceof Error ? err.message : "Noma'lum xato"
         isLoading.value = false
       }
     }
   }
 
   const applyUpdate = async () => {
-    if (!newVersionInfo.value) return
+    const book = selectedBook.value
+    if (!newVersionInfo.value || !book) return
     try {
       isLoading.value = true
       updateAvailable.value = false
-      const data = await loadVocabData()
+      const data = await loadVocabData(book.lessonsFile)
       lessons.value = data
-      localStorage.setItem(CACHE_KEY, JSON.stringify(data))
-      localStorage.setItem(VERSION_KEY, newVersionInfo.value.version)
+      localStorage.setItem(cacheKey(book.id), JSON.stringify(data))
+      localStorage.setItem(versionKey(book.id), newVersionInfo.value.version)
       currentVersion.value = newVersionInfo.value.version
       newVersionInfo.value = null
       isLoading.value = false
@@ -108,14 +116,16 @@ export function useVocab() {
   }
 
   const checkForUpdates = async () => {
+    const book = selectedBook.value
+    if (!book) return
     try {
-      const verData = await loadVersionInfo()
+      const verData = await loadVersionInfo(book.versionFile)
       if (verData.version !== currentVersion.value && !updateAvailable.value) {
         newVersionInfo.value = verData
         updateAvailable.value = true
       }
     } catch {
-      // Network error - silently ignore
+      // silently ignore
     }
   }
 
@@ -124,11 +134,21 @@ export function useVocab() {
     if (!document.hidden) checkForUpdates()
   }
 
-  onMounted(() => {
-    initialLoad()
-    intervalId = setInterval(checkForUpdates, UPDATE_CHECK_INTERVAL)
-    document.addEventListener('visibilitychange', onVisibilityChange)
-  })
+  watch(
+    selectedBook,
+    (book) => {
+      if (intervalId) clearInterval(intervalId)
+      document.removeEventListener('visibilitychange', onVisibilityChange)
+      if (!book) {
+        isLoading.value = false
+        return
+      }
+      initialLoad(book)
+      intervalId = setInterval(checkForUpdates, UPDATE_CHECK_INTERVAL)
+      document.addEventListener('visibilitychange', onVisibilityChange)
+    },
+    { immediate: true },
+  )
 
   onUnmounted(() => {
     if (intervalId) clearInterval(intervalId)

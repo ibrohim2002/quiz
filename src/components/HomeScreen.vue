@@ -13,6 +13,7 @@ defineEmits<{
 	browse: [];
 	browseTextDialog: [];
 	browseGrammar: [];
+	browseExercises: [];
 	practiceMistakes: [];
 	clearMistakes: [];
 	resetStats: [];
@@ -48,11 +49,11 @@ const topMistakes = computed(() =>
 		<div class="mb-4 flex flex-col gap-3">
 			<!-- Quiz boshlash -->
 			<button
-				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-brand-500 bg-brand-500 p-[18px] text-left text-base text-white shadow-sm transition-transform active:scale-[0.98]"
+				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-brand-500 bg-brand-500 p-4.5 text-left text-base text-white shadow-sm transition-transform active:scale-[0.98]"
 				@click="$emit('startQuiz')"
 			>
 				<div
-					class="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-[10px] bg-white/20 text-[22px]"
+					class="flex h-11 w-11 shrink-0 items-center justify-center rounded-[10px] bg-white/20 text-[22px]"
 				>
 					🎯
 				</div>
@@ -66,11 +67,11 @@ const topMistakes = computed(() =>
 
 			<!-- Matn / Dialog -->
 			<button
-				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-[18px] text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
+				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-4.5 text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
 				@click="$emit('browseTextDialog')"
 			>
 				<div
-					class="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-[10px] bg-brand-50 text-[22px] dark:bg-brand-700/30"
+					class="flex h-11 w-11 shrink-0 items-center justify-center rounded-[10px] bg-brand-50 text-[22px] dark:bg-brand-700/30"
 				>
 					💬
 				</div>
@@ -84,11 +85,11 @@ const topMistakes = computed(() =>
 
 			<!-- Qoidalar -->
 			<button
-				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-[18px] text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
+				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-4.5 text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
 				@click="$emit('browseGrammar')"
 			>
 				<div
-					class="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-[10px] bg-amber-50 text-[22px] dark:bg-amber-700/30"
+					class="flex h-11 w-11 shrink-0 items-center justify-center rounded-[10px] bg-amber-50 text-[22px] dark:bg-amber-700/30"
 				>
 					📚
 				</div>
@@ -100,13 +101,31 @@ const topMistakes = computed(() =>
 				</div>
 			</button>
 
+			<!-- Mashqlar -->
+			<button
+				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-4.5 text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
+				@click="$emit('browseExercises')"
+			>
+				<div
+					class="flex h-11 w-11 shrink-0 items-center justify-center rounded-[10px] bg-violet-50 text-[22px] dark:bg-violet-700/30"
+				>
+					✏️
+				</div>
+				<div class="flex-1">
+					<div class="text-base font-semibold">Mashqlar</div>
+					<div class="text-[13px] text-stone-500 dark:text-neutral-400">
+						Savol va topshiriqlar bilan mustahkamlash
+					</div>
+				</div>
+			</button>
+
 			<!-- Lug'at -->
 			<button
-				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-[18px] text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
+				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-4.5 text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
 				@click="$emit('browse')"
 			>
 				<div
-					class="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-[10px] bg-sky-50 text-[22px] dark:bg-sky-700/30"
+					class="flex h-11 w-11 shrink-0 items-center justify-center rounded-[10px] bg-sky-50 text-[22px] dark:bg-sky-700/30"
 				>
 					📖
 				</div>
@@ -121,11 +140,11 @@ const topMistakes = computed(() =>
 			<!-- Xatolar -->
 			<button
 				v-if="mistakesCount > 0"
-				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-[18px] text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
+				class="flex w-full cursor-pointer items-center gap-3.5 rounded-xl border border-stone-200 bg-white p-4.5 text-left text-base text-stone-900 shadow-sm transition-transform active:scale-[0.98] dark:border-neutral-800 dark:bg-neutral-800 dark:text-neutral-100"
 				@click="$emit('practiceMistakes')"
 			>
 				<div
-					class="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-[10px] bg-amber-500 text-[22px]"
+					class="flex h-11 w-11 shrink-0 items-center justify-center rounded-[10px] bg-amber-500 text-[22px]"
 				>
 					⚠️
 				</div>
