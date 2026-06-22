@@ -1137,49 +1137,264 @@
 		"titleAr": "الْأُسْرَةُ وَالْعَائِلَةُ",
 		"titleUz": "Oila va qarindoshlar",
 		"words": [
-			{"ar": "أُسْرَةٌ", "tr": "usrah", "uz": "Oila (yadro)", "ex": "أُسْرَتِي تَتَكَوَّنُ مِنْ سِتَّةِ أَفْرَادٍ"},
-			{"ar": "عَائِلَةٌ", "tr": "'aa'ilah", "uz": "Oila / qarindoshlar", "ex": "أَفْرَادُ الْعَائِلَةِ"},
-			{"ar": "أَفْرَادٌ", "tr": "afraad", "uz": "A'zolar / kishilar", "ex": "تَتَكَوَّنُ مِنْ خَمْسَةِ أَفْرَادٍ"},
-			{"ar": "جَدٌّ", "tr": "jadd", "uz": "Bobo", "ex": "جَدِّي عُمْرُهُ سَبْعُونَ عَامًا"},
-			{"ar": "جَدَّةٌ", "tr": "jaddah", "uz": "Buvi", "ex": "جَدَّتِي رَبَّةُ بَيْتٍ"},
-			{"ar": "أَبٌ", "tr": "ab", "uz": "Ota", "ex": "أَبِي يَعْمَلُ مُهَنْدِسًا"},
-			{"ar": "أُمٌّ", "tr": "umm", "uz": "Ona", "ex": "أُمِّي رَبَّةُ بَيْتٍ"},
-			{"ar": "أَخٌ", "tr": "akh", "uz": "Aka / uka", "ex": "أَخِي طَالِبٌ فِي الْمَدْرَسَةِ"},
-			{"ar": "أُخْتٌ", "tr": "ukht", "uz": "Opa / singil", "ex": "أُخْتِي تَدْرُسُ فِي الْجَامِعَةِ"},
-			{"ar": "عَمٌّ", "tr": "'amm", "uz": "Amaki (ota tomoni)", "ex": "عَمِّي يَعْمَلُ طَبِيبًا"},
-			{"ar": "عَمَّةٌ", "tr": "'ammah", "uz": "Amma (ota tomoni)", "ex": "عَمَّتِي مُمَرِّضَةٌ"},
-			{"ar": "خَالٌ", "tr": "khaal", "uz": "Tog'a (ona tomoni)", "ex": "خَالِي يَعْمَلُ إِمَامًا"},
-			{"ar": "خَالَةٌ", "tr": "khaalah", "uz": "Xola (ona tomoni)", "ex": "خَالَتِي تَعْمَلُ مُعَلِّمَةً"},
-			{"ar": "مُتَقَاعِدٌ", "tr": "mutaqaa'id", "uz": "Nafaqaxo'r / pensioner", "ex": "جَدِّي مُتَقَاعِدٌ"},
-			{"ar": "مُتَزَوِّجٌ", "tr": "mutazawwij", "uz": "Uylangan / turmush qurgan", "ex": "أَخِي الْكَبِيرُ مُتَزَوِّجٌ"},
-			{"ar": "أَعْزَبُ", "tr": "a'zabu", "uz": "Uylanmagan / bo'ydoq", "ex": "أَخِي الصَّغِيرُ لَا يَزَالُ أَعْزَبَ"},
-			{"ar": "تَوْءَمٌ", "tr": "taw'am", "uz": "Egizak", "ex": "عَمِّي هُوَ تَوْءَمُ أَبِي"},
-			{"ar": "ذَكِيٌّ", "tr": "dhakiyy", "uz": "Ziyrak / aqlli", "ex": "أَخِي ذَكِيٌّ وَمُجْتَهِدٌ"},
-			{"ar": "مُجْتَهِدٌ", "tr": "mujtahid", "uz": "Tirishqoq / g'ayratli", "ex": "هُوَ مُجْتَهِدٌ فِي الدِّرَاسَةِ"},
-			{"ar": "مَرِحٌ", "tr": "marih", "uz": "Xushchaqchaq / shod", "ex": "أُخْتِي مَرِحَةٌ وَمُبْتَسِمَةٌ"},
-			{"ar": "كَرِيمٌ", "tr": "kariim", "uz": "Saxiy", "ex": "أَبِي لَطِيفٌ وَكَرِيمٌ"},
-			{"ar": "لَطِيفٌ", "tr": "latiif", "uz": "Muloyim / yoqimli", "ex": "هُوَ لَطِيفٌ مَعَ الْجَمِيعِ"},
-			{"ar": "حَنُونٌ", "tr": "hanuun", "uz": "Mehribon / g'amxo'r", "ex": "أُمِّي جَمِيلَةٌ وَحَنُونَةٌ"},
-			{"ar": "مُبْتَسِمٌ", "tr": "mubtasim", "uz": "Jilmayuvchi", "ex": "هُوَ دَائِمًا مُبْتَسِمٌ"},
-			{"ar": "قَوِيٌّ", "tr": "qawiyy", "uz": "Kuchli", "ex": "أَخِي الْكَبِيرُ طَوِيلٌ وَقَوِيٌّ"},
-			{"ar": "سَمِينٌ", "tr": "samiin", "uz": "Semiz / to'liq", "ex": "الطِّفْلُ سَمِينٌ وَمُبْتَسِمٌ"},
-			{"ar": "شُرْطِيٌّ", "tr": "shurtiyy", "uz": "Politsiyachi", "ex": "يَعْمَلُ أَبُوهُ شُرْطِيًّا"},
-			{"ar": "مُمَرِّضَةٌ", "tr": "mumarridah", "uz": "Hamshira (ayol)", "ex": "عَمَّتِي مُمَرِّضَةٌ فِي الْمُسْتَشْفَى"},
-			{"ar": "طَبَّاخٌ", "tr": "tabbakh", "uz": "Oshpaz / pazanda", "ex": "يَعْمَلُ طَبَّاخًا فِي الْمَطْعَمِ"},
-			{"ar": "تَاجِرٌ", "tr": "taajiir", "uz": "Savdogar / tojir", "ex": "أَبِي يَعْمَلُ تَاجِرًا"},
-			{"ar": "مُهَنْدِسٌ", "tr": "muhandis", "uz": "Muhandis", "ex": "أَبِي يَعْمَلُ مُهَنْدِسًا"},
-			{"ar": "إِمَامٌ", "tr": "imaam", "uz": "Imom", "ex": "خَالِي يَعْمَلُ إِمَامًا فِي الْمَسْجِدِ"},
-			{"ar": "رَبَّةُ بَيْتٍ", "tr": "rabbatu bayt", "uz": "Uy bekasi / xonadon bekasi", "ex": "أُمِّي رَبَّةُ بَيْتٍ"},
-			{"ar": "يَعْمَلُ", "tr": "ya'malu", "uz": "U ishlaydi (erkak)", "ex": "أَبِي يَعْمَلُ مُهَنْدِسًا"},
-			{"ar": "يَدْرُسُ", "tr": "yadrusu", "uz": "U o'qiydi", "ex": "أَخِي يَدْرُسُ فِي الْمَدْرَسَةِ"},
-			{"ar": "يُشْبِهُ", "tr": "yushbihu", "uz": "U o'xshaydi", "ex": "يُشْبِهُ أَبَاهُ كَثِيرًا"},
-			{"ar": "تَتَكَوَّنُ مِنْ", "tr": "tatakawwanu min", "uz": "...dan iborat / tashkil topadi", "ex": "أُسْرَتِي تَتَكَوَّنُ مِنْ خَمْسَةِ أَفْرَادٍ"},
-			{"ar": "زِيَارَةٌ", "tr": "ziyaarah", "uz": "Tashrif / ziyorat", "ex": "نَذْهَبُ لِزِيَارَةِ الْعَائِلَةِ كُلَّ أُسْبُوعٍ"},
-			{"ar": "كُلَّ أُسْبُوعٍ", "tr": "kulla usbuu'", "uz": "Har hafta", "ex": "يَزُورُ الْعَائِلَةَ كُلَّ أُسْبُوعٍ"},
-			{"ar": "بَارَكَ اللهُ فِيكَ", "tr": "baaraka llaahu fiik", "uz": "Alloh senga baraka bersin", "ex": "بَارَكَ اللهُ فِيكَ يَا مُحَمَّد"},
-			{"ar": "الأَوْسَطُ", "tr": "al-awsat", "uz": "O'rtancha", "ex": "أَخِي الأَوْسَطُ مَرِحٌ"},
-			{"ar": "أَقَارِبُ", "tr": "aqaarib", "uz": "Qarindoshlar", "ex": "أُحِبُّ أَقَارِبِي كَثِيرًا"},
-			{"ar": "أُحِبُّ", "tr": "uhibbu", "uz": "Men sevaman", "ex": "أُحِبُّ أُسْرَتِي كَثِيرًا"}
+			{
+				"ar": "أُسْرَةٌ",
+				"tr": "usrah",
+				"uz": "Oila (yadro)",
+				"ex": "أُسْرَتِي تَتَكَوَّنُ مِنْ سِتَّةِ أَفْرَادٍ"
+			},
+			{
+				"ar": "عَائِلَةٌ",
+				"tr": "'aa'ilah",
+				"uz": "Oila / qarindoshlar",
+				"ex": "أَفْرَادُ الْعَائِلَةِ"
+			},
+			{
+				"ar": "أَفْرَادٌ",
+				"tr": "afraad",
+				"uz": "A'zolar / kishilar",
+				"ex": "تَتَكَوَّنُ مِنْ خَمْسَةِ أَفْرَادٍ"
+			},
+			{
+				"ar": "جَدٌّ",
+				"tr": "jadd",
+				"uz": "Bobo",
+				"ex": "جَدِّي عُمْرُهُ سَبْعُونَ عَامًا"
+			},
+			{
+				"ar": "جَدَّةٌ",
+				"tr": "jaddah",
+				"uz": "Buvi",
+				"ex": "جَدَّتِي رَبَّةُ بَيْتٍ"
+			},
+			{
+				"ar": "أَبٌ",
+				"tr": "ab",
+				"uz": "Ota",
+				"ex": "أَبِي يَعْمَلُ مُهَنْدِسًا"
+			},
+			{
+				"ar": "أُمٌّ",
+				"tr": "umm",
+				"uz": "Ona",
+				"ex": "أُمِّي رَبَّةُ بَيْتٍ"
+			},
+			{
+				"ar": "أَخٌ",
+				"tr": "akh",
+				"uz": "Aka / uka",
+				"ex": "أَخِي طَالِبٌ فِي الْمَدْرَسَةِ"
+			},
+			{
+				"ar": "أُخْتٌ",
+				"tr": "ukht",
+				"uz": "Opa / singil",
+				"ex": "أُخْتِي تَدْرُسُ فِي الْجَامِعَةِ"
+			},
+			{
+				"ar": "عَمٌّ",
+				"tr": "'amm",
+				"uz": "Amaki (ota tomoni)",
+				"ex": "عَمِّي يَعْمَلُ طَبِيبًا"
+			},
+			{
+				"ar": "عَمَّةٌ",
+				"tr": "'ammah",
+				"uz": "Amma (ota tomoni)",
+				"ex": "عَمَّتِي مُمَرِّضَةٌ"
+			},
+			{
+				"ar": "خَالٌ",
+				"tr": "khaal",
+				"uz": "Tog'a (ona tomoni)",
+				"ex": "خَالِي يَعْمَلُ إِمَامًا"
+			},
+			{
+				"ar": "خَالَةٌ",
+				"tr": "khaalah",
+				"uz": "Xola (ona tomoni)",
+				"ex": "خَالَتِي تَعْمَلُ مُعَلِّمَةً"
+			},
+			{
+				"ar": "مُتَقَاعِدٌ",
+				"tr": "mutaqaa'id",
+				"uz": "Nafaqaxo'r / pensioner",
+				"ex": "جَدِّي مُتَقَاعِدٌ"
+			},
+			{
+				"ar": "مُتَزَوِّجٌ",
+				"tr": "mutazawwij",
+				"uz": "Uylangan / turmush qurgan",
+				"ex": "أَخِي الْكَبِيرُ مُتَزَوِّجٌ"
+			},
+			{
+				"ar": "أَعْزَبُ",
+				"tr": "a'zabu",
+				"uz": "Uylanmagan / bo'ydoq",
+				"ex": "أَخِي الصَّغِيرُ لَا يَزَالُ أَعْزَبَ"
+			},
+			{
+				"ar": "تَوْءَمٌ",
+				"tr": "taw'am",
+				"uz": "Egizak",
+				"ex": "عَمِّي هُوَ تَوْءَمُ أَبِي"
+			},
+			{
+				"ar": "ذَكِيٌّ",
+				"tr": "dhakiyy",
+				"uz": "Ziyrak / aqlli",
+				"ex": "أَخِي ذَكِيٌّ وَمُجْتَهِدٌ"
+			},
+			{
+				"ar": "مُجْتَهِدٌ",
+				"tr": "mujtahid",
+				"uz": "Tirishqoq / g'ayratli",
+				"ex": "هُوَ مُجْتَهِدٌ فِي الدِّرَاسَةِ"
+			},
+			{
+				"ar": "مَرِحٌ",
+				"tr": "marih",
+				"uz": "Xushchaqchaq / shod",
+				"ex": "أُخْتِي مَرِحَةٌ وَمُبْتَسِمَةٌ"
+			},
+			{
+				"ar": "كَرِيمٌ",
+				"tr": "kariim",
+				"uz": "Saxiy",
+				"ex": "أَبِي لَطِيفٌ وَكَرِيمٌ"
+			},
+			{
+				"ar": "لَطِيفٌ",
+				"tr": "latiif",
+				"uz": "Muloyim / yoqimli",
+				"ex": "هُوَ لَطِيفٌ مَعَ الْجَمِيعِ"
+			},
+			{
+				"ar": "حَنُونٌ",
+				"tr": "hanuun",
+				"uz": "Mehribon / g'amxo'r",
+				"ex": "أُمِّي جَمِيلَةٌ وَحَنُونَةٌ"
+			},
+			{
+				"ar": "مُبْتَسِمٌ",
+				"tr": "mubtasim",
+				"uz": "Jilmayuvchi",
+				"ex": "هُوَ دَائِمًا مُبْتَسِمٌ"
+			},
+			{
+				"ar": "قَوِيٌّ",
+				"tr": "qawiyy",
+				"uz": "Kuchli",
+				"ex": "أَخِي الْكَبِيرُ طَوِيلٌ وَقَوِيٌّ"
+			},
+			{
+				"ar": "سَمِينٌ",
+				"tr": "samiin",
+				"uz": "Semiz / to'liq",
+				"ex": "الطِّفْلُ سَمِينٌ وَمُبْتَسِمٌ"
+			},
+			{
+				"ar": "شُرْطِيٌّ",
+				"tr": "shurtiyy",
+				"uz": "Politsiyachi",
+				"ex": "يَعْمَلُ أَبُوهُ شُرْطِيًّا"
+			},
+			{
+				"ar": "مُمَرِّضَةٌ",
+				"tr": "mumarridah",
+				"uz": "Hamshira (ayol)",
+				"ex": "عَمَّتِي مُمَرِّضَةٌ فِي الْمُسْتَشْفَى"
+			},
+			{
+				"ar": "طَبَّاخٌ",
+				"tr": "tabbakh",
+				"uz": "Oshpaz / pazanda",
+				"ex": "يَعْمَلُ طَبَّاخًا فِي الْمَطْعَمِ"
+			},
+			{
+				"ar": "تَاجِرٌ",
+				"tr": "taajiir",
+				"uz": "Savdogar / tojir",
+				"ex": "أَبِي يَعْمَلُ تَاجِرًا"
+			},
+			{
+				"ar": "مُهَنْدِسٌ",
+				"tr": "muhandis",
+				"uz": "Muhandis",
+				"ex": "أَبِي يَعْمَلُ مُهَنْدِسًا"
+			},
+			{
+				"ar": "إِمَامٌ",
+				"tr": "imaam",
+				"uz": "Imom",
+				"ex": "خَالِي يَعْمَلُ إِمَامًا فِي الْمَسْجِدِ"
+			},
+			{
+				"ar": "رَبَّةُ بَيْتٍ",
+				"tr": "rabbatu bayt",
+				"uz": "Uy bekasi / xonadon bekasi",
+				"ex": "أُمِّي رَبَّةُ بَيْتٍ"
+			},
+			{
+				"ar": "يَعْمَلُ",
+				"tr": "ya'malu",
+				"uz": "U ishlaydi (erkak)",
+				"ex": "أَبِي يَعْمَلُ مُهَنْدِسًا"
+			},
+			{
+				"ar": "يَدْرُسُ",
+				"tr": "yadrusu",
+				"uz": "U o'qiydi",
+				"ex": "أَخِي يَدْرُسُ فِي الْمَدْرَسَةِ"
+			},
+			{
+				"ar": "يُشْبِهُ",
+				"tr": "yushbihu",
+				"uz": "U o'xshaydi",
+				"ex": "يُشْبِهُ أَبَاهُ كَثِيرًا"
+			},
+			{
+				"ar": "تَتَكَوَّنُ مِنْ",
+				"tr": "tatakawwanu min",
+				"uz": "...dan iborat / tashkil topadi",
+				"ex": "أُسْرَتِي تَتَكَوَّنُ مِنْ خَمْسَةِ أَفْرَادٍ"
+			},
+			{
+				"ar": "زِيَارَةٌ",
+				"tr": "ziyaarah",
+				"uz": "Tashrif / ziyorat",
+				"ex": "نَذْهَبُ لِزِيَارَةِ الْعَائِلَةِ كُلَّ أُسْبُوعٍ"
+			},
+			{
+				"ar": "كُلَّ أُسْبُوعٍ",
+				"tr": "kulla usbuu'",
+				"uz": "Har hafta",
+				"ex": "يَزُورُ الْعَائِلَةَ كُلَّ أُسْبُوعٍ"
+			},
+			{
+				"ar": "بَارَكَ اللهُ فِيكَ",
+				"tr": "baaraka llaahu fiik",
+				"uz": "Alloh senga baraka bersin",
+				"ex": "بَارَكَ اللهُ فِيكَ يَا مُحَمَّد"
+			},
+			{
+				"ar": "الأَوْسَطُ",
+				"tr": "al-awsat",
+				"uz": "O'rtancha",
+				"ex": "أَخِي الأَوْسَطُ مَرِحٌ"
+			},
+			{
+				"ar": "أَقَارِبُ",
+				"tr": "aqaarib",
+				"uz": "Qarindoshlar",
+				"ex": "أُحِبُّ أَقَارِبِي كَثِيرًا"
+			},
+			{
+				"ar": "أُحِبُّ",
+				"tr": "uhibbu",
+				"uz": "Men sevaman",
+				"ex": "أُحِبُّ أُسْرَتِي كَثِيرًا"
+			}
 		],
 		"dialogues": [
 			{
@@ -1188,15 +1403,51 @@
 				"intro": "مُحَمَّدٌ يُرِي صَدِيقَهُ خَالِدًا صُورَةَ عَائِلَتِهِ.",
 				"introUz": "Muhammad do'sti Xolidga oilasining rasmini ko'rsatyapti.",
 				"lines": [
-					{"speaker": "خَالِد", "ar": "مَا شَاءَ اللهُ! هَلْ هَذِهِ صُورَةُ عَائِلَتِكَ؟", "uz": "Mashallah! Bu oilangning rasmimi?"},
-					{"speaker": "مُحَمَّد", "ar": "نَعَمْ، هَذَا جَدِّي عُمَرُ، عُمْرُهُ سَبْعُونَ عَامًا، هُوَ مُتَقَاعِدٌ، وَهَذِهِ جَدَّتِي فَاطِمَةُ، عُمْرُهَا سِتُّونَ عَامًا، وَهِيَ رَبَّةُ بَيْتٍ.", "uz": "Ha, bu bobom Umar, u 70 yoshda, nafaqada, bu esa buvim Fotima, u 60 yoshda va uy bekasi."},
-					{"speaker": "مُحَمَّد", "ar": "وَهَذَا خَالِي فَهْمِي، يَعْمَلُ إِمَامًا، وَهَذِهِ خَالَتِي أَمَلٌ، وَتَعْمَلُ مُعَلِّمَةً.", "uz": "Bu tog'am Fahmi, u imom bo'lib ishlaydi. Bu esa xolam Amal, u o'qituvchi."},
-					{"speaker": "مُحَمَّد", "ar": "وَهَذَا أَبِي حُسَيْنٌ، عُمْرُهُ خَمْسَةٌ وَثَلَاثُونَ عَامًا، وَيَعْمَلُ مُهَنْدِسًا، وَهَذِهِ أُمِّي، هِيَ رَبَّةُ بَيْتٍ.", "uz": "Bu otam Husayn, u 35 yoshda va muhandis bo'lib ishlaydi. Bu esa onam, u uy bekasi."},
-					{"speaker": "خَالِد", "ar": "مَنْ هَذَا؟ يُشْبِهُ أَبَاكَ كَثِيرًا.", "uz": "Bu kim? U otangga juda o'xshaydi."},
-					{"speaker": "مُحَمَّد", "ar": "هَذَا عَمِّي حَسَنٌ، هُوَ تَوْءَمُ أَبِي، يَعْمَلُ طَبِيبًا، وَهَذِهِ عَمَّتِي هُدَى، هِيَ مُمَرِّضَةٌ.", "uz": "Bu amakIm Hasan, u otamning egizagi, shifokor bo'lib ishlaydi. Bu esa ammam Hudo, u hamshira."},
-					{"speaker": "خَالِد", "ar": "مَنْ هَذَانِ الطِّفْلَانِ؟", "uz": "Bu ikki bola kim?"},
-					{"speaker": "مُحَمَّد", "ar": "هَذَا أَخِي مَحْمُودٌ، عُمْرُهُ عَشْرُ سَنَوَاتٍ، وَهَذِهِ أُخْتِي خَدِيجَةُ وَعُمْرُهَا ثَلَاثُ سَنَوَاتٍ.", "uz": "Bu ukam Mahmud, u 10 yoshda. Bu esa singilim Xadija, u 3 yoshda."},
-					{"speaker": "خَالِد", "ar": "بَارَكَ اللهُ فِي عَائِلَتِكَ.", "uz": "Alloh oilangga baraka bersin."}
+					{
+						"speaker": "خَالِد",
+						"ar": "مَا شَاءَ اللهُ! هَلْ هَذِهِ صُورَةُ عَائِلَتِكَ؟",
+						"uz": "Mashallah! Bu oilangning rasmimi?"
+					},
+					{
+						"speaker": "مُحَمَّد",
+						"ar": "نَعَمْ، هَذَا جَدِّي عُمَرُ، عُمْرُهُ سَبْعُونَ عَامًا، هُوَ مُتَقَاعِدٌ، وَهَذِهِ جَدَّتِي فَاطِمَةُ، عُمْرُهَا سِتُّونَ عَامًا، وَهِيَ رَبَّةُ بَيْتٍ.",
+						"uz": "Ha, bu bobom Umar, u 70 yoshda, nafaqada, bu esa buvim Fotima, u 60 yoshda va uy bekasi."
+					},
+					{
+						"speaker": "مُحَمَّد",
+						"ar": "وَهَذَا خَالِي فَهْمِي، يَعْمَلُ إِمَامًا، وَهَذِهِ خَالَتِي أَمَلٌ، وَتَعْمَلُ مُعَلِّمَةً.",
+						"uz": "Bu tog'am Fahmi, u imom bo'lib ishlaydi. Bu esa xolam Amal, u o'qituvchi."
+					},
+					{
+						"speaker": "مُحَمَّد",
+						"ar": "وَهَذَا أَبِي حُسَيْنٌ، عُمْرُهُ خَمْسَةٌ وَثَلَاثُونَ عَامًا، وَيَعْمَلُ مُهَنْدِسًا، وَهَذِهِ أُمِّي، هِيَ رَبَّةُ بَيْتٍ.",
+						"uz": "Bu otam Husayn, u 35 yoshda va muhandis bo'lib ishlaydi. Bu esa onam, u uy bekasi."
+					},
+					{
+						"speaker": "خَالِد",
+						"ar": "مَنْ هَذَا؟ يُشْبِهُ أَبَاكَ كَثِيرًا.",
+						"uz": "Bu kim? U otangga juda o'xshaydi."
+					},
+					{
+						"speaker": "مُحَمَّد",
+						"ar": "هَذَا عَمِّي حَسَنٌ، هُوَ تَوْءَمُ أَبِي، يَعْمَلُ طَبِيبًا، وَهَذِهِ عَمَّتِي هُدَى، هِيَ مُمَرِّضَةٌ.",
+						"uz": "Bu amakIm Hasan, u otamning egizagi, shifokor bo'lib ishlaydi. Bu esa ammam Huda, u hamshira."
+					},
+					{
+						"speaker": "خَالِد",
+						"ar": "مَنْ هَذَانِ الطِّفْلَانِ؟",
+						"uz": "Bu ikki bola kim?"
+					},
+					{
+						"speaker": "مُحَمَّد",
+						"ar": "هَذَا أَخِي مَحْمُودٌ، عُمْرُهُ عَشْرُ سَنَوَاتٍ، وَهَذِهِ أُخْتِي خَدِيجَةُ وَعُمْرُهَا ثَلَاثُ سَنَوَاتٍ.",
+						"uz": "Bu ukam Mahmud, u 10 yoshda. Bu esa singilim Xadija, u 3 yoshda."
+					},
+					{
+						"speaker": "خَالِد",
+						"ar": "بَارَكَ اللهُ فِي عَائِلَتِكَ.",
+						"uz": "Alloh oilangga baraka bersin."
+					}
 				]
 			}
 		],
@@ -1213,33 +1464,66 @@
 				"title": "الِاسْمُ الْمُثَنَّى — Juft son (ikkilik)",
 				"content": "Arabchada ikki narsani bildirish uchun ismga erkakda (انِ) — bosh kelishikda, (يْنِ) — boshqa kelishiklarda qo'shiladi. Ayol jinsda (ة) harfi (ت) ga aylanib so'ngra (انِ)/(يْنِ) qo'shiladi. Misol: طَالِبٌ → طَالِبَانِ, مَدْرَسَةٌ → مَدْرَسَتَانِ.",
 				"examples": [
-					{"ar": "جَدٌّ → جَدَّانِ / جَدَّيْنِ", "uz": "Bobo → ikki bobo"},
-					{"ar": "جَدَّةٌ → جَدَّتَانِ / جَدَّتَيْنِ", "uz": "Buvi → ikki buvi"},
-					{"ar": "عَمٌّ → عَمَّانِ / عَمَّيْنِ", "uz": "Amaki → ikki amaki"},
-					{"ar": "خَالَةٌ → خَالَتَانِ / خَالَتَيْنِ", "uz": "Xola → ikki xola"},
-					{"ar": "لِي أَخَوَانِ.", "uz": "Mening ikki akam bor."}
+					{ "ar": "جَدٌّ → جَدَّانِ / جَدَّيْنِ", "uz": "Bobo → ikki bobo" },
+					{
+						"ar": "جَدَّةٌ → جَدَّتَانِ / جَدَّتَيْنِ",
+						"uz": "Buvi → ikki buvi"
+					},
+					{ "ar": "عَمٌّ → عَمَّانِ / عَمَّيْنِ", "uz": "Amaki → ikki amaki" },
+					{
+						"ar": "خَالَةٌ → خَالَتَانِ / خَالَتَيْنِ",
+						"uz": "Xola → ikki xola"
+					},
+					{ "ar": "لِي أَخَوَانِ.", "uz": "Mening ikki akam bor." }
 				]
 			},
 			{
 				"title": "اسْمُ الْإِشَارَةِ لِلْمُثَنَّى — هَذَانِ / هَاتَانِ",
 				"content": "Juft erkak uchun هَذَانِ (bosh kelishik) / هَذَيْنِ (boshqa kelishiklar), juft ayol uchun هَاتَانِ / هَاتَيْنِ ishlatiladi.",
 				"examples": [
-					{"ar": "مَنْ هَذَانِ؟ — هَذَانِ طَالِبَانِ.", "uz": "Bu ikki kishi kim? — Bu ikki talaba (erkak)."},
-					{"ar": "مَنْ هَاتَانِ؟ — هَاتَانِ مُعَلِّمَتَانِ.", "uz": "Bu ikki kishi kim? — Bu ikki o'qituvchi (ayol)."},
-					{"ar": "مَا هَذَانِ؟ — هَذَانِ قَلَمَانِ.", "uz": "Bu ikki narsa nima? — Bu ikki qalam."},
-					{"ar": "مَا هَاتَانِ؟ — هَاتَانِ حَقِيبَتَانِ.", "uz": "Bu ikki narsa nima? — Bu ikki sumka."},
-					{"ar": "مَنْ هَذَانِ الطِّفْلَانِ؟", "uz": "Bu ikki bola kim?"}
+					{
+						"ar": "مَنْ هَذَانِ؟ — هَذَانِ طَالِبَانِ.",
+						"uz": "Bu ikki kishi kim? — Bu ikki talaba (erkak)."
+					},
+					{
+						"ar": "مَنْ هَاتَانِ؟ — هَاتَانِ مُعَلِّمَتَانِ.",
+						"uz": "Bu ikki kishi kim? — Bu ikki o'qituvchi (ayol)."
+					},
+					{
+						"ar": "مَا هَذَانِ؟ — هَذَانِ قَلَمَانِ.",
+						"uz": "Bu ikki narsa nima? — Bu ikki qalam."
+					},
+					{
+						"ar": "مَا هَاتَانِ؟ — هَاتَانِ حَقِيبَتَانِ.",
+						"uz": "Bu ikki narsa nima? — Bu ikki sumka."
+					},
+					{ "ar": "مَنْ هَذَانِ الطِّفْلَانِ؟", "uz": "Bu ikki bola kim?" }
 				]
 			},
 			{
 				"title": "ضَمَائِرُ الْمُثَنَّى — Juft son kishilik olmoshlari",
 				"content": "Arabchada juft son (ikkilik) uchun alohida olmoshlar bor: نَحْنُ (biz — ikkovimiz, mutakallim), أَنْتُمَا (siz ikkovingiz — mukhataab), هُمَا (u ikkovlari — g'oyib). Bu olmoshlar erkak va ayol uchun bir xil ishlatiladi.",
 				"examples": [
-					{"ar": "هُمَا أَخَوَانِ سَعِيدَانِ.", "uz": "Ular (ikkalasi) baxtli ikki aka-uka."},
-					{"ar": "أَنْتُمَا طَالِبَانِ مُجْتَهِدَانِ.", "uz": "Siz ikkovingiz tirishqoq ikkita talabasizlar."},
-					{"ar": "هُمَا جَدَّتَانِ سَعِيدَتَانِ.", "uz": "Ular (ikkalasi) baxtli ikki buvi."},
-					{"ar": "نَحْنُ مُعَلِّمَانِ.", "uz": "Biz ikkovimiz o'qituvchimiz."},
-					{"ar": "هُمَا طَبِيبَتَانِ مَاهِرَتَانِ.", "uz": "Ular ikki mohir hamshira (ayol)."}
+					{
+						"ar": "هُمَا أَخَوَانِ سَعِيدَانِ.",
+						"uz": "Ular (ikkalasi) baxtli ikki aka-uka."
+					},
+					{
+						"ar": "أَنْتُمَا طَالِبَانِ مُجْتَهِدَانِ.",
+						"uz": "Siz ikkovingiz tirishqoq ikkita talabasizlar."
+					},
+					{
+						"ar": "هُمَا جَدَّتَانِ سَعِيدَتَانِ.",
+						"uz": "Ular (ikkalasi) baxtli ikki buvi."
+					},
+					{
+						"ar": "نَحْنُ مُعَلِّمَانِ.",
+						"uz": "Biz ikkovimiz o'qituvchimiz."
+					},
+					{
+						"ar": "هُمَا طَبِيبَتَانِ مَاهِرَتَانِ.",
+						"uz": "Ular ikki mohir hamshira (ayol)."
+					}
 				]
 			}
 		],
@@ -1293,11 +1577,20 @@
 						"type": "matching",
 						"ar": "Chap tomondagi gap boshini o'ng tomondagi davomi bilan ulang",
 						"pairs": [
-							{"left": "أَبِي يَعْمَلُ", "right": "طَبِيبًا فِي الْمُسْتَشْفَى"},
-							{"left": "بَارَكَ اللهُ", "right": "فِيكَ"},
-							{"left": "أُمِّي لَا تَعْمَلُ، هِيَ", "right": "رَبَّةُ بَيْتٍ"},
-							{"left": "أَزُورُ عَائِلَتِي", "right": "كُلَّ أُسْبُوعٍ"},
-							{"left": "تَتَكَوَّنُ أُسْرَتِي", "right": "مِنْ خَمْسَةِ أَفْرَادٍ"}
+							{
+								"left": "أَبِي يَعْمَلُ",
+								"right": "طَبِيبًا فِي الْمُسْتَشْفَى"
+							},
+							{ "left": "بَارَكَ اللهُ", "right": "فِيكَ" },
+							{
+								"left": "أُمِّي لَا تَعْمَلُ، هِيَ",
+								"right": "رَبَّةُ بَيْتٍ"
+							},
+							{ "left": "أَزُورُ عَائِلَتِي", "right": "كُلَّ أُسْبُوعٍ" },
+							{
+								"left": "تَتَكَوَّنُ أُسْرَتِي",
+								"right": "مِنْ خَمْسَةِ أَفْرَادٍ"
+							}
 						]
 					}
 				]
@@ -1316,7 +1609,7 @@
 					{
 						"type": "multiple-choice",
 						"ar": "٢. تَعْمَلُ هُدَى فِي ..........",
-						"uz": "2. Hudo ... da ishlaydi.",
+						"uz": "2. Huda ... da ishlaydi.",
 						"choices": ["الْمُسْتَشْفَى", "الشَّرِكَة", "الْمَدْرَسَة"],
 						"answer": "الْمُسْتَشْفَى"
 					},
@@ -1387,11 +1680,26 @@
 						"type": "matching",
 						"ar": "Savol bilan unga mos javobni ulang",
 						"pairs": [
-							{"left": "كَمْ عُمْرُكَ؟", "right": "عُمْرِي ثَلَاثُونَ عَامًا"},
-							{"left": "مِنْ أَيْنَ أَنْتَ؟", "right": "أَنَا مِنْ إِسْبَانِيَا"},
-							{"left": "كَمْ فَرْدًا فِي أُسْرَتِكَ؟", "right": "فِي أُسْرَتِي خَمْسَةُ أَفْرَادٍ"},
-							{"left": "مَاذَا يَعْمَلُ أَبُوكَ؟", "right": "أَبِي يَعْمَلُ طَبِيبًا"},
-							{"left": "هَلْ لَكَ إِخْوَةٌ؟", "right": "نَعَمْ، لِي ثَلَاثَةُ إِخْوَةٍ"}
+							{
+								"left": "كَمْ عُمْرُكَ؟",
+								"right": "عُمْرِي ثَلَاثُونَ عَامًا"
+							},
+							{
+								"left": "مِنْ أَيْنَ أَنْتَ؟",
+								"right": "أَنَا مِنْ إِسْبَانِيَا"
+							},
+							{
+								"left": "كَمْ فَرْدًا فِي أُسْرَتِكَ؟",
+								"right": "فِي أُسْرَتِي خَمْسَةُ أَفْرَادٍ"
+							},
+							{
+								"left": "مَاذَا يَعْمَلُ أَبُوكَ؟",
+								"right": "أَبِي يَعْمَلُ طَبِيبًا"
+							},
+							{
+								"left": "هَلْ لَكَ إِخْوَةٌ؟",
+								"right": "نَعَمْ، لِي ثَلَاثَةُ إِخْوَةٍ"
+							}
 						]
 					}
 				]
@@ -1404,35 +1712,65 @@
 						"type": "fill-blank",
 						"ar": "أَبِي يَعْمَلُ ..........",
 						"uz": "Otam ... bo'lib ishlaydi.",
-						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"wordBank": [
+							"تَاجِرًا",
+							"أَفْرَادٌ",
+							"مُتَقَاعِدٌ",
+							"زِيَارَةٌ",
+							"مُجْتَهِدٌ"
+						],
 						"answer": "تَاجِرًا"
 					},
 					{
 						"type": "fill-blank",
 						"ar": "تَتَكَوَّنُ أُسْرَتِي مِنْ سِتَّةِ ..........",
 						"uz": "Oilam 6 ... dan iborat.",
-						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"wordBank": [
+							"تَاجِرًا",
+							"أَفْرَادٌ",
+							"مُتَقَاعِدٌ",
+							"زِيَارَةٌ",
+							"مُجْتَهِدٌ"
+						],
 						"answer": "أَفْرَادٌ"
 					},
 					{
 						"type": "fill-blank",
 						"ar": "جَدِّي لَا يَعْمَلُ، هُوَ ..........",
 						"uz": "Bobom ishlamaydi, u ...",
-						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"wordBank": [
+							"تَاجِرًا",
+							"أَفْرَادٌ",
+							"مُتَقَاعِدٌ",
+							"زِيَارَةٌ",
+							"مُجْتَهِدٌ"
+						],
 						"answer": "مُتَقَاعِدٌ"
 					},
 					{
 						"type": "fill-blank",
 						"ar": "نَذْهَبُ لِـ.......... الْعَائِلَةِ فِي الْعُطْلَةِ.",
 						"uz": "Biz ta'tilda oilani ... ga boramiz.",
-						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"wordBank": [
+							"تَاجِرًا",
+							"أَفْرَادٌ",
+							"مُتَقَاعِدٌ",
+							"زِيَارَةٌ",
+							"مُجْتَهِدٌ"
+						],
 						"answer": "زِيَارَةٌ"
 					},
 					{
 						"type": "fill-blank",
 						"ar": "أَخِي طَالِبٌ .......... يَدْرُسُ فِي الْجَامِعَةِ.",
 						"uz": "Akam ... talaba, universitetda o'qiydi.",
-						"wordBank": ["تَاجِرًا", "أَفْرَادٌ", "مُتَقَاعِدٌ", "زِيَارَةٌ", "مُجْتَهِدٌ"],
+						"wordBank": [
+							"تَاجِرًا",
+							"أَفْرَادٌ",
+							"مُتَقَاعِدٌ",
+							"زِيَارَةٌ",
+							"مُجْتَهِدٌ"
+						],
 						"answer": "مُجْتَهِدٌ"
 					}
 				]
@@ -1522,11 +1860,11 @@
 						"type": "matching",
 						"ar": "Chap tomondagi so'zni uning antonimi bilan ulang",
 						"pairs": [
-							{"left": "مَرِحٌ", "right": "حَزِينٌ"},
-							{"left": "طَوِيلٌ", "right": "قَصِيرٌ"},
-							{"left": "سَمِينٌ", "right": "نَحِيفٌ"},
-							{"left": "مُتَزَوِّجٌ", "right": "أَعْزَبُ"},
-							{"left": "مُجْتَهِدٌ", "right": "كَسْلَانٌ"}
+							{ "left": "مَرِحٌ", "right": "حَزِينٌ" },
+							{ "left": "طَوِيلٌ", "right": "قَصِيرٌ" },
+							{ "left": "سَمِينٌ", "right": "نَحِيفٌ" },
+							{ "left": "مُتَزَوِّجٌ", "right": "أَعْزَبُ" },
+							{ "left": "مُجْتَهِدٌ", "right": "كَسْلَانٌ" }
 						]
 					}
 				]
